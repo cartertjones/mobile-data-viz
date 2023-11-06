@@ -1,0 +1,237 @@
+Region,M49 code,Country,Retail estimate (kg/capita/year),Retail estimate (tonnes/year),Confidence in estimate
+Australia and New Zealand,36,Australia, 9 ,238247.67, High Confidence 
+Australia and New Zealand,554,New Zealand, 3 ,14923.27, High Confidence 
+Central Asia,398,Kazakhstan, 16 ,290148.14, Very Low Confidence 
+Central Asia,417,Kyrgyzstan, 16 ,100346.14, Very Low Confidence 
+Central Asia,762,Tajikistan, 16 ,145782.57, Very Low Confidence 
+Central Asia,795,Turkmenistan, 16 ,92935.80, Very Low Confidence 
+Central Asia,860,Uzbekistan, 16 ,515841.33, Very Low Confidence 
+Eastern Asia,156,China, 16 ,22424704.82, Very Low Confidence 
+Eastern Asia,344,"China, Hong Kong SAR", 13 ,95267.46, Low Confidence 
+Eastern Asia,446,"China, Macao SAR", 13 ,8204.36, Low Confidence 
+Eastern Asia,408,Dem. People's Rep. Korea, 16 ,401425.24, Very Low Confidence 
+Eastern Asia,392,Japan, 9 ,1095307.56, Medium Confidence 
+Eastern Asia,496,Mongolia, 16 ,50442.87, Very Low Confidence 
+Eastern Asia,410,Republic of Korea, 13 ,656263.17, Low Confidence 
+Eastern Europe,112,Belarus, 16 ,147837.70, Very Low Confidence 
+Eastern Europe,100,Bulgaria, 16 ,109483.16, Very Low Confidence 
+Eastern Europe,203,Czechia, 13 ,136942.65, Low Confidence 
+Eastern Europe,348,Hungary, 13 ,124073.69, Low Confidence 
+Eastern Europe,616,Poland, 13 ,485392.33, Low Confidence 
+Eastern Europe,498,Republic of Moldova, 16 ,63238.14, Very Low Confidence 
+Eastern Europe,642,Romania, 13 ,248085.88, Low Confidence 
+Eastern Europe,643,Russian Federation, 14 ,2001062.31, Medium Confidence 
+Eastern Europe,703,Slovakia, 13 ,69911.32, Low Confidence 
+Eastern Europe,804,Ukraine, 16 ,688069.96, Very Low Confidence 
+Latin America and the Caribbean,660,Anguilla, * ,*.00, No Estimate 
+Latin America and the Caribbean,28,Antigua and Barbuda, 13 ,1243.98, Low Confidence 
+Latin America and the Caribbean,32,Argentina, 16 ,700380.38, Very Low Confidence 
+Latin America and the Caribbean,533,Aruba, 13 ,1361.84, Low Confidence 
+Latin America and the Caribbean,44,Bahamas, 13 ,4990.01, Low Confidence 
+Latin America and the Caribbean,52,Barbados, 13 ,3676.85, Low Confidence 
+Latin America and the Caribbean,84,Belize, 16 ,6105.95, Very Low Confidence 
+Latin America and the Caribbean,68,Bolivia (Plurin. State of), 16 ,180067.52, Very Low Confidence 
+Latin America and the Caribbean,535,"Bonaire, St. Eustatius & Saba", * ,*.00, No Estimate 
+Latin America and the Caribbean,76,Brazil, 16 ,3300862.42, Very Low Confidence 
+Latin America and the Caribbean,92,British Virgin Islands, 13 ,384.34, Low Confidence 
+Latin America and the Caribbean,136,Cayman Islands, 13 ,831.45, Low Confidence 
+Latin America and the Caribbean,152,Chile, 13 ,242799.94, Low Confidence 
+Latin America and the Caribbean,170,Colombia, 16 ,787319.72, Very Low Confidence 
+Latin America and the Caribbean,188,Costa Rica, 16 ,78945.62, Very Low Confidence 
+Latin America and the Caribbean,192,Cuba, 16 ,177258.53, Very Low Confidence 
+Latin America and the Caribbean,531,Cura ao, 13 ,2093.37, Low Confidence 
+Latin America and the Caribbean,212,Dominica, 16 ,1122.97, Very Low Confidence 
+Latin America and the Caribbean,214,Dominican Republic, 16 ,167960.41, Very Low Confidence 
+Latin America and the Caribbean,218,Ecuador, 16 ,271728.64, Very Low Confidence 
+Latin America and the Caribbean,222,El Salvador, 16 ,100935.78, Very Low Confidence 
+Latin America and the Caribbean,238,Falkland Islands (Malvinas), * ,*.00, No Estimate 
+Latin America and the Caribbean,254,French Guiana, * ,*.00, No Estimate 
+Latin America and the Caribbean,308,Grenada, 16 ,1751.71, Very Low Confidence 
+Latin America and the Caribbean,312,Guadeloupe, * ,*.00, No Estimate 
+Latin America and the Caribbean,320,Guatemala, 16 ,274978.68, Very Low Confidence 
+Latin America and the Caribbean,328,Guyana, 16 ,12243.17, Very Low Confidence 
+Latin America and the Caribbean,332,Haiti, 16 ,176157.46, Very Low Confidence 
+Latin America and the Caribbean,340,Honduras, 16 ,152431.23, Very Low Confidence 
+Latin America and the Caribbean,388,Jamaica, 16 ,46112.09, Very Low Confidence 
+Latin America and the Caribbean,474,Martinique, * ,*.00, No Estimate 
+Latin America and the Caribbean,484,Mexico, 16 ,1995309.98, Very Low Confidence 
+Latin America and the Caribbean,500,Montserrat, * ,*.00, No Estimate 
+Latin America and the Caribbean,558,Nicaragua, 16 ,102373.12, Very Low Confidence 
+Latin America and the Caribbean,591,Panama, 13 ,54401.94, Low Confidence 
+Latin America and the Caribbean,600,Paraguay, 16 ,110179.15, Very Low Confidence 
+Latin America and the Caribbean,604,Peru, 16 ,508471.65, Very Low Confidence 
+Latin America and the Caribbean,630,Puerto Rico, 13 ,37580.70, Low Confidence 
+Latin America and the Caribbean,652,Saint Barth lemy, * ,*.00, No Estimate 
+Latin America and the Caribbean,659,Saint Kitts and Nevis, 13 ,676.44, Low Confidence 
+Latin America and the Caribbean,662,Saint Lucia, 16 ,2859.03, Very Low Confidence 
+Latin America and the Caribbean,663,Saint Martin (French part), 13 ,486.83, Low Confidence 
+Latin America and the Caribbean,670,Saint Vincent & Grenadines, 16 ,1729.81, Very Low Confidence 
+Latin America and the Caribbean,534,Sint Maarten (Dutch part), 13 ,543.20, Low Confidence 
+Latin America and the Caribbean,740,Suriname, 16 ,9093.23, Very Low Confidence 
+Latin America and the Caribbean,780,Trinidad and Tobago, 13 ,17871.78, Low Confidence 
+Latin America and the Caribbean,796,Turks and Caicos Islands, 13 ,489.39, Low Confidence 
+Latin America and the Caribbean,850,United States Virgin Islands, 13 ,1340.06, Low Confidence 
+Latin America and the Caribbean,858,Uruguay, 13 ,44348.91, Low Confidence 
+Latin America and the Caribbean,862,Venezuela (Boliv. Rep. of), 16 ,445993.63, Very Low Confidence 
+Melanesia,242,Fiji, 16 ,13919.80, Very Low Confidence 
+Melanesia,540,New Caledonia, 13 ,3623.04, Low Confidence 
+Melanesia,598,Papua New Guinea, 16 ,137260.21, Very Low Confidence 
+Melanesia,90,Solomon Islands, 16 ,10475.83, Very Low Confidence 
+Melanesia,548,Vanuatu, 16 ,4690.50, Very Low Confidence 
+Micronesia,316,Guam, 13 ,2143.33, Low Confidence 
+Micronesia,296,Kiribati, 16 ,1839.29, Very Low Confidence 
+Micronesia,584,Marshall Islands, 16 ,919.65, Very Low Confidence 
+Micronesia,583,Micronesia (Fed. States of), 16 ,1779.86, Very Low Confidence 
+Micronesia,520,Nauru, 13 ,138.36, Low Confidence 
+Micronesia,580,Northern Mariana Islands, 13 ,732.81, Low Confidence 
+Micronesia,585,Palau, 13 ,230.60, Low Confidence 
+Northern Africa,12,Algeria, 16 ,673360.33, Very Low Confidence 
+Northern Africa,818,Egypt, 16 ,1570092.83, Very Low Confidence 
+Northern Africa,434,Libya, 16 ,106001.65, Very Low Confidence 
+Northern Africa,504,Morocco, 16 ,570427.29, Very Low Confidence 
+Northern Africa,729,Sudan, 16 ,669608.23, Very Low Confidence 
+Northern Africa,788,Tunisia, 16 ,182907.78, Very Low Confidence 
+Northern Africa,732,Western Sahara, * ,*.00, No Estimate 
+Northern America,60,Bermuda, 13 ,800.71, Low Confidence 
+Northern America,124,Canada, 13 ,479283.90, Low Confidence 
+Northern America,304,Greenland, 13 ,726.40, Low Confidence 
+Northern America,666,Saint Pierre and Miquelon, * ,*.00, No Estimate 
+Northern America,840,United States of America, 16 ,5151313.19, High Confidence 
+Northern Europe,208,Denmark, 30 ,172002.62, High Confidence 
+Northern Europe,233,Estonia, 5 ,6242.79, Medium Confidence 
+Northern Europe,234,Faroe Islands, 13 ,623.91, Low Confidence 
+Northern Europe,246,Finland, 13 ,70874.73, Low Confidence 
+Northern Europe,352,Iceland, 13 ,4343.03, Low Confidence 
+Northern Europe,372,Ireland, 13 ,62551.22, Low Confidence 
+Northern Europe,833,Isle of Man, 13 ,1083.84, Low Confidence 
+Northern Europe,428,Latvia, 13 ,24427.32, Low Confidence 
+Northern Europe,440,Lithuania, 13 ,35354.09, Low Confidence 
+Northern Europe,578,Norway, 14 ,74087.70, Medium Confidence 
+Northern Europe,752,Sweden, 10 ,100364.00, High Confidence 
+Northern Europe,826,United Kingdom, 4 ,283626.84, High Confidence 
+Polynesia,16,American Samoa, 16 ,864.90, Very Low Confidence 
+Polynesia,184,Cook Islands, * ,*.00, No Estimate 
+Polynesia,258,French Polynesia, 13 ,3578.20, Low Confidence 
+Polynesia,570,Niue, * ,*.00, No Estimate 
+Polynesia,882,Samoa, 16 ,3082.69, Very Low Confidence 
+Polynesia,772,Tokelau, * ,*.00, No Estimate 
+Polynesia,776,Tonga, 16 ,1634.40, Very Low Confidence 
+Polynesia,798,Tuvalu, 16 ,181.43, Very Low Confidence 
+Polynesia,876,Wallis and Futuna Islands, * ,*.00, No Estimate 
+South-eastern Asia,96,Brunei Darussalam, 13 ,5551.14, Low Confidence 
+South-eastern Asia,116,Cambodia, 16 ,257852.63, Very Low Confidence 
+South-eastern Asia,360,Indonesia, 16 ,4232646.25, Very Low Confidence 
+South-eastern Asia,418,Lao People's Dem. Rep., 16 ,112132.62, Very Low Confidence 
+South-eastern Asia,458,Malaysia, 79 ,2518199.21, Medium Confidence 
+South-eastern Asia,104,Myanmar, 16 ,845282.41, Very Low Confidence 
+South-eastern Asia,608,Philippines, 16 ,1690968.34, Very Low Confidence 
+South-eastern Asia,702,Singapore, 13 ,74360.68, Low Confidence 
+South-eastern Asia,764,Thailand, 16 ,1088960.30, Very Low Confidence 
+South-eastern Asia,626,Timor-Leste, 16 ,20224.38, Very Low Confidence 
+South-eastern Asia,704,Viet Nam, 16 ,1508689.29, Very Low Confidence 
+Southern Asia,4,Afghanistan, 16 ,594982.45, Very Low Confidence 
+Southern Asia,50,Bangladesh, 16 ,2550079.84, Very Low Confidence 
+Southern Asia,64,Bhutan, 16 ,11935.06, Very Low Confidence 
+Southern Asia,356,India, 16 ,21371086.75, Very Low Confidence 
+Southern Asia,364,Iran (Islamic Republic of), 16 ,1296792.35, Very Low Confidence 
+Southern Asia,462,Maldives, 16 ,8304.96, Very Low Confidence 
+Southern Asia,524,Nepal, 16 ,447446.61, Very Low Confidence 
+Southern Asia,586,Pakistan, 16 ,3387130.80, Very Low Confidence 
+Southern Asia,144,Sri Lanka, 16 ,333507.54, Very Low Confidence 
+Southern Europe,8,Albania, 16 ,45057.93, Very Low Confidence 
+Southern Europe,20,Andorra, 13 ,987.75, Low Confidence 
+Southern Europe,70,Bosnia and Herzegovina, 16 ,51628.39, Very Low Confidence 
+Southern Europe,191,Croatia, 13 ,52914.55, Low Confidence 
+Southern Europe,292,Gibraltar, 13 ,431.74, Low Confidence 
+Southern Europe,300,Greece, 7 ,77331.53, Medium Confidence 
+Southern Europe,336,Holy See, * ,*.00, No Estimate 
+Southern Europe,380,Italy, 4 ,219551.83, High Confidence 
+Southern Europe,470,Malta, 13 ,5642.10, Low Confidence 
+Southern Europe,499,Montenegro, 16 ,9822.06, Very Low Confidence 
+Southern Europe,807,North Macedonia, 16 ,32586.42, Very Low Confidence 
+Southern Europe,620,Portugal, 13 ,131011.01, Low Confidence 
+Southern Europe,674,San Marino, 13 ,434.30, Low Confidence 
+Southern Europe,688,Serbia, 16 ,137199.21, Very Low Confidence 
+Southern Europe,705,Slovenia, 7 ,13910.18, Medium Confidence 
+Southern Europe,724,Spain, 13 ,598759.61, Low Confidence 
+Sub-Saharan Africa,24,Angola, 16 ,497754.97, Very Low Confidence 
+Sub-Saharan Africa,204,Benin, 16 ,184573.47, Very Low Confidence 
+Sub-Saharan Africa,72,Botswana, 16 ,36030.39, Very Low Confidence 
+Sub-Saharan Africa,854,Burkina Faso, 16 ,317831.34, Very Low Confidence 
+Sub-Saharan Africa,108,Burundi, 16 ,180341.22, Very Low Confidence 
+Sub-Saharan Africa,132,Cabo Verde, 16 ,8600.56, Very Low Confidence 
+Sub-Saharan Africa,120,Cameroon, 16 ,404712.81, Very Low Confidence 
+Sub-Saharan Africa,140,Central African Republic, 16 ,74216.01, Very Low Confidence 
+Sub-Saharan Africa,148,Chad, 16 ,249413.16, Very Low Confidence 
+Sub-Saharan Africa,174,Comoros, 16 ,13308.27, Very Low Confidence 
+Sub-Saharan Africa,178,Congo, 16 ,84152.25, Very Low Confidence 
+Sub-Saharan Africa,384,C te d Ivoire, 16 ,402211.94, Very Low Confidence 
+Sub-Saharan Africa,180,Dem. Rep. of the Congo, 16 ,1357424.82, Very Low Confidence 
+Sub-Saharan Africa,262,Djibouti, 16 ,15227.33, Very Low Confidence 
+Sub-Saharan Africa,226,Equatorial Guinea, 16 ,21208.15, Very Low Confidence 
+Sub-Saharan Africa,232,Eritrea, 16 ,54695.44, Very Low Confidence 
+Sub-Saharan Africa,748,Eswatini, 16 ,17956.55, Very Low Confidence 
+Sub-Saharan Africa,231,Ethiopia, 16 ,1752936.49, Very Low Confidence 
+Sub-Saharan Africa,266,Gabon, 16 ,33979.96, Very Low Confidence 
+Sub-Saharan Africa,270,Gambia, 16 ,36718.56, Very Low Confidence 
+Sub-Saharan Africa,288,Ghana, 16 ,475742.91, Very Low Confidence 
+Sub-Saharan Africa,324,Guinea, 16 ,199744.49, Very Low Confidence 
+Sub-Saharan Africa,624,Guinea-Bissau, 16 ,30043.32, Very Low Confidence 
+Sub-Saharan Africa,404,Kenya, 11 ,576410.51, Medium Confidence 
+Sub-Saharan Africa,426,Lesotho, 16 ,33240.18, Very Low Confidence 
+Sub-Saharan Africa,430,Liberia, 16 ,77222.06, Very Low Confidence 
+Sub-Saharan Africa,450,Madagascar, 16 ,421806.02, Very Low Confidence 
+Sub-Saharan Africa,454,Malawi, 16 ,291357.13, Very Low Confidence 
+Sub-Saharan Africa,466,Mali, 16 ,307455.61, Very Low Confidence 
+Sub-Saharan Africa,478,Mauritania, 16 ,70782.98, Very Low Confidence 
+Sub-Saharan Africa,480,Mauritius, 13 ,16266.52, Low Confidence 
+Sub-Saharan Africa,175,Mayotte, * ,*.00, No Estimate 
+Sub-Saharan Africa,508,Mozambique, 16 ,474931.18, Very Low Confidence 
+Sub-Saharan Africa,516,Namibia, 16 ,39014.55, Very Low Confidence 
+Sub-Saharan Africa,562,Niger, 16 ,364584.68, Very Low Confidence 
+Sub-Saharan Africa,566,Nigeria, 16 ,3143116.64, Very Low Confidence 
+Sub-Saharan Africa,638,R union, * ,*.00, No Estimate 
+Sub-Saharan Africa,646,Rwanda, 16 ,197489.17, Very Low Confidence 
+Sub-Saharan Africa,654,Saint Helena, * ,*.00, No Estimate 
+Sub-Saharan Africa,678,Sao Tome and Principe, 16 ,3364.21, Very Low Confidence 
+Sub-Saharan Africa,686,Senegal, 16 ,254879.42, Very Low Confidence 
+Sub-Saharan Africa,690,Seychelles, 13 ,1251.66, Low Confidence 
+Sub-Saharan Africa,694,Sierra Leone, 16 ,122200.23, Very Low Confidence 
+Sub-Saharan Africa,706,Somalia, 16 ,241530.49, Very Low Confidence 
+Sub-Saharan Africa,710,South Africa, 16 ,915865.20, Very Low Confidence 
+Sub-Saharan Africa,728,South Sudan, 16 ,173013.77, Very Low Confidence 
+Sub-Saharan Africa,768,Togo, 16 ,126410.58, Very Low Confidence 
+Sub-Saharan Africa,800,Uganda, 16 ,692386.66, Very Low Confidence 
+Sub-Saharan Africa,834,United Rep. of Tanzania, 16 ,907219.28, Very Low Confidence 
+Sub-Saharan Africa,894,Zambia, 16 ,279350.12, Very Low Confidence 
+Sub-Saharan Africa,716,Zimbabwe, 16 ,229058.97, Very Low Confidence 
+Western Asia,51,Armenia, 16 ,46259.10, Very Low Confidence 
+Western Asia,31,Azerbaijan, 16 ,157148.32, Very Low Confidence 
+Western Asia,48,Bahrain, 13 ,21025.92, Low Confidence 
+Western Asia,196,Cyprus, 13 ,15355.64, Low Confidence 
+Western Asia,268,Georgia, 16 ,62510.87, Very Low Confidence 
+Western Asia,368,Iraq, 16 ,614814.26, Very Low Confidence 
+Western Asia,376,Israel, 51 ,437996.93, Medium Confidence 
+Western Asia,400,Jordan, 16 ,157992.90, Very Low Confidence 
+Western Asia,414,Kuwait, 13 ,53898.46, Low Confidence 
+Western Asia,422,Lebanon, 16 ,107224.72, Very Low Confidence 
+Western Asia,512,Oman, 13 ,63736.26, Low Confidence 
+Western Asia,634,Qatar, 13 ,36282.91, Low Confidence 
+Western Asia,682,Saudi Arabia, 20 ,673501.73, High Confidence 
+Western Asia,275,State of Palestine, 16 ,77910.23, Very Low Confidence 
+Western Asia,760,Syrian Arab Republic, 16 ,266980.27, Very Low Confidence 
+Western Asia,792,Turkey, 16 ,1304858.02, Very Low Confidence 
+Western Asia,784,United Arab Emirates, 13 ,125172.90, Low Confidence 
+Western Asia,887,Yemen, 16 ,456098.78, Very Low Confidence 
+Western Europe,40,Austria, 9 ,77288.93, High Confidence 
+Western Europe,56,Belgium, 10 ,112100.17, Medium Confidence 
+Western Europe,250,France, 26 ,1667567.74, Medium Confidence 
+Western Europe,276,Germany, 6 ,498243.85, High Confidence 
+Western Europe,438,Liechtenstein, 13 ,486.83, Low Confidence 
+Western Europe,442,Luxembourg, 7 ,4433.04, Medium Confidence 
+Western Europe,492,Monaco, 13 ,499.64, Low Confidence 
+Western Europe,528,Netherlands, 11 ,188068.10, Medium Confidence 
+Western Europe,756,Switzerland, 13 ,110067.08, Low Confidence 
+,,, * ,*.00, No Estimate 
+,,, * ,*.00, No Estimate 
+Note: Territories with * have no estimates generated. These territories are included in the UNSD list of countries but are not included in the World Bank's income classification grouping.,,,,,
