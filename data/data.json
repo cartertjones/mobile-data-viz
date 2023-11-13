@@ -1,1 +1,2362 @@
-[{"Region":"Australia and New Zealand","Country":"Australia","Household estimate (kg\/capita\/year)":" 102 ","Household estimate (tonnes\/year)":"2563110.27","Food service estimate (kg\/capita\/year)":" 22 ","Food service estimate (tonnes\/year)":"546339.63","Retail estimate (kg\/capita\/year)":" 9 ","Retail service estimate (tonnes\/year)":"238247.67"},{"Region":"Australia and New Zealand","Country":"New Zealand","Household estimate (kg\/capita\/year)":" 61 ","Household estimate (tonnes\/year)":"291769.10","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"122305.87","Retail estimate (kg\/capita\/year)":" 3 ","Retail service estimate (tonnes\/year)":"14923.27"},{"Region":"Central Asia","Country":"Kazakhstan","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"1404584.36","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"512910.49","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"290148.14"},{"Region":"Central Asia","Country":"Kyrgyzstan","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"583950.71","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"177387.28","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"100346.14"},{"Region":"Central Asia","Country":"Tajikistan","Household estimate (kg\/capita\/year)":" 97 ","Household estimate (tonnes\/year)":"906208.60","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"257707.70","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"145782.57"},{"Region":"Central Asia","Country":"Turkmenistan","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"449894.93","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"164287.62","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"92935.80"},{"Region":"Central Asia","Country":"Uzbekistan","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"3001868.33","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"911880.50","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"515841.33"},{"Region":"Eastern Asia","Country":"China","Household estimate (kg\/capita\/year)":" 64 ","Household estimate (tonnes\/year)":"91646212.71","Food service estimate (kg\/capita\/year)":" 46 ","Food service estimate (tonnes\/year)":"65377740.84","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"22424704.82"},{"Region":"Eastern Asia","Country":"China, Hong Kong SAR","Household estimate (kg\/capita\/year)":" 71 ","Household estimate (tonnes\/year)":"530984.96","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"190146.74","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"95267.46"},{"Region":"Eastern Asia","Country":"China, Macao SAR","Household estimate (kg\/capita\/year)":" 71 ","Household estimate (tonnes\/year)":"45728.03","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"16375.30","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"8204.36"},{"Region":"Eastern Asia","Country":"Dem. People's Rep. Korea","Household estimate (kg\/capita\/year)":" 81 ","Household estimate (tonnes\/year)":"2070527.66","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"709621.01","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"401425.24"},{"Region":"Eastern Asia","Country":"Japan","Household estimate (kg\/capita\/year)":" 64 ","Household estimate (tonnes\/year)":"8159891.22","Food service estimate (kg\/capita\/year)":" 15 ","Food service estimate (tonnes\/year)":"1870735.47","Retail estimate (kg\/capita\/year)":" 9 ","Retail service estimate (tonnes\/year)":"1095307.56"},{"Region":"Eastern Asia","Country":"Mongolia","Household estimate (kg\/capita\/year)":" 78 ","Household estimate (tonnes\/year)":"250173.41","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"89170.57","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"50442.87"},{"Region":"Eastern Asia","Country":"Republic of Korea","Household estimate (kg\/capita\/year)":" 71 ","Household estimate (tonnes\/year)":"3657763.88","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1309852.33","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"656263.17"},{"Region":"Eastern Europe","Country":"Belarus","Household estimate (kg\/capita\/year)":" 68 ","Household estimate (tonnes\/year)":"646355.73","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"261340.66","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"147837.70"},{"Region":"Eastern Europe","Country":"Bulgaria","Household estimate (kg\/capita\/year)":" 68 ","Household estimate (tonnes\/year)":"478667.30","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"193539.29","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"109483.16"},{"Region":"Eastern Europe","Country":"Czechia","Household estimate (kg\/capita\/year)":" 70 ","Household estimate (tonnes\/year)":"746840.21","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"273327.31","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"136942.65"},{"Region":"Eastern Europe","Country":"Hungary","Household estimate (kg\/capita\/year)":" 94 ","Household estimate (tonnes\/year)":"908669.06","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"247641.83","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"124073.69"},{"Region":"Eastern Europe","Country":"Poland","Household estimate (kg\/capita\/year)":" 56 ","Household estimate (tonnes\/year)":"2119454.90","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"968806.88","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"485392.33"},{"Region":"Eastern Europe","Country":"Republic of Moldova","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"307418.55","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"111789.46","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"63238.14"},{"Region":"Eastern Europe","Country":"Romania","Household estimate (kg\/capita\/year)":" 70 ","Household estimate (tonnes\/year)":"1352978.89","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"495160.92","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"248085.88"},{"Region":"Eastern Europe","Country":"Russian Federation","Household estimate (kg\/capita\/year)":" 33 ","Household estimate (tonnes\/year)":"4868563.96","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"4033088.23","Retail estimate (kg\/capita\/year)":" 14 ","Retail service estimate (tonnes\/year)":"2001062.31"},{"Region":"Eastern Europe","Country":"Slovakia","Household estimate (kg\/capita\/year)":" 70 ","Household estimate (tonnes\/year)":"381273.35","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"139537.77","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"69911.32"},{"Region":"Eastern Europe","Country":"Ukraine","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"3344903.61","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1216338.33","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"688069.96"},{"Region":"Latin America and the Caribbean","Country":"Anguilla","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Latin America and the Caribbean","Country":"Antigua and Barbuda","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"7177.71","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"2482.89","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"1243.98"},{"Region":"Latin America and the Caribbean","Country":"Argentina","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"3243562.95","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1238100.13","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"700380.38"},{"Region":"Latin America and the Caribbean","Country":"Aruba","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"7857.78","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"2718.14","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"1361.84"},{"Region":"Latin America and the Caribbean","Country":"Bahamas","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"28792.14","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"9959.68","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"4990.01"},{"Region":"Latin America and the Caribbean","Country":"Barbados","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"21215.26","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"7338.71","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"3676.85"},{"Region":"Latin America and the Caribbean","Country":"Belize","Household estimate (kg\/capita\/year)":" 53 ","Household estimate (tonnes\/year)":"20563.89","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"10793.81","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"6105.95"},{"Region":"Latin America and the Caribbean","Country":"Bolivia (Plurin. State of)","Household estimate (kg\/capita\/year)":" 80 ","Household estimate (tonnes\/year)":"922011.57","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"318315.05","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"180067.52"},{"Region":"Latin America and the Caribbean","Country":"Bonaire, St. Eustatius & Saba","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Latin America and the Caribbean","Country":"Brazil","Household estimate (kg\/capita\/year)":" 60 ","Household estimate (tonnes\/year)":"12578308.31","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"5835112.31","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"3300862.42"},{"Region":"Latin America and the Caribbean","Country":"British Virgin Islands","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"2217.62","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"767.11","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"384.34"},{"Region":"Latin America and the Caribbean","Country":"Cayman Islands","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"4797.46","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1659.52","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"831.45"},{"Region":"Latin America and the Caribbean","Country":"Chile","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"1400946.43","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"484610.56","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"242799.94"},{"Region":"Latin America and the Caribbean","Country":"Colombia","Household estimate (kg\/capita\/year)":" 70 ","Household estimate (tonnes\/year)":"3545498.98","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1391787.48","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"787319.72"},{"Region":"Latin America and the Caribbean","Country":"Costa Rica","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"365608.58","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"139556.42","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"78945.62"},{"Region":"Latin America and the Caribbean","Country":"Cuba","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"820909.92","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"313349.45","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"177258.53"},{"Region":"Latin America and the Caribbean","Country":"Cura ao","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"12078.65","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"4178.21","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"2093.37"},{"Region":"Latin America and the Caribbean","Country":"Dominica","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"5200.63","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1985.13","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1122.97"},{"Region":"Latin America and the Caribbean","Country":"Dominican Republic","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"777849.00","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"296912.67","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"167960.41"},{"Region":"Latin America and the Caribbean","Country":"Ecuador","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"1258414.67","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"480349.35","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"271728.64"},{"Region":"Latin America and the Caribbean","Country":"El Salvador","Household estimate (kg\/capita\/year)":" 80 ","Household estimate (tonnes\/year)":"516828.12","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"178429.61","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"100935.78"},{"Region":"Latin America and the Caribbean","Country":"Falkland Islands (Malvinas)","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Latin America and the Caribbean","Country":"French Guiana","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Latin America and the Caribbean","Country":"Grenada","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"8112.40","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"3096.58","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1751.71"},{"Region":"Latin America and the Caribbean","Country":"Guadeloupe","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Latin America and the Caribbean","Country":"Guatemala","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"1273466.07","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"486094.62","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"274978.68"},{"Region":"Latin America and the Caribbean","Country":"Guyana","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"56699.90","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"21642.91","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"12243.17"},{"Region":"Latin America and the Caribbean","Country":"Haiti","Household estimate (kg\/capita\/year)":" 83 ","Household estimate (tonnes\/year)":"936940.44","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"311403.03","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"176157.46"},{"Region":"Latin America and the Caribbean","Country":"Honduras","Household estimate (kg\/capita\/year)":" 80 ","Household estimate (tonnes\/year)":"780503.68","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"269460.90","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"152431.23"},{"Region":"Latin America and the Caribbean","Country":"Jamaica","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"213551.75","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"81514.82","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"46112.09"},{"Region":"Latin America and the Caribbean","Country":"Martinique","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Latin America and the Caribbean","Country":"Mexico","Household estimate (kg\/capita\/year)":" 94 ","Household estimate (tonnes\/year)":"11979364.27","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"3527216.94","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1995309.98"},{"Region":"Latin America and the Caribbean","Country":"Montserrat","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Latin America and the Caribbean","Country":"Nicaragua","Household estimate (kg\/capita\/year)":" 80 ","Household estimate (tonnes\/year)":"524187.81","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"180970.47","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"102373.12"},{"Region":"Latin America and the Caribbean","Country":"Panama","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"313897.16","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"108582.22","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"54401.94"},{"Region":"Latin America and the Caribbean","Country":"Paraguay","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"510255.61","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"194769.63","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"110179.15"},{"Region":"Latin America and the Caribbean","Country":"Peru","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"2354805.83","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"898852.73","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"508471.65"},{"Region":"Latin America and the Caribbean","Country":"Puerto Rico","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"216839.19","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"75008.26","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"37580.70"},{"Region":"Latin America and the Caribbean","Country":"Saint Barth lemy","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Latin America and the Caribbean","Country":"Saint Kitts and Nevis","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"3903.02","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1350.12","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"676.44"},{"Region":"Latin America and the Caribbean","Country":"Saint Lucia","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"13240.60","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"5054.07","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"2859.03"},{"Region":"Latin America and the Caribbean","Country":"Saint Martin (French part)","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"2808.99","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"971.68","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"486.83"},{"Region":"Latin America and the Caribbean","Country":"Saint Vincent & Grenadines","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"8011.00","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"3057.88","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1729.81"},{"Region":"Latin America and the Caribbean","Country":"Sint Maarten (Dutch part)","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"3134.24","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1084.19","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"543.20"},{"Region":"Latin America and the Caribbean","Country":"Suriname","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"42112.06","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"16074.59","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"9093.23"},{"Region":"Latin America and the Caribbean","Country":"Trinidad and Tobago","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"103119.47","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"35670.73","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"17871.78"},{"Region":"Latin America and the Caribbean","Country":"Turks and Caicos Islands","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"2823.77","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"976.79","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"489.39"},{"Region":"Latin America and the Caribbean","Country":"United States Virgin Islands","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"7732.11","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"2674.67","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"1340.06"},{"Region":"Latin America and the Caribbean","Country":"Uruguay","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"255891.53","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"88517.12","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"44348.91"},{"Region":"Latin America and the Caribbean","Country":"Venezuela (Boliv. Rep. of)","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"2065461.07","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"788406.96","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"445993.63"},{"Region":"Melanesia","Country":"Fiji","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"67384.68","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"24606.79","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"13919.80"},{"Region":"Melanesia","Country":"New Caledonia","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"22253.63","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"7231.31","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"3623.04"},{"Region":"Melanesia","Country":"Papua New Guinea","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"798767.09","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"242642.27","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"137260.21"},{"Region":"Melanesia","Country":"Solomon Islands","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"60962.64","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"18518.68","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"10475.83"},{"Region":"Melanesia","Country":"Vanuatu","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"27295.75","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"8291.66","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"4690.50"},{"Region":"Micronesia","Country":"Guam","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"13164.89","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"4277.93","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"2143.33"},{"Region":"Micronesia","Country":"Kiribati","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"10703.50","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"3251.41","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1839.29"},{"Region":"Micronesia","Country":"Marshall Islands","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"4451.93","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1625.71","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"919.65"},{"Region":"Micronesia","Country":"Micronesia (Fed. States of)","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"10357.64","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"3146.35","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1779.86"},{"Region":"Micronesia","Country":"Nauru","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"849.86","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"276.16","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"138.36"},{"Region":"Micronesia","Country":"Northern Mariana Islands","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"4501.09","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1462.63","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"732.81"},{"Region":"Micronesia","Country":"Palau","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"1416.43","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"460.27","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"230.60"},{"Region":"Northern Africa","Country":"Algeria","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"3918528.68","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1190335.32","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"673360.33"},{"Region":"Northern Africa","Country":"Egypt","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"9136941.33","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"2775537.67","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1570092.83"},{"Region":"Northern Africa","Country":"Libya","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"513145.67","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"187384.83","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"106001.65"},{"Region":"Northern Africa","Country":"Morocco","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"3319523.90","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1008375.05","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"570427.29"},{"Region":"Northern Africa","Country":"Sudan","Household estimate (kg\/capita\/year)":" 97 ","Household estimate (tonnes\/year)":"4162395.67","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1183702.55","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"669608.23"},{"Region":"Northern Africa","Country":"Tunisia","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"1064406.92","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"323335.94","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"182907.78"},{"Region":"Northern Africa","Country":"Western Sahara","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Northern America","Country":"Bermuda","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"4605.55","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1598.15","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"800.71"},{"Region":"Northern America","Country":"Canada","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"2938320.60","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"956614.91","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"479283.90"},{"Region":"Northern America","Country":"Greenland","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"4178.16","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1449.84","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"726.40"},{"Region":"Northern America","Country":"Saint Pierre and Miquelon","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Northern America","Country":"United States of America","Household estimate (kg\/capita\/year)":" 59 ","Household estimate (tonnes\/year)":"19359951.34","Food service estimate (kg\/capita\/year)":" 64 ","Food service estimate (tonnes\/year)":"20934827.07","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"5151313.19"},{"Region":"Northern Europe","Country":"Denmark","Household estimate (kg\/capita\/year)":" 81 ","Household estimate (tonnes\/year)":"469448.99","Food service estimate (kg\/capita\/year)":" 21 ","Food service estimate (tonnes\/year)":"119134.27","Retail estimate (kg\/capita\/year)":" 30 ","Retail service estimate (tonnes\/year)":"172002.62"},{"Region":"Northern Europe","Country":"Estonia","Household estimate (kg\/capita\/year)":" 78 ","Household estimate (tonnes\/year)":"102743.50","Food service estimate (kg\/capita\/year)":" 17 ","Food service estimate (tonnes\/year)":"22012.57","Retail estimate (kg\/capita\/year)":" 5 ","Retail service estimate (tonnes\/year)":"6242.79"},{"Region":"Northern Europe","Country":"Faroe Islands","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"3710.23","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1245.28","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"623.91"},{"Region":"Northern Europe","Country":"Finland","Household estimate (kg\/capita\/year)":" 65 ","Household estimate (tonnes\/year)":"361936.93","Food service estimate (kg\/capita\/year)":" 23 ","Food service estimate (tonnes\/year)":"128927.40","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"70874.73"},{"Region":"Northern Europe","Country":"Iceland","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"25826.88","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"8668.37","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"4343.03"},{"Region":"Northern Europe","Country":"Ireland","Household estimate (kg\/capita\/year)":" 55 ","Household estimate (tonnes\/year)":"267072.75","Food service estimate (kg\/capita\/year)":" 56 ","Food service estimate (tonnes\/year)":"274134.93","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"62551.22"},{"Region":"Northern Europe","Country":"Isle of Man","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"6445.29","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"2163.26","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"1083.84"},{"Region":"Northern Europe","Country":"Latvia","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"145262.85","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"48755.12","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"24427.32"},{"Region":"Northern Europe","Country":"Lithuania","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"210241.45","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"70564.13","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"35354.09"},{"Region":"Northern Europe","Country":"Norway","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"423857.32","Food service estimate (kg\/capita\/year)":" 5 ","Food service estimate (tonnes\/year)":"26685.48","Retail estimate (kg\/capita\/year)":" 14 ","Retail service estimate (tonnes\/year)":"74087.70"},{"Region":"Northern Europe","Country":"Sweden","Household estimate (kg\/capita\/year)":" 81 ","Household estimate (tonnes\/year)":"812948.40","Food service estimate (kg\/capita\/year)":" 21 ","Food service estimate (tonnes\/year)":"205746.20","Retail estimate (kg\/capita\/year)":" 10 ","Retail service estimate (tonnes\/year)":"100364.00"},{"Region":"Northern Europe","Country":"United Kingdom","Household estimate (kg\/capita\/year)":" 77 ","Household estimate (tonnes\/year)":"5199825.40","Food service estimate (kg\/capita\/year)":" 17 ","Food service estimate (tonnes\/year)":"1114248.30","Retail estimate (kg\/capita\/year)":" 4 ","Retail service estimate (tonnes\/year)":"283626.84"},{"Region":"Polynesia","Country":"American Samoa","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"4186.94","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1528.94","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"864.90"},{"Region":"Polynesia","Country":"Cook Islands","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Polynesia","Country":"French Polynesia","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"21978.21","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"7141.82","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"3578.20"},{"Region":"Polynesia","Country":"Niue","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Polynesia","Country":"Samoa","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"14923.06","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"5449.44","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"3082.69"},{"Region":"Polynesia","Country":"Tokelau","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Polynesia","Country":"Tonga","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"7912.02","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"2889.22","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1634.40"},{"Region":"Polynesia","Country":"Tuvalu","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"878.27","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"320.72","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"181.43"},{"Region":"Polynesia","Country":"Wallis and Futuna Islands","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"South-eastern Asia","Country":"Brunei Darussalam","Household estimate (kg\/capita\/year)":" 80 ","Household estimate (tonnes\/year)":"34739.48","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"11079.66","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"5551.14"},{"Region":"South-eastern Asia","Country":"Cambodia","Household estimate (kg\/capita\/year)":" 86 ","Household estimate (tonnes\/year)":"1423397.04","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"455819.98","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"257852.63"},{"Region":"South-eastern Asia","Country":"Indonesia","Household estimate (kg\/capita\/year)":" 77 ","Household estimate (tonnes\/year)":"20938251.73","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"7482276.77","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"4232646.25"},{"Region":"South-eastern Asia","Country":"Lao People's Dem. Rep.","Household estimate (kg\/capita\/year)":" 86 ","Household estimate (tonnes\/year)":"618994.03","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"198222.87","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"112132.62"},{"Region":"South-eastern Asia","Country":"Malaysia","Household estimate (kg\/capita\/year)":" 91 ","Household estimate (tonnes\/year)":"2921576.53","Food service estimate (kg\/capita\/year)":" 90 ","Food service estimate (tonnes\/year)":"2861537.49","Retail estimate (kg\/capita\/year)":" 79 ","Retail service estimate (tonnes\/year)":"2518199.21"},{"Region":"South-eastern Asia","Country":"Myanmar","Household estimate (kg\/capita\/year)":" 86 ","Household estimate (tonnes\/year)":"4666124.55","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1494251.25","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"845282.41"},{"Region":"South-eastern Asia","Country":"Philippines","Household estimate (kg\/capita\/year)":" 86 ","Household estimate (tonnes\/year)":"9334476.59","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"2989215.82","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1690968.34"},{"Region":"South-eastern Asia","Country":"Singapore","Household estimate (kg\/capita\/year)":" 80 ","Household estimate (tonnes\/year)":"465355.13","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"148418.38","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"74360.68"},{"Region":"South-eastern Asia","Country":"Thailand","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"5478531.87","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1925013.78","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1088960.30"},{"Region":"South-eastern Asia","Country":"Timor-Leste","Household estimate (kg\/capita\/year)":" 86 ","Household estimate (tonnes\/year)":"111642.54","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"35751.73","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"20224.38"},{"Region":"South-eastern Asia","Country":"Viet Nam","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"7346716.81","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"2666991.33","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1508689.29"},{"Region":"Southern Asia","Country":"Afghanistan","Household estimate (kg\/capita\/year)":" 82 ","Household estimate (tonnes\/year)":"3109152.67","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1051782.52","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"594982.45"},{"Region":"Southern Asia","Country":"Bangladesh","Household estimate (kg\/capita\/year)":" 65 ","Household estimate (tonnes\/year)":"10618232.96","Food service estimate (kg\/capita\/year)":" 3 ","Food service estimate (tonnes\/year)":"544436.36","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"2550079.84"},{"Region":"Southern Asia","Country":"Bhutan","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"60000.16","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"21098.25","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"11935.06"},{"Region":"Southern Asia","Country":"India","Household estimate (kg\/capita\/year)":" 50 ","Household estimate (tonnes\/year)":"68760163.39","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"37778821.22","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"21371086.75"},{"Region":"Southern Asia","Country":"Iran (Islamic Republic of)","Household estimate (kg\/capita\/year)":" 71 ","Household estimate (tonnes\/year)":"5884842.11","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"2292409.69","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1296792.35"},{"Region":"Southern Asia","Country":"Maldives","Household estimate (kg\/capita\/year)":" 71 ","Household estimate (tonnes\/year)":"37687.90","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"14681.13","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"8304.96"},{"Region":"Southern Asia","Country":"Nepal","Household estimate (kg\/capita\/year)":" 79 ","Household estimate (tonnes\/year)":"2249412.50","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"790975.47","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"447446.61"},{"Region":"Southern Asia","Country":"Pakistan","Household estimate (kg\/capita\/year)":" 74 ","Household estimate (tonnes\/year)":"15947644.68","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"5987613.56","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"3387130.80"},{"Region":"Southern Asia","Country":"Sri Lanka","Household estimate (kg\/capita\/year)":" 76 ","Household estimate (tonnes\/year)":"1617737.69","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"589559.25","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"333507.54"},{"Region":"Southern Europe","Country":"Albania","Household estimate (kg\/capita\/year)":" 83 ","Household estimate (tonnes\/year)":"238491.77","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"79651.34","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"45057.93"},{"Region":"Southern Europe","Country":"Andorra","Household estimate (kg\/capita\/year)":" 84 ","Household estimate (tonnes\/year)":"6497.40","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1971.48","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"987.75"},{"Region":"Southern Europe","Country":"Bosnia and Herzegovina","Household estimate (kg\/capita\/year)":" 83 ","Household estimate (tonnes\/year)":"273269.24","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"91266.29","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"51628.39"},{"Region":"Southern Europe","Country":"Croatia","Household estimate (kg\/capita\/year)":" 84 ","Household estimate (tonnes\/year)":"348070.21","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"105613.50","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"52914.55"},{"Region":"Southern Europe","Country":"Gibraltar","Household estimate (kg\/capita\/year)":" 84 ","Household estimate (tonnes\/year)":"2839.98","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"861.72","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"431.74"},{"Region":"Southern Europe","Country":"Greece","Household estimate (kg\/capita\/year)":" 142 ","Household estimate (tonnes\/year)":"1483995.92","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"267811.77","Retail estimate (kg\/capita\/year)":" 7 ","Retail service estimate (tonnes\/year)":"77331.53"},{"Region":"Southern Europe","Country":"Holy See","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Southern Europe","Country":"Italy","Household estimate (kg\/capita\/year)":" 67 ","Household estimate (tonnes\/year)":"4059806.13","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1548291.37","Retail estimate (kg\/capita\/year)":" 4 ","Retail service estimate (tonnes\/year)":"219551.83"},{"Region":"Southern Europe","Country":"Malta","Household estimate (kg\/capita\/year)":" 129 ","Household estimate (tonnes\/year)":"56811.60","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"11261.21","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"5642.10"},{"Region":"Southern Europe","Country":"Montenegro","Household estimate (kg\/capita\/year)":" 83 ","Household estimate (tonnes\/year)":"51988.21","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"17362.99","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"9822.06"},{"Region":"Southern Europe","Country":"North Macedonia","Household estimate (kg\/capita\/year)":" 83 ","Household estimate (tonnes\/year)":"172479.99","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"57604.76","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"32586.42"},{"Region":"Southern Europe","Country":"Portugal","Household estimate (kg\/capita\/year)":" 84 ","Household estimate (tonnes\/year)":"861786.22","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"261488.21","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"131011.01"},{"Region":"Southern Europe","Country":"San Marino","Household estimate (kg\/capita\/year)":" 84 ","Household estimate (tonnes\/year)":"2856.83","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"866.84","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"434.30"},{"Region":"Southern Europe","Country":"Serbia","Household estimate (kg\/capita\/year)":" 83 ","Household estimate (tonnes\/year)":"726195.82","Food service estimate (kg\/capita\/year)":" 6 ","Food service estimate (tonnes\/year)":"52633.20","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"137199.21"},{"Region":"Southern Europe","Country":"Slovenia","Household estimate (kg\/capita\/year)":" 34 ","Household estimate (tonnes\/year)":"71106.54","Food service estimate (kg\/capita\/year)":" 20 ","Food service estimate (tonnes\/year)":"41740.85","Retail estimate (kg\/capita\/year)":" 7 ","Retail service estimate (tonnes\/year)":"13910.18"},{"Region":"Southern Europe","Country":"Spain","Household estimate (kg\/capita\/year)":" 77 ","Household estimate (tonnes\/year)":"3613954.13","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"1195079.51","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"598759.61"},{"Region":"Sub-Saharan Africa","Country":"Angola","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"3169522.89","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"879908.27","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"497754.97"},{"Region":"Sub-Saharan Africa","Country":"Benin","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"1175296.81","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"326280.46","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"184573.47"},{"Region":"Sub-Saharan Africa","Country":"Botswana","Household estimate (kg\/capita\/year)":" 92 ","Household estimate (tonnes\/year)":"211801.64","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"63692.87","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"36030.39"},{"Region":"Sub-Saharan Africa","Country":"Burkina Faso","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"2086892.60","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"561847.58","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"317831.34"},{"Region":"Sub-Saharan Africa","Country":"Burundi","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"1184127.27","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"318798.89","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"180341.22"},{"Region":"Sub-Saharan Africa","Country":"Cabo Verde","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"54765.25","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"15203.68","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"8600.56"},{"Region":"Sub-Saharan Africa","Country":"Cameroon","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"2577064.23","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"715432.64","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"404712.81"},{"Region":"Sub-Saharan Africa","Country":"Central African Republic","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"487305.15","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"131195.64","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"74216.01"},{"Region":"Sub-Saharan Africa","Country":"Chad","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"1637656.25","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"440901.08","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"249413.16"},{"Region":"Sub-Saharan Africa","Country":"Comoros","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"84742.23","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"23525.75","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"13308.27"},{"Region":"Sub-Saharan Africa","Country":"Congo","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"535850.97","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"148760.47","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"84152.25"},{"Region":"Sub-Saharan Africa","Country":"C te d Ivoire","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"2561139.58","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"711011.71","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"402211.94"},{"Region":"Sub-Saharan Africa","Country":"Dem. Rep. of the Congo","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"8912902.72","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"2399592.98","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1357424.82"},{"Region":"Sub-Saharan Africa","Country":"Djibouti","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"96962.09","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"26918.17","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"15227.33"},{"Region":"Sub-Saharan Africa","Country":"Equatorial Guinea","Household estimate (kg\/capita\/year)":" 92 ","Household estimate (tonnes\/year)":"124670.32","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"37490.79","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"21208.15"},{"Region":"Sub-Saharan Africa","Country":"Eritrea","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"359132.35","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"96688.08","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"54695.44"},{"Region":"Sub-Saharan Africa","Country":"Eswatini","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"114340.77","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"31742.75","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"17956.55"},{"Region":"Sub-Saharan Africa","Country":"Ethiopia","Household estimate (kg\/capita\/year)":" 92 ","Household estimate (tonnes\/year)":"10327235.52","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"3098760.25","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1752936.49"},{"Region":"Sub-Saharan Africa","Country":"Gabon","Household estimate (kg\/capita\/year)":" 92 ","Household estimate (tonnes\/year)":"199748.34","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"60068.21","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"33979.96"},{"Region":"Sub-Saharan Africa","Country":"Gambia","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"241095.48","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"64909.38","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"36718.56"},{"Region":"Sub-Saharan Africa","Country":"Ghana","Household estimate (kg\/capita\/year)":" 84 ","Household estimate (tonnes\/year)":"2555331.73","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"840996.37","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"475742.91"},{"Region":"Sub-Saharan Africa","Country":"Guinea","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"1311529.86","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"353099.09","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"199744.49"},{"Region":"Sub-Saharan Africa","Country":"Guinea-Bissau","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"197265.54","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"53109.19","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"30043.32"},{"Region":"Sub-Saharan Africa","Country":"Kenya","Household estimate (kg\/capita\/year)":" 99 ","Household estimate (tonnes\/year)":"5217366.84","Food service estimate (kg\/capita\/year)":" 31 ","Food service estimate (tonnes\/year)":"1637019.64","Retail estimate (kg\/capita\/year)":" 11 ","Retail service estimate (tonnes\/year)":"576410.51"},{"Region":"Sub-Saharan Africa","Country":"Lesotho","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"211661.38","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"58760.45","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"33240.18"},{"Region":"Sub-Saharan Africa","Country":"Liberia","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"507043.00","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"136509.60","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"77222.06"},{"Region":"Sub-Saharan Africa","Country":"Madagascar","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"2769594.26","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"745649.22","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"421806.02"},{"Region":"Sub-Saharan Africa","Country":"Malawi","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"1913061.91","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"515047.69","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"291357.13"},{"Region":"Sub-Saharan Africa","Country":"Mali","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"2018765.18","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"543505.85","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"307455.61"},{"Region":"Sub-Saharan Africa","Country":"Mauritania","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"450720.33","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"125126.89","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"70782.98"},{"Region":"Sub-Saharan Africa","Country":"Mauritius","Household estimate (kg\/capita\/year)":" 93 ","Household estimate (tonnes\/year)":"118626.01","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"32466.76","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"16266.52"},{"Region":"Sub-Saharan Africa","Country":"Mayotte","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Sub-Saharan Africa","Country":"Mozambique","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"3118416.09","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"839561.43","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"474931.18"},{"Region":"Sub-Saharan Africa","Country":"Namibia","Household estimate (kg\/capita\/year)":" 92 ","Household estimate (tonnes\/year)":"229343.75","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"68968.12","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"39014.55"},{"Region":"Sub-Saharan Africa","Country":"Niger","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"2393876.77","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"644495.97","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"364584.68"},{"Region":"Sub-Saharan Africa","Country":"Nigeria","Household estimate (kg\/capita\/year)":" 189 ","Household estimate (tonnes\/year)":"37941470.49","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"5556256.60","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"3143116.64"},{"Region":"Sub-Saharan Africa","Country":"R union","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Sub-Saharan Africa","Country":"Rwanda","Household estimate (kg\/capita\/year)":" 164 ","Household estimate (tonnes\/year)":"2075405.29","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"349112.24","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"197489.17"},{"Region":"Sub-Saharan Africa","Country":"Saint Helena","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Sub-Saharan Africa","Country":"Sao Tome and Principe","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"21422.09","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"5947.10","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"3364.21"},{"Region":"Sub-Saharan Africa","Country":"Senegal","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"1622979.61","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"450564.08","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"254879.42"},{"Region":"Sub-Saharan Africa","Country":"Seychelles","Household estimate (kg\/capita\/year)":" 93 ","Household estimate (tonnes\/year)":"9127.95","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"2498.23","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"1251.66"},{"Region":"Sub-Saharan Africa","Country":"Sierra Leone","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"802371.36","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"216019.94","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"122200.23"},{"Region":"Sub-Saharan Africa","Country":"Somalia","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"1585898.30","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"426966.45","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"241530.49"},{"Region":"Sub-Saharan Africa","Country":"South Africa","Household estimate (kg\/capita\/year)":" 40 ","Household estimate (tonnes\/year)":"2329228.14","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1619024.24","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"915865.20"},{"Region":"Sub-Saharan Africa","Country":"South Sudan","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"1136014.97","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"305845.77","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"173013.77"},{"Region":"Sub-Saharan Africa","Country":"Togo","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"830016.67","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"223462.80","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"126410.58"},{"Region":"Sub-Saharan Africa","Country":"Uganda","Household estimate (kg\/capita\/year)":" 103 ","Household estimate (tonnes\/year)":"4546237.01","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1223969.20","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"692386.66"},{"Region":"Sub-Saharan Africa","Country":"United Rep. of Tanzania","Household estimate (kg\/capita\/year)":" 119 ","Household estimate (tonnes\/year)":"6907649.35","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1603740.39","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"907219.28"},{"Region":"Sub-Saharan Africa","Country":"Zambia","Household estimate (kg\/capita\/year)":" 78 ","Household estimate (tonnes\/year)":"1391729.12","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"493822.26","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"279350.12"},{"Region":"Sub-Saharan Africa","Country":"Zimbabwe","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"1458564.34","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"404919.88","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"229058.97"},{"Region":"Western Asia","Country":"Armenia","Household estimate (kg\/capita\/year)":" 93 ","Household estimate (tonnes\/year)":"275194.51","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"81774.71","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"46259.10"},{"Region":"Western Asia","Country":"Azerbaijan","Household estimate (kg\/capita\/year)":" 93 ","Household estimate (tonnes\/year)":"934872.33","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"277799.56","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"157148.32"},{"Region":"Western Asia","Country":"Bahrain","Household estimate (kg\/capita\/year)":" 132 ","Household estimate (tonnes\/year)":"216161.07","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"41966.17","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"21025.92"},{"Region":"Western Asia","Country":"Cyprus","Household estimate (kg\/capita\/year)":" 95 ","Household estimate (tonnes\/year)":"113306.08","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"30648.70","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"15355.64"},{"Region":"Western Asia","Country":"Georgia","Household estimate (kg\/capita\/year)":" 101 ","Household estimate (tonnes\/year)":"403572.88","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"110503.82","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"62510.87"},{"Region":"Western Asia","Country":"Iraq","Household estimate (kg\/capita\/year)":" 120 ","Household estimate (tonnes\/year)":"4734434.37","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"1086840.28","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"614814.26"},{"Region":"Western Asia","Country":"Israel","Household estimate (kg\/capita\/year)":" 100 ","Household estimate (tonnes\/year)":"848395.24","Food service estimate (kg\/capita\/year)":" 27 ","Food service estimate (tonnes\/year)":"233752.05","Retail estimate (kg\/capita\/year)":" 51 ","Retail service estimate (tonnes\/year)":"437996.93"},{"Region":"Western Asia","Country":"Jordan","Household estimate (kg\/capita\/year)":" 93 ","Household estimate (tonnes\/year)":"939896.67","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"279292.55","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"157992.90"},{"Region":"Western Asia","Country":"Kuwait","Household estimate (kg\/capita\/year)":" 95 ","Household estimate (tonnes\/year)":"397705.67","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"107577.31","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"53898.46"},{"Region":"Western Asia","Country":"Lebanon","Household estimate (kg\/capita\/year)":" 105 ","Household estimate (tonnes\/year)":"717491.24","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"189546.90","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"107224.72"},{"Region":"Western Asia","Country":"Oman","Household estimate (kg\/capita\/year)":" 95 ","Household estimate (tonnes\/year)":"470296.81","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"127212.83","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"63736.26"},{"Region":"Western Asia","Country":"Qatar","Household estimate (kg\/capita\/year)":" 95 ","Household estimate (tonnes\/year)":"267724.14","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"72417.98","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"36282.91"},{"Region":"Western Asia","Country":"Saudi Arabia","Household estimate (kg\/capita\/year)":" 105 ","Household estimate (tonnes\/year)":"3594080.28","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"876259.87","Retail estimate (kg\/capita\/year)":" 20 ","Retail service estimate (tonnes\/year)":"673501.73"},{"Region":"Western Asia","Country":"State of Palestine","Household estimate (kg\/capita\/year)":" 101 ","Household estimate (tonnes\/year)":"501601.80","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"137726.12","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"77910.23"},{"Region":"Western Asia","Country":"Syrian Arab Republic","Household estimate (kg\/capita\/year)":" 104 ","Household estimate (tonnes\/year)":"1771841.93","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"471955.40","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"266980.27"},{"Region":"Western Asia","Country":"Turkey","Household estimate (kg\/capita\/year)":" 93 ","Household estimate (tonnes\/year)":"7762574.96","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"2306667.80","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"1304858.02"},{"Region":"Western Asia","Country":"United Arab Emirates","Household estimate (kg\/capita\/year)":" 95 ","Household estimate (tonnes\/year)":"923625.13","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"249835.77","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"125172.90"},{"Region":"Western Asia","Country":"Yemen","Household estimate (kg\/capita\/year)":" 104 ","Household estimate (tonnes\/year)":"3026946.36","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"806270.39","Retail estimate (kg\/capita\/year)":" 16 ","Retail service estimate (tonnes\/year)":"456098.78"},{"Region":"Western Europe","Country":"Austria","Household estimate (kg\/capita\/year)":" 39 ","Household estimate (tonnes\/year)":"349248.90","Food service estimate (kg\/capita\/year)":" 28 ","Food service estimate (tonnes\/year)":"254190.71","Retail estimate (kg\/capita\/year)":" 9 ","Retail service estimate (tonnes\/year)":"77288.93"},{"Region":"Western Europe","Country":"Belgium","Household estimate (kg\/capita\/year)":" 50 ","Household estimate (tonnes\/year)":"576036.22","Food service estimate (kg\/capita\/year)":" 20 ","Food service estimate (tonnes\/year)":"227371.14","Retail estimate (kg\/capita\/year)":" 10 ","Retail service estimate (tonnes\/year)":"112100.17"},{"Region":"Western Europe","Country":"France","Household estimate (kg\/capita\/year)":" 85 ","Household estimate (tonnes\/year)":"5522358.45","Food service estimate (kg\/capita\/year)":" 24 ","Food service estimate (tonnes\/year)":"1594579.44","Retail estimate (kg\/capita\/year)":" 26 ","Retail service estimate (tonnes\/year)":"1667567.74"},{"Region":"Western Europe","Country":"Germany","Household estimate (kg\/capita\/year)":" 75 ","Household estimate (tonnes\/year)":"6263775.00","Food service estimate (kg\/capita\/year)":" 21 ","Food service estimate (tonnes\/year)":"1718432.88","Retail estimate (kg\/capita\/year)":" 6 ","Retail service estimate (tonnes\/year)":"498243.85"},{"Region":"Western Europe","Country":"Liechtenstein","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"2723.66","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"971.68","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"486.83"},{"Region":"Western Europe","Country":"Luxembourg","Household estimate (kg\/capita\/year)":" 89 ","Household estimate (tonnes\/year)":"54951.23","Food service estimate (kg\/capita\/year)":" 21 ","Food service estimate (tonnes\/year)":"12868.13","Retail estimate (kg\/capita\/year)":" 7 ","Retail service estimate (tonnes\/year)":"4433.04"},{"Region":"Western Europe","Country":"Monaco","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"2795.33","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"997.25","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"499.64"},{"Region":"Western Europe","Country":"Netherlands","Household estimate (kg\/capita\/year)":" 50 ","Household estimate (tonnes\/year)":"854855.00","Food service estimate (kg\/capita\/year)":" 26 ","Food service estimate (tonnes\/year)":"437179.99","Retail estimate (kg\/capita\/year)":" 11 ","Retail service estimate (tonnes\/year)":"188068.10"},{"Region":"Western Europe","Country":"Switzerland","Household estimate (kg\/capita\/year)":" 72 ","Household estimate (tonnes\/year)":"615789.80","Food service estimate (kg\/capita\/year)":" 40 ","Food service estimate (tonnes\/year)":"343656.00","Retail estimate (kg\/capita\/year)":" 13 ","Retail service estimate (tonnes\/year)":"110067.08"},{"Region":"nan","Country":"Channel Islands","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"nan","Country":"Other non-specified areas","Household estimate (kg\/capita\/year)":" * ","Household estimate (tonnes\/year)":"*.00","Food service estimate (kg\/capita\/year)":" * ","Food service estimate (tonnes\/year)":"*.00","Retail estimate (kg\/capita\/year)":" * ","Retail service estimate (tonnes\/year)":"*.00"},{"Region":"Note: Territories with * have no estimates generated. These territories are included in the UNSD list of countries but are not included in the World Bank's income classification grouping.","Country":"nan","Household estimate (kg\/capita\/year)":"nan","Household estimate (tonnes\/year)":"nan","Food service estimate (kg\/capita\/year)":"nan","Food service estimate (tonnes\/year)":"nan","Retail estimate (kg\/capita\/year)":"nan","Retail service estimate (tonnes\/year)":"nan"}]
+[
+    {
+        "Region": "Australia and New Zealand",
+        "Country": "Australia",
+        "Household estimate (kg/capita/year)": " 102 ",
+        "Household estimate (tonnes/year)": "2563110.27",
+        "Food service estimate (kg/capita/year)": " 22 ",
+        "Food service estimate (tonnes/year)": "546339.63",
+        "Retail estimate (kg/capita/year)": " 9 ",
+        "Retail service estimate (tonnes/year)": "238247.67"
+    },
+    {
+        "Region": "Australia and New Zealand",
+        "Country": "New Zealand",
+        "Household estimate (kg/capita/year)": " 61 ",
+        "Household estimate (tonnes/year)": "291769.10",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "122305.87",
+        "Retail estimate (kg/capita/year)": " 3 ",
+        "Retail service estimate (tonnes/year)": "14923.27"
+    },
+    {
+        "Region": "Central Asia",
+        "Country": "Kazakhstan",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "1404584.36",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "512910.49",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "290148.14"
+    },
+    {
+        "Region": "Central Asia",
+        "Country": "Kyrgyzstan",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "583950.71",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "177387.28",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "100346.14"
+    },
+    {
+        "Region": "Central Asia",
+        "Country": "Tajikistan",
+        "Household estimate (kg/capita/year)": " 97 ",
+        "Household estimate (tonnes/year)": "906208.60",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "257707.70",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "145782.57"
+    },
+    {
+        "Region": "Central Asia",
+        "Country": "Turkmenistan",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "449894.93",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "164287.62",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "92935.80"
+    },
+    {
+        "Region": "Central Asia",
+        "Country": "Uzbekistan",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "3001868.33",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "911880.50",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "515841.33"
+    },
+    {
+        "Region": "Eastern Asia",
+        "Country": "China",
+        "Household estimate (kg/capita/year)": " 64 ",
+        "Household estimate (tonnes/year)": "91646212.71",
+        "Food service estimate (kg/capita/year)": " 46 ",
+        "Food service estimate (tonnes/year)": "65377740.84",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "22424704.82"
+    },
+    {
+        "Region": "Eastern Asia",
+        "Country": "China, Hong Kong SAR",
+        "Household estimate (kg/capita/year)": " 71 ",
+        "Household estimate (tonnes/year)": "530984.96",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "190146.74",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "95267.46"
+    },
+    {
+        "Region": "Eastern Asia",
+        "Country": "China, Macao SAR",
+        "Household estimate (kg/capita/year)": " 71 ",
+        "Household estimate (tonnes/year)": "45728.03",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "16375.30",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "8204.36"
+    },
+    {
+        "Region": "Eastern Asia",
+        "Country": "Dem. People's Rep. Korea",
+        "Household estimate (kg/capita/year)": " 81 ",
+        "Household estimate (tonnes/year)": "2070527.66",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "709621.01",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "401425.24"
+    },
+    {
+        "Region": "Eastern Asia",
+        "Country": "Japan",
+        "Household estimate (kg/capita/year)": " 64 ",
+        "Household estimate (tonnes/year)": "8159891.22",
+        "Food service estimate (kg/capita/year)": " 15 ",
+        "Food service estimate (tonnes/year)": "1870735.47",
+        "Retail estimate (kg/capita/year)": " 9 ",
+        "Retail service estimate (tonnes/year)": "1095307.56"
+    },
+    {
+        "Region": "Eastern Asia",
+        "Country": "Mongolia",
+        "Household estimate (kg/capita/year)": " 78 ",
+        "Household estimate (tonnes/year)": "250173.41",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "89170.57",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "50442.87"
+    },
+    {
+        "Region": "Eastern Asia",
+        "Country": "Republic of Korea",
+        "Household estimate (kg/capita/year)": " 71 ",
+        "Household estimate (tonnes/year)": "3657763.88",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1309852.33",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "656263.17"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Belarus",
+        "Household estimate (kg/capita/year)": " 68 ",
+        "Household estimate (tonnes/year)": "646355.73",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "261340.66",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "147837.70"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Bulgaria",
+        "Household estimate (kg/capita/year)": " 68 ",
+        "Household estimate (tonnes/year)": "478667.30",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "193539.29",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "109483.16"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Czechia",
+        "Household estimate (kg/capita/year)": " 70 ",
+        "Household estimate (tonnes/year)": "746840.21",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "273327.31",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "136942.65"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Hungary",
+        "Household estimate (kg/capita/year)": " 94 ",
+        "Household estimate (tonnes/year)": "908669.06",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "247641.83",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "124073.69"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Poland",
+        "Household estimate (kg/capita/year)": " 56 ",
+        "Household estimate (tonnes/year)": "2119454.90",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "968806.88",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "485392.33"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Republic of Moldova",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "307418.55",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "111789.46",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "63238.14"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Romania",
+        "Household estimate (kg/capita/year)": " 70 ",
+        "Household estimate (tonnes/year)": "1352978.89",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "495160.92",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "248085.88"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Russian Federation",
+        "Household estimate (kg/capita/year)": " 33 ",
+        "Household estimate (tonnes/year)": "4868563.96",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "4033088.23",
+        "Retail estimate (kg/capita/year)": " 14 ",
+        "Retail service estimate (tonnes/year)": "2001062.31"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Slovakia",
+        "Household estimate (kg/capita/year)": " 70 ",
+        "Household estimate (tonnes/year)": "381273.35",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "139537.77",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "69911.32"
+    },
+    {
+        "Region": "Eastern Europe",
+        "Country": "Ukraine",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "3344903.61",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1216338.33",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "688069.96"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Anguilla",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Antigua and Barbuda",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "7177.71",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "2482.89",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "1243.98"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Argentina",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "3243562.95",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1238100.13",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "700380.38"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Aruba",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "7857.78",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "2718.14",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "1361.84"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Bahamas",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "28792.14",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "9959.68",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "4990.01"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Barbados",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "21215.26",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "7338.71",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "3676.85"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Belize",
+        "Household estimate (kg/capita/year)": " 53 ",
+        "Household estimate (tonnes/year)": "20563.89",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "10793.81",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "6105.95"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Bolivia (Plurin. State of)",
+        "Household estimate (kg/capita/year)": " 80 ",
+        "Household estimate (tonnes/year)": "922011.57",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "318315.05",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "180067.52"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Bonaire, St. Eustatius & Saba",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Brazil",
+        "Household estimate (kg/capita/year)": " 60 ",
+        "Household estimate (tonnes/year)": "12578308.31",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "5835112.31",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "3300862.42"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "British Virgin Islands",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "2217.62",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "767.11",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "384.34"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Cayman Islands",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "4797.46",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1659.52",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "831.45"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Chile",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "1400946.43",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "484610.56",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "242799.94"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Colombia",
+        "Household estimate (kg/capita/year)": " 70 ",
+        "Household estimate (tonnes/year)": "3545498.98",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1391787.48",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "787319.72"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Costa Rica",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "365608.58",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "139556.42",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "78945.62"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Cuba",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "820909.92",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "313349.45",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "177258.53"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Cura ao",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "12078.65",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "4178.21",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "2093.37"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Dominica",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "5200.63",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1985.13",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1122.97"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Dominican Republic",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "777849.00",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "296912.67",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "167960.41"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Ecuador",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "1258414.67",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "480349.35",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "271728.64"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "El Salvador",
+        "Household estimate (kg/capita/year)": " 80 ",
+        "Household estimate (tonnes/year)": "516828.12",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "178429.61",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "100935.78"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Falkland Islands (Malvinas)",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "French Guiana",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Grenada",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "8112.40",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "3096.58",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1751.71"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Guadeloupe",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Guatemala",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "1273466.07",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "486094.62",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "274978.68"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Guyana",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "56699.90",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "21642.91",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "12243.17"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Haiti",
+        "Household estimate (kg/capita/year)": " 83 ",
+        "Household estimate (tonnes/year)": "936940.44",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "311403.03",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "176157.46"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Honduras",
+        "Household estimate (kg/capita/year)": " 80 ",
+        "Household estimate (tonnes/year)": "780503.68",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "269460.90",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "152431.23"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Jamaica",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "213551.75",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "81514.82",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "46112.09"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Martinique",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Mexico",
+        "Household estimate (kg/capita/year)": " 94 ",
+        "Household estimate (tonnes/year)": "11979364.27",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "3527216.94",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1995309.98"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Montserrat",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Nicaragua",
+        "Household estimate (kg/capita/year)": " 80 ",
+        "Household estimate (tonnes/year)": "524187.81",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "180970.47",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "102373.12"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Panama",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "313897.16",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "108582.22",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "54401.94"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Paraguay",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "510255.61",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "194769.63",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "110179.15"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Peru",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "2354805.83",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "898852.73",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "508471.65"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Puerto Rico",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "216839.19",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "75008.26",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "37580.70"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Saint Barth lemy",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Saint Kitts and Nevis",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "3903.02",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1350.12",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "676.44"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Saint Lucia",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "13240.60",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "5054.07",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "2859.03"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Saint Martin (French part)",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "2808.99",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "971.68",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "486.83"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Saint Vincent & Grenadines",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "8011.00",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "3057.88",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1729.81"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Sint Maarten (Dutch part)",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "3134.24",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1084.19",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "543.20"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Suriname",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "42112.06",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "16074.59",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "9093.23"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Trinidad and Tobago",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "103119.47",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "35670.73",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "17871.78"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Turks and Caicos Islands",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "2823.77",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "976.79",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "489.39"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "United States Virgin Islands",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "7732.11",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "2674.67",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "1340.06"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Uruguay",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "255891.53",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "88517.12",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "44348.91"
+    },
+    {
+        "Region": "Latin America and the Caribbean",
+        "Country": "Venezuela (Boliv. Rep. of)",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "2065461.07",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "788406.96",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "445993.63"
+    },
+    {
+        "Region": "Melanesia",
+        "Country": "Fiji",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "67384.68",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "24606.79",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "13919.80"
+    },
+    {
+        "Region": "Melanesia",
+        "Country": "New Caledonia",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "22253.63",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "7231.31",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "3623.04"
+    },
+    {
+        "Region": "Melanesia",
+        "Country": "Papua New Guinea",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "798767.09",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "242642.27",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "137260.21"
+    },
+    {
+        "Region": "Melanesia",
+        "Country": "Solomon Islands",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "60962.64",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "18518.68",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "10475.83"
+    },
+    {
+        "Region": "Melanesia",
+        "Country": "Vanuatu",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "27295.75",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "8291.66",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "4690.50"
+    },
+    {
+        "Region": "Micronesia",
+        "Country": "Guam",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "13164.89",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "4277.93",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "2143.33"
+    },
+    {
+        "Region": "Micronesia",
+        "Country": "Kiribati",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "10703.50",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "3251.41",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1839.29"
+    },
+    {
+        "Region": "Micronesia",
+        "Country": "Marshall Islands",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "4451.93",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1625.71",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "919.65"
+    },
+    {
+        "Region": "Micronesia",
+        "Country": "Micronesia (Fed. States of)",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "10357.64",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "3146.35",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1779.86"
+    },
+    {
+        "Region": "Micronesia",
+        "Country": "Nauru",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "849.86",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "276.16",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "138.36"
+    },
+    {
+        "Region": "Micronesia",
+        "Country": "Northern Mariana Islands",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "4501.09",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1462.63",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "732.81"
+    },
+    {
+        "Region": "Micronesia",
+        "Country": "Palau",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "1416.43",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "460.27",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "230.60"
+    },
+    {
+        "Region": "Northern Africa",
+        "Country": "Algeria",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "3918528.68",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1190335.32",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "673360.33"
+    },
+    {
+        "Region": "Northern Africa",
+        "Country": "Egypt",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "9136941.33",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "2775537.67",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1570092.83"
+    },
+    {
+        "Region": "Northern Africa",
+        "Country": "Libya",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "513145.67",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "187384.83",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "106001.65"
+    },
+    {
+        "Region": "Northern Africa",
+        "Country": "Morocco",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "3319523.90",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1008375.05",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "570427.29"
+    },
+    {
+        "Region": "Northern Africa",
+        "Country": "Sudan",
+        "Household estimate (kg/capita/year)": " 97 ",
+        "Household estimate (tonnes/year)": "4162395.67",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1183702.55",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "669608.23"
+    },
+    {
+        "Region": "Northern Africa",
+        "Country": "Tunisia",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "1064406.92",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "323335.94",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "182907.78"
+    },
+    {
+        "Region": "Northern Africa",
+        "Country": "Western Sahara",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Northern America",
+        "Country": "Bermuda",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "4605.55",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1598.15",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "800.71"
+    },
+    {
+        "Region": "Northern America",
+        "Country": "Canada",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "2938320.60",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "956614.91",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "479283.90"
+    },
+    {
+        "Region": "Northern America",
+        "Country": "Greenland",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "4178.16",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1449.84",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "726.40"
+    },
+    {
+        "Region": "Northern America",
+        "Country": "Saint Pierre and Miquelon",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Northern America",
+        "Country": "United States of America",
+        "Household estimate (kg/capita/year)": " 59 ",
+        "Household estimate (tonnes/year)": "19359951.34",
+        "Food service estimate (kg/capita/year)": " 64 ",
+        "Food service estimate (tonnes/year)": "20934827.07",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "5151313.19"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Denmark",
+        "Household estimate (kg/capita/year)": " 81 ",
+        "Household estimate (tonnes/year)": "469448.99",
+        "Food service estimate (kg/capita/year)": " 21 ",
+        "Food service estimate (tonnes/year)": "119134.27",
+        "Retail estimate (kg/capita/year)": " 30 ",
+        "Retail service estimate (tonnes/year)": "172002.62"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Estonia",
+        "Household estimate (kg/capita/year)": " 78 ",
+        "Household estimate (tonnes/year)": "102743.50",
+        "Food service estimate (kg/capita/year)": " 17 ",
+        "Food service estimate (tonnes/year)": "22012.57",
+        "Retail estimate (kg/capita/year)": " 5 ",
+        "Retail service estimate (tonnes/year)": "6242.79"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Faroe Islands",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "3710.23",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1245.28",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "623.91"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Finland",
+        "Household estimate (kg/capita/year)": " 65 ",
+        "Household estimate (tonnes/year)": "361936.93",
+        "Food service estimate (kg/capita/year)": " 23 ",
+        "Food service estimate (tonnes/year)": "128927.40",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "70874.73"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Iceland",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "25826.88",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "8668.37",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "4343.03"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Ireland",
+        "Household estimate (kg/capita/year)": " 55 ",
+        "Household estimate (tonnes/year)": "267072.75",
+        "Food service estimate (kg/capita/year)": " 56 ",
+        "Food service estimate (tonnes/year)": "274134.93",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "62551.22"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Isle of Man",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "6445.29",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "2163.26",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "1083.84"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Latvia",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "145262.85",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "48755.12",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "24427.32"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Lithuania",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "210241.45",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "70564.13",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "35354.09"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Norway",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "423857.32",
+        "Food service estimate (kg/capita/year)": " 5 ",
+        "Food service estimate (tonnes/year)": "26685.48",
+        "Retail estimate (kg/capita/year)": " 14 ",
+        "Retail service estimate (tonnes/year)": "74087.70"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "Sweden",
+        "Household estimate (kg/capita/year)": " 81 ",
+        "Household estimate (tonnes/year)": "812948.40",
+        "Food service estimate (kg/capita/year)": " 21 ",
+        "Food service estimate (tonnes/year)": "205746.20",
+        "Retail estimate (kg/capita/year)": " 10 ",
+        "Retail service estimate (tonnes/year)": "100364.00"
+    },
+    {
+        "Region": "Northern Europe",
+        "Country": "United Kingdom",
+        "Household estimate (kg/capita/year)": " 77 ",
+        "Household estimate (tonnes/year)": "5199825.40",
+        "Food service estimate (kg/capita/year)": " 17 ",
+        "Food service estimate (tonnes/year)": "1114248.30",
+        "Retail estimate (kg/capita/year)": " 4 ",
+        "Retail service estimate (tonnes/year)": "283626.84"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "American Samoa",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "4186.94",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1528.94",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "864.90"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "Cook Islands",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "French Polynesia",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "21978.21",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "7141.82",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "3578.20"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "Niue",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "Samoa",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "14923.06",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "5449.44",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "3082.69"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "Tokelau",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "Tonga",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "7912.02",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "2889.22",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1634.40"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "Tuvalu",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "878.27",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "320.72",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "181.43"
+    },
+    {
+        "Region": "Polynesia",
+        "Country": "Wallis and Futuna Islands",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Brunei Darussalam",
+        "Household estimate (kg/capita/year)": " 80 ",
+        "Household estimate (tonnes/year)": "34739.48",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "11079.66",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "5551.14"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Cambodia",
+        "Household estimate (kg/capita/year)": " 86 ",
+        "Household estimate (tonnes/year)": "1423397.04",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "455819.98",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "257852.63"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Indonesia",
+        "Household estimate (kg/capita/year)": " 77 ",
+        "Household estimate (tonnes/year)": "20938251.73",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "7482276.77",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "4232646.25"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Lao People's Dem. Rep.",
+        "Household estimate (kg/capita/year)": " 86 ",
+        "Household estimate (tonnes/year)": "618994.03",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "198222.87",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "112132.62"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Malaysia",
+        "Household estimate (kg/capita/year)": " 91 ",
+        "Household estimate (tonnes/year)": "2921576.53",
+        "Food service estimate (kg/capita/year)": " 90 ",
+        "Food service estimate (tonnes/year)": "2861537.49",
+        "Retail estimate (kg/capita/year)": " 79 ",
+        "Retail service estimate (tonnes/year)": "2518199.21"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Myanmar",
+        "Household estimate (kg/capita/year)": " 86 ",
+        "Household estimate (tonnes/year)": "4666124.55",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1494251.25",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "845282.41"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Philippines",
+        "Household estimate (kg/capita/year)": " 86 ",
+        "Household estimate (tonnes/year)": "9334476.59",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "2989215.82",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1690968.34"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Singapore",
+        "Household estimate (kg/capita/year)": " 80 ",
+        "Household estimate (tonnes/year)": "465355.13",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "148418.38",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "74360.68"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Thailand",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "5478531.87",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1925013.78",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1088960.30"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Timor-Leste",
+        "Household estimate (kg/capita/year)": " 86 ",
+        "Household estimate (tonnes/year)": "111642.54",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "35751.73",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "20224.38"
+    },
+    {
+        "Region": "South-eastern Asia",
+        "Country": "Viet Nam",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "7346716.81",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "2666991.33",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1508689.29"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "Afghanistan",
+        "Household estimate (kg/capita/year)": " 82 ",
+        "Household estimate (tonnes/year)": "3109152.67",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1051782.52",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "594982.45"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "Bangladesh",
+        "Household estimate (kg/capita/year)": " 65 ",
+        "Household estimate (tonnes/year)": "10618232.96",
+        "Food service estimate (kg/capita/year)": " 3 ",
+        "Food service estimate (tonnes/year)": "544436.36",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "2550079.84"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "Bhutan",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "60000.16",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "21098.25",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "11935.06"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "India",
+        "Household estimate (kg/capita/year)": " 50 ",
+        "Household estimate (tonnes/year)": "68760163.39",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "37778821.22",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "21371086.75"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "Iran (Islamic Republic of)",
+        "Household estimate (kg/capita/year)": " 71 ",
+        "Household estimate (tonnes/year)": "5884842.11",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "2292409.69",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1296792.35"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "Maldives",
+        "Household estimate (kg/capita/year)": " 71 ",
+        "Household estimate (tonnes/year)": "37687.90",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "14681.13",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "8304.96"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "Nepal",
+        "Household estimate (kg/capita/year)": " 79 ",
+        "Household estimate (tonnes/year)": "2249412.50",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "790975.47",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "447446.61"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "Pakistan",
+        "Household estimate (kg/capita/year)": " 74 ",
+        "Household estimate (tonnes/year)": "15947644.68",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "5987613.56",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "3387130.80"
+    },
+    {
+        "Region": "Southern Asia",
+        "Country": "Sri Lanka",
+        "Household estimate (kg/capita/year)": " 76 ",
+        "Household estimate (tonnes/year)": "1617737.69",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "589559.25",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "333507.54"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Albania",
+        "Household estimate (kg/capita/year)": " 83 ",
+        "Household estimate (tonnes/year)": "238491.77",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "79651.34",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "45057.93"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Andorra",
+        "Household estimate (kg/capita/year)": " 84 ",
+        "Household estimate (tonnes/year)": "6497.40",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1971.48",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "987.75"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Bosnia and Herzegovina",
+        "Household estimate (kg/capita/year)": " 83 ",
+        "Household estimate (tonnes/year)": "273269.24",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "91266.29",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "51628.39"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Croatia",
+        "Household estimate (kg/capita/year)": " 84 ",
+        "Household estimate (tonnes/year)": "348070.21",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "105613.50",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "52914.55"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Gibraltar",
+        "Household estimate (kg/capita/year)": " 84 ",
+        "Household estimate (tonnes/year)": "2839.98",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "861.72",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "431.74"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Greece",
+        "Household estimate (kg/capita/year)": " 142 ",
+        "Household estimate (tonnes/year)": "1483995.92",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "267811.77",
+        "Retail estimate (kg/capita/year)": " 7 ",
+        "Retail service estimate (tonnes/year)": "77331.53"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Holy See",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Italy",
+        "Household estimate (kg/capita/year)": " 67 ",
+        "Household estimate (tonnes/year)": "4059806.13",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1548291.37",
+        "Retail estimate (kg/capita/year)": " 4 ",
+        "Retail service estimate (tonnes/year)": "219551.83"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Malta",
+        "Household estimate (kg/capita/year)": " 129 ",
+        "Household estimate (tonnes/year)": "56811.60",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "11261.21",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "5642.10"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Montenegro",
+        "Household estimate (kg/capita/year)": " 83 ",
+        "Household estimate (tonnes/year)": "51988.21",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "17362.99",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "9822.06"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "North Macedonia",
+        "Household estimate (kg/capita/year)": " 83 ",
+        "Household estimate (tonnes/year)": "172479.99",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "57604.76",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "32586.42"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Portugal",
+        "Household estimate (kg/capita/year)": " 84 ",
+        "Household estimate (tonnes/year)": "861786.22",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "261488.21",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "131011.01"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "San Marino",
+        "Household estimate (kg/capita/year)": " 84 ",
+        "Household estimate (tonnes/year)": "2856.83",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "866.84",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "434.30"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Serbia",
+        "Household estimate (kg/capita/year)": " 83 ",
+        "Household estimate (tonnes/year)": "726195.82",
+        "Food service estimate (kg/capita/year)": " 6 ",
+        "Food service estimate (tonnes/year)": "52633.20",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "137199.21"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Slovenia",
+        "Household estimate (kg/capita/year)": " 34 ",
+        "Household estimate (tonnes/year)": "71106.54",
+        "Food service estimate (kg/capita/year)": " 20 ",
+        "Food service estimate (tonnes/year)": "41740.85",
+        "Retail estimate (kg/capita/year)": " 7 ",
+        "Retail service estimate (tonnes/year)": "13910.18"
+    },
+    {
+        "Region": "Southern Europe",
+        "Country": "Spain",
+        "Household estimate (kg/capita/year)": " 77 ",
+        "Household estimate (tonnes/year)": "3613954.13",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "1195079.51",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "598759.61"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Angola",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "3169522.89",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "879908.27",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "497754.97"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Benin",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "1175296.81",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "326280.46",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "184573.47"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Botswana",
+        "Household estimate (kg/capita/year)": " 92 ",
+        "Household estimate (tonnes/year)": "211801.64",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "63692.87",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "36030.39"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Burkina Faso",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "2086892.60",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "561847.58",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "317831.34"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Burundi",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "1184127.27",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "318798.89",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "180341.22"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Cabo Verde",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "54765.25",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "15203.68",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "8600.56"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Cameroon",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "2577064.23",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "715432.64",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "404712.81"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Central African Republic",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "487305.15",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "131195.64",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "74216.01"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Chad",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "1637656.25",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "440901.08",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "249413.16"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Comoros",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "84742.23",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "23525.75",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "13308.27"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Congo",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "535850.97",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "148760.47",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "84152.25"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "C te d Ivoire",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "2561139.58",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "711011.71",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "402211.94"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Dem. Rep. of the Congo",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "8912902.72",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "2399592.98",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1357424.82"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Djibouti",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "96962.09",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "26918.17",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "15227.33"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Equatorial Guinea",
+        "Household estimate (kg/capita/year)": " 92 ",
+        "Household estimate (tonnes/year)": "124670.32",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "37490.79",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "21208.15"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Eritrea",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "359132.35",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "96688.08",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "54695.44"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Eswatini",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "114340.77",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "31742.75",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "17956.55"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Ethiopia",
+        "Household estimate (kg/capita/year)": " 92 ",
+        "Household estimate (tonnes/year)": "10327235.52",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "3098760.25",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1752936.49"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Gabon",
+        "Household estimate (kg/capita/year)": " 92 ",
+        "Household estimate (tonnes/year)": "199748.34",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "60068.21",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "33979.96"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Gambia",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "241095.48",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "64909.38",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "36718.56"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Ghana",
+        "Household estimate (kg/capita/year)": " 84 ",
+        "Household estimate (tonnes/year)": "2555331.73",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "840996.37",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "475742.91"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Guinea",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "1311529.86",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "353099.09",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "199744.49"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Guinea-Bissau",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "197265.54",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "53109.19",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "30043.32"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Kenya",
+        "Household estimate (kg/capita/year)": " 99 ",
+        "Household estimate (tonnes/year)": "5217366.84",
+        "Food service estimate (kg/capita/year)": " 31 ",
+        "Food service estimate (tonnes/year)": "1637019.64",
+        "Retail estimate (kg/capita/year)": " 11 ",
+        "Retail service estimate (tonnes/year)": "576410.51"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Lesotho",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "211661.38",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "58760.45",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "33240.18"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Liberia",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "507043.00",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "136509.60",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "77222.06"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Madagascar",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "2769594.26",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "745649.22",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "421806.02"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Malawi",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "1913061.91",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "515047.69",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "291357.13"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Mali",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "2018765.18",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "543505.85",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "307455.61"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Mauritania",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "450720.33",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "125126.89",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "70782.98"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Mauritius",
+        "Household estimate (kg/capita/year)": " 93 ",
+        "Household estimate (tonnes/year)": "118626.01",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "32466.76",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "16266.52"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Mayotte",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Mozambique",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "3118416.09",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "839561.43",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "474931.18"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Namibia",
+        "Household estimate (kg/capita/year)": " 92 ",
+        "Household estimate (tonnes/year)": "229343.75",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "68968.12",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "39014.55"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Niger",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "2393876.77",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "644495.97",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "364584.68"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Nigeria",
+        "Household estimate (kg/capita/year)": " 189 ",
+        "Household estimate (tonnes/year)": "37941470.49",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "5556256.60",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "3143116.64"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "R union",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Rwanda",
+        "Household estimate (kg/capita/year)": " 164 ",
+        "Household estimate (tonnes/year)": "2075405.29",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "349112.24",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "197489.17"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Saint Helena",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Sao Tome and Principe",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "21422.09",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "5947.10",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "3364.21"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Senegal",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "1622979.61",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "450564.08",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "254879.42"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Seychelles",
+        "Household estimate (kg/capita/year)": " 93 ",
+        "Household estimate (tonnes/year)": "9127.95",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "2498.23",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "1251.66"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Sierra Leone",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "802371.36",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "216019.94",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "122200.23"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Somalia",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "1585898.30",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "426966.45",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "241530.49"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "South Africa",
+        "Household estimate (kg/capita/year)": " 40 ",
+        "Household estimate (tonnes/year)": "2329228.14",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1619024.24",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "915865.20"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "South Sudan",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "1136014.97",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "305845.77",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "173013.77"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Togo",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "830016.67",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "223462.80",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "126410.58"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Uganda",
+        "Household estimate (kg/capita/year)": " 103 ",
+        "Household estimate (tonnes/year)": "4546237.01",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1223969.20",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "692386.66"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "United Rep. of Tanzania",
+        "Household estimate (kg/capita/year)": " 119 ",
+        "Household estimate (tonnes/year)": "6907649.35",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1603740.39",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "907219.28"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Zambia",
+        "Household estimate (kg/capita/year)": " 78 ",
+        "Household estimate (tonnes/year)": "1391729.12",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "493822.26",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "279350.12"
+    },
+    {
+        "Region": "Sub-Saharan Africa",
+        "Country": "Zimbabwe",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "1458564.34",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "404919.88",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "229058.97"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Armenia",
+        "Household estimate (kg/capita/year)": " 93 ",
+        "Household estimate (tonnes/year)": "275194.51",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "81774.71",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "46259.10"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Azerbaijan",
+        "Household estimate (kg/capita/year)": " 93 ",
+        "Household estimate (tonnes/year)": "934872.33",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "277799.56",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "157148.32"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Bahrain",
+        "Household estimate (kg/capita/year)": " 132 ",
+        "Household estimate (tonnes/year)": "216161.07",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "41966.17",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "21025.92"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Cyprus",
+        "Household estimate (kg/capita/year)": " 95 ",
+        "Household estimate (tonnes/year)": "113306.08",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "30648.70",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "15355.64"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Georgia",
+        "Household estimate (kg/capita/year)": " 101 ",
+        "Household estimate (tonnes/year)": "403572.88",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "110503.82",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "62510.87"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Iraq",
+        "Household estimate (kg/capita/year)": " 120 ",
+        "Household estimate (tonnes/year)": "4734434.37",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "1086840.28",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "614814.26"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Israel",
+        "Household estimate (kg/capita/year)": " 100 ",
+        "Household estimate (tonnes/year)": "848395.24",
+        "Food service estimate (kg/capita/year)": " 27 ",
+        "Food service estimate (tonnes/year)": "233752.05",
+        "Retail estimate (kg/capita/year)": " 51 ",
+        "Retail service estimate (tonnes/year)": "437996.93"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Jordan",
+        "Household estimate (kg/capita/year)": " 93 ",
+        "Household estimate (tonnes/year)": "939896.67",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "279292.55",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "157992.90"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Kuwait",
+        "Household estimate (kg/capita/year)": " 95 ",
+        "Household estimate (tonnes/year)": "397705.67",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "107577.31",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "53898.46"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Lebanon",
+        "Household estimate (kg/capita/year)": " 105 ",
+        "Household estimate (tonnes/year)": "717491.24",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "189546.90",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "107224.72"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Oman",
+        "Household estimate (kg/capita/year)": " 95 ",
+        "Household estimate (tonnes/year)": "470296.81",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "127212.83",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "63736.26"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Qatar",
+        "Household estimate (kg/capita/year)": " 95 ",
+        "Household estimate (tonnes/year)": "267724.14",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "72417.98",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "36282.91"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Saudi Arabia",
+        "Household estimate (kg/capita/year)": " 105 ",
+        "Household estimate (tonnes/year)": "3594080.28",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "876259.87",
+        "Retail estimate (kg/capita/year)": " 20 ",
+        "Retail service estimate (tonnes/year)": "673501.73"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "State of Palestine",
+        "Household estimate (kg/capita/year)": " 101 ",
+        "Household estimate (tonnes/year)": "501601.80",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "137726.12",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "77910.23"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Syrian Arab Republic",
+        "Household estimate (kg/capita/year)": " 104 ",
+        "Household estimate (tonnes/year)": "1771841.93",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "471955.40",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "266980.27"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Turkey",
+        "Household estimate (kg/capita/year)": " 93 ",
+        "Household estimate (tonnes/year)": "7762574.96",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "2306667.80",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "1304858.02"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "United Arab Emirates",
+        "Household estimate (kg/capita/year)": " 95 ",
+        "Household estimate (tonnes/year)": "923625.13",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "249835.77",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "125172.90"
+    },
+    {
+        "Region": "Western Asia",
+        "Country": "Yemen",
+        "Household estimate (kg/capita/year)": " 104 ",
+        "Household estimate (tonnes/year)": "3026946.36",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "806270.39",
+        "Retail estimate (kg/capita/year)": " 16 ",
+        "Retail service estimate (tonnes/year)": "456098.78"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "Austria",
+        "Household estimate (kg/capita/year)": " 39 ",
+        "Household estimate (tonnes/year)": "349248.90",
+        "Food service estimate (kg/capita/year)": " 28 ",
+        "Food service estimate (tonnes/year)": "254190.71",
+        "Retail estimate (kg/capita/year)": " 9 ",
+        "Retail service estimate (tonnes/year)": "77288.93"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "Belgium",
+        "Household estimate (kg/capita/year)": " 50 ",
+        "Household estimate (tonnes/year)": "576036.22",
+        "Food service estimate (kg/capita/year)": " 20 ",
+        "Food service estimate (tonnes/year)": "227371.14",
+        "Retail estimate (kg/capita/year)": " 10 ",
+        "Retail service estimate (tonnes/year)": "112100.17"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "France",
+        "Household estimate (kg/capita/year)": " 85 ",
+        "Household estimate (tonnes/year)": "5522358.45",
+        "Food service estimate (kg/capita/year)": " 24 ",
+        "Food service estimate (tonnes/year)": "1594579.44",
+        "Retail estimate (kg/capita/year)": " 26 ",
+        "Retail service estimate (tonnes/year)": "1667567.74"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "Germany",
+        "Household estimate (kg/capita/year)": " 75 ",
+        "Household estimate (tonnes/year)": "6263775.00",
+        "Food service estimate (kg/capita/year)": " 21 ",
+        "Food service estimate (tonnes/year)": "1718432.88",
+        "Retail estimate (kg/capita/year)": " 6 ",
+        "Retail service estimate (tonnes/year)": "498243.85"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "Liechtenstein",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "2723.66",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "971.68",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "486.83"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "Luxembourg",
+        "Household estimate (kg/capita/year)": " 89 ",
+        "Household estimate (tonnes/year)": "54951.23",
+        "Food service estimate (kg/capita/year)": " 21 ",
+        "Food service estimate (tonnes/year)": "12868.13",
+        "Retail estimate (kg/capita/year)": " 7 ",
+        "Retail service estimate (tonnes/year)": "4433.04"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "Monaco",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "2795.33",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "997.25",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "499.64"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "Netherlands",
+        "Household estimate (kg/capita/year)": " 50 ",
+        "Household estimate (tonnes/year)": "854855.00",
+        "Food service estimate (kg/capita/year)": " 26 ",
+        "Food service estimate (tonnes/year)": "437179.99",
+        "Retail estimate (kg/capita/year)": " 11 ",
+        "Retail service estimate (tonnes/year)": "188068.10"
+    },
+    {
+        "Region": "Western Europe",
+        "Country": "Switzerland",
+        "Household estimate (kg/capita/year)": " 72 ",
+        "Household estimate (tonnes/year)": "615789.80",
+        "Food service estimate (kg/capita/year)": " 40 ",
+        "Food service estimate (tonnes/year)": "343656.00",
+        "Retail estimate (kg/capita/year)": " 13 ",
+        "Retail service estimate (tonnes/year)": "110067.08"
+    },
+    {
+        "Region": "nan",
+        "Country": "Channel Islands",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "nan",
+        "Country": "Other non-specified areas",
+        "Household estimate (kg/capita/year)": " * ",
+        "Household estimate (tonnes/year)": "*.00",
+        "Food service estimate (kg/capita/year)": " * ",
+        "Food service estimate (tonnes/year)": "*.00",
+        "Retail estimate (kg/capita/year)": " * ",
+        "Retail service estimate (tonnes/year)": "*.00"
+    },
+    {
+        "Region": "Note: Territories with * have no estimates generated. These territories are included in the UNSD list of countries but are not included in the World Bank's income classification grouping.",
+        "Country": "nan",
+        "Household estimate (kg/capita/year)": "nan",
+        "Household estimate (tonnes/year)": "nan",
+        "Food service estimate (kg/capita/year)": "nan",
+        "Food service estimate (tonnes/year)": "nan",
+        "Retail estimate (kg/capita/year)": "nan",
+        "Retail service estimate (tonnes/year)": "nan"
+    }
+]
