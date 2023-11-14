@@ -1,22 +1,20 @@
     // The svg
-    const svgContainer = d3.select("#chloropleth_dataviz")
-        .classed("img-fluid", true);
-    const width = +svgContainer.style("width").slice(0, -2); // Get the width of the container
-    const height = +svgContainer.style("height").slice(0, -2); // Get the height of the container
+    let margin = { top: 30, right: 30, bottom: 100, left: 60 };
+    const parentDiv = document.getElementById("chloropleth_dataviz"); // Replace "bar_dataviz" with the actual ID of the parent div
+    const width = parentDiv.clientWidth - margin.left - margin.right;
+    const height = 400 * 2 - margin.top - margin.bottom;
 
-    const svg = svgContainer
+    const svg = d3.select(parentDiv)
         .append("svg")
-        .attr("width", "100%") // Make the SVG width 100% of the parent div
-        .attr("height", "100%") // Make the SVG height 100% of the parent div
-        .attr("viewBox", `0 0 ${width} ${height}`) // Maintain aspect ratio with viewBox
-        .attr("preserveAspectRatio", "xMidYMid meet"); // Maintain aspect ratio
-
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        //.attr("transform", `translate(${margin.left},${margin.top})`);
     
     // Map and projection
     const path = d3.geoPath();
     const projection = d3.geoMercator()
-      .scale(70)
-      .center([0,20])
+      .scale(80)
+      //.center([0,20])
       .translate([width / 2, height / 2]);
     
     // Data and color scale
@@ -116,7 +114,7 @@ legend.append("text")
     .style("font-weight", "bold");
 
 // Set the color scale values for the legend
-var legendData = [100000, 1000000, 10000000, 30000000, 100000000, 500000000];
+let legendData = [100000, 1000000, 10000000, 30000000, 100000000, 500000000];
 
 // Create color rectangles in the legend
 legend.selectAll("rect")
