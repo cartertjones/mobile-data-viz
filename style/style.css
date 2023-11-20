@@ -54,5 +54,10 @@
 #chloropleth_dataviz {
     width: 100%;
     height: 100%;
-    position: absolute;
+    overflow-x: scroll;
+}
+#bar_dataviz{
+    width: 100%;
+    height: auto;
+    overflow-x: scroll;
 }

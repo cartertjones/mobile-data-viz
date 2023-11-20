@@ -5,16 +5,23 @@
     const height = 400 * 2 - margin.top - margin.bottom;
 
     const svg = d3.select(parentDiv)
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        //.attr("transform", `translate(${margin.left},${margin.top})`);
+      .append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      //.attr("transform", `translate(${margin.left},${margin.top})`);
     
+      //title
+      svg.append("text")
+        .attr("x", width / 2)  // Center the title horizontally
+        .attr("y", 0 + (margin.top))  // Position above the top margin
+        .attr("text-anchor", "middle")  // Center the text anchor
+        .attr("id", 'chloropleth-title')
+        .text("Food waste amounts by country");
     // Map and projection
     const path = d3.geoPath();
     const projection = d3.geoMercator()
-      .scale(80)
-      //.center([0,20])
+      .scale(130)
+      .center([0,40])
       .translate([width / 2, height / 2]);
     
     // Data and color scale

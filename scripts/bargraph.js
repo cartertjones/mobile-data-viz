@@ -30,6 +30,13 @@ svg = d3.select(parentDiv)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform", `translate(${margin.left},${margin.top})`);
+    //title
+    svg.append("text")
+        .attr("x", width / 2)  // Center the title horizontally
+        .attr("y", 0 - (margin.top / 2))  // Position above the top margin
+        .attr("text-anchor", "middle")  // Center the text anchor
+        .attr("id", 'bar-graph-title')
+        .text("Food waste amounts by country");
 
 // Initialize the X axis
 x = d3.scaleBand()
@@ -60,6 +67,14 @@ function update() {
                 // Sort the filtered data by the selected variable in descending order
                 filteredData.sort((a, b) => parseFloat(b[selectedCategory]) - parseFloat(a[selectedCategory]));
 
+                // Calculate dynamic thresholds based on the maximum value
+                const maxCategoryValue = d3.max(filteredData, d => +d[selectedCategory]);
+                const thresholdValues = Array.from({ length: 7 }, (_, i) => (i + 1) * (maxCategoryValue / 7));
+
+                // Define a color scale with dynamic thresholds
+                const colorScale = d3.scaleThreshold()
+                    .domain(thresholdValues)
+                    .range(d3.schemeBlues[7]);
                 // X axis
                 x.domain(filteredData.map(d => d.Country));
                 const xAxisTransition = xAxis.transition().duration(1000).call(d3.axisBottom(x));
@@ -95,7 +110,7 @@ function update() {
                     .attr("x", d => x(d.Country))
                     .attr("y", height)
                     .attr("width", x.bandwidth())
-                    .attr("fill", "#ddaaff")
+                    .attr("fill", "#000000")
                     .merge(u) // Update existing and new bars
                     .transition()
                     .duration(1000)
@@ -103,6 +118,7 @@ function update() {
                     .attr("y", d => y(+d[selectedCategory]))
                     .attr("width", x.bandwidth())
                     .attr("height", d => height - y(+d[selectedCategory]))
+                    .attr("fill", d => colorScale(+d[selectedCategory]))
                     .attr("class", "bar");
             } catch (error) {
                 console.error("An error occurred: " + error);
