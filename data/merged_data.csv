@@ -1,247 +1,247 @@
-Country,code,pop,region,household_estimate_pc,household_estimate_t,food_service_estimate_pc,food_service_estimate_t,retail_estimate_pc,retail_estimate_t,Region,Household estimate (kg/capita/year),Household estimate (tonnes/year),Food service estimate (kg/capita/year),Food service estimate (tonnes/year),Retail estimate (kg/capita/year),Retail service estimate (tonnes/year)
-Antigua and Barbuda,ATG,83039,Latin America and the Caribbean, 74 ,7177.71, 26 ,2482.89, 13 ,1243.98,Latin America and the Caribbean, 74 ,7177.71, 26 ,2482.89, 13 ,1243.98
-Algeria,DZA,32854159,Northern Africa, 91 ,3918528.68, 28 ,1190335.32, 16 ,673360.33,Northern Africa, 91 ,3918528.68, 28 ,1190335.32, 16 ,673360.33
-Azerbaijan,AZE,8352021,Western Asia, 93 ,934872.33, 28 ,277799.56, 16 ,157148.32,Western Asia, 93 ,934872.33, 28 ,277799.56, 16 ,157148.32
-Albania,ALB,3153731,Southern Europe, 83 ,238491.77, 28 ,79651.34, 16 ,45057.93,Southern Europe, 83 ,238491.77, 28 ,79651.34, 16 ,45057.93
-Armenia,ARM,3017661,Western Asia, 93 ,275194.51, 28 ,81774.71, 16 ,46259.10,Western Asia, 93 ,275194.51, 28 ,81774.71, 16 ,46259.10
-Angola,AGO,16095214,Sub-Saharan Africa, 100 ,3169522.89, 28 ,879908.27, 16 ,497754.97,Sub-Saharan Africa, 100 ,3169522.89, 28 ,879908.27, 16 ,497754.97
-American Samoa,ASM,64051,Polynesia, 76 ,4186.94, 28 ,1528.94, 16 ,864.90,Polynesia, 76 ,4186.94, 28 ,1528.94, 16 ,864.90
-Argentina,ARG,38747148,Latin America and the Caribbean, 72 ,3243562.95, 28 ,1238100.13, 16 ,700380.38,Latin America and the Caribbean, 72 ,3243562.95, 28 ,1238100.13, 16 ,700380.38
-Australia,AUS,20310208,Australia and New Zealand, 102 ,2563110.27, 22 ,546339.63, 9 ,238247.67,Australia and New Zealand, 102 ,2563110.27, 22 ,546339.63, 9 ,238247.67
-Bahrain,BHR,724788,Western Asia, 132 ,216161.07, 26 ,41966.17, 13 ,21025.92,Western Asia, 132 ,216161.07, 26 ,41966.17, 13 ,21025.92
-Barbados,BRB,291933,Latin America and the Caribbean, 74 ,21215.26, 26 ,7338.71, 13 ,3676.85,Latin America and the Caribbean, 74 ,21215.26, 26 ,7338.71, 13 ,3676.85
-Bermuda,BMU,64174,Northern America, 74 ,4605.55, 26 ,1598.15, 13 ,800.71,Northern America, 74 ,4605.55, 26 ,1598.15, 13 ,800.71
-Bahamas,BHS,323295,Latin America and the Caribbean, 74 ,28792.14, 26 ,9959.68, 13 ,4990.01,Latin America and the Caribbean, 74 ,28792.14, 26 ,9959.68, 13 ,4990.01
-Bangladesh,BGD,15328112,Southern Asia, 65 ,10618232.96, 3 ,544436.36, 16 ,2550079.84,Southern Asia, 65 ,10618232.96, 3 ,544436.36, 16 ,2550079.84
-Belize,BLZ,275546,Latin America and the Caribbean, 53 ,20563.89, 28 ,10793.81, 16 ,6105.95,Latin America and the Caribbean, 53 ,20563.89, 28 ,10793.81, 16 ,6105.95
-Bosnia and Herzegovina,BIH,3915238,Southern Europe, 83 ,273269.24, 28 ,91266.29, 16 ,51628.39,Southern Europe, 83 ,273269.24, 28 ,91266.29, 16 ,51628.39
-Bolivia (Plurin. State of),BOL,9182015,,,,,,,,Latin America and the Caribbean, 80 ,922011.57, 28 ,318315.05, 16 ,180067.52
-Myanmar,MMR,47967266,,,,,,,,South-eastern Asia, 86 ,4666124.55, 28 ,1494251.25, 16 ,845282.41
-Benin,BEN,8490301,Sub-Saharan Africa, 100 ,1175296.81, 28 ,326280.46, 16 ,184573.47,Sub-Saharan Africa, 100 ,1175296.81, 28 ,326280.46, 16 ,184573.47
-Solomon Islands,SLB,472419,Melanesia, 91 ,60962.64, 28 ,18518.68, 16 ,10475.83,Melanesia, 91 ,60962.64, 28 ,18518.68, 16 ,10475.83
-Brazil,BRA,186830759,Latin America and the Caribbean, 60 ,12578308.31, 28 ,5835112.31, 16 ,3300862.42,Latin America and the Caribbean, 60 ,12578308.31, 28 ,5835112.31, 16 ,3300862.42
-Bulgaria,BGR,7744591,Eastern Europe, 68 ,478667.30, 28 ,193539.29, 16 ,109483.16,Eastern Europe, 68 ,478667.30, 28 ,193539.29, 16 ,109483.16
-Brunei Darussalam,BRN,373831,South-eastern Asia, 80 ,34739.48, 26 ,11079.66, 13 ,5551.14,South-eastern Asia, 80 ,34739.48, 26 ,11079.66, 13 ,5551.14
-Canada,CAN,32270507,Northern America, 79 ,2938320.60, 26 ,956614.91, 13 ,479283.90,Northern America, 79 ,2938320.60, 26 ,956614.91, 13 ,479283.90
-Cambodia,KHM,13955507,South-eastern Asia, 86 ,1423397.04, 28 ,455819.98, 16 ,257852.63,South-eastern Asia, 86 ,1423397.04, 28 ,455819.98, 16 ,257852.63
-Sri Lanka,LKA,19120763,Southern Asia, 76 ,1617737.69, 28 ,589559.25, 16 ,333507.54,Southern Asia, 76 ,1617737.69, 28 ,589559.25, 16 ,333507.54
-Congo,COG,3609851,Sub-Saharan Africa, 100 ,535850.97, 28 ,148760.47, 16 ,84152.25,Sub-Saharan Africa, 100 ,535850.97, 28 ,148760.47, 16 ,84152.25
-Dem. Rep. of the Congo,COD,58740547,,,,,,,,Sub-Saharan Africa, 103 ,8912902.72, 28 ,2399592.98, 16 ,1357424.82
-Burundi,BDI,7858791,Sub-Saharan Africa, 103 ,1184127.27, 28 ,318798.89, 16 ,180341.22,Sub-Saharan Africa, 103 ,1184127.27, 28 ,318798.89, 16 ,180341.22
-China,CHN,1312978855,Eastern Asia, 64 ,91646212.71, 46 ,65377740.84, 16 ,22424704.82,Eastern Asia, 64 ,91646212.71, 46 ,65377740.84, 16 ,22424704.82
-Afghanistan,AFG,25067407,Southern Asia, 82 ,3109152.67, 28 ,1051782.52, 16 ,594982.45,Southern Asia, 82 ,3109152.67, 28 ,1051782.52, 16 ,594982.45
-Bhutan,BTN,637013,Southern Asia, 79 ,60000.16, 28 ,21098.25, 16 ,11935.06,Southern Asia, 79 ,60000.16, 28 ,21098.25, 16 ,11935.06
-Chile,CHL,16295102,Latin America and the Caribbean, 74 ,1400946.43, 26 ,484610.56, 13 ,242799.94,Latin America and the Caribbean, 74 ,1400946.43, 26 ,484610.56, 13 ,242799.94
-Cayman Islands,CYM,45591,Latin America and the Caribbean, 74 ,4797.46, 26 ,1659.52, 13 ,831.45,Latin America and the Caribbean, 74 ,4797.46, 26 ,1659.52, 13 ,831.45
-Cameroon,CMR,17795149,Sub-Saharan Africa, 100 ,2577064.23, 28 ,715432.64, 16 ,404712.81,Sub-Saharan Africa, 100 ,2577064.23, 28 ,715432.64, 16 ,404712.81
-Chad,TCD,10145609,Sub-Saharan Africa, 103 ,1637656.25, 28 ,440901.08, 16 ,249413.16,Sub-Saharan Africa, 103 ,1637656.25, 28 ,440901.08, 16 ,249413.16
-Comoros,COM,797902,Sub-Saharan Africa, 100 ,84742.23, 28 ,23525.75, 16 ,13308.27,Sub-Saharan Africa, 100 ,84742.23, 28 ,23525.75, 16 ,13308.27
-Colombia,COL,4494579,Latin America and the Caribbean, 70 ,3545498.98, 28 ,1391787.48, 16 ,787319.72,Latin America and the Caribbean, 70 ,3545498.98, 28 ,1391787.48, 16 ,787319.72
-Costa Rica,CRI,4327228,Latin America and the Caribbean, 72 ,365608.58, 28 ,139556.42, 16 ,78945.62,Latin America and the Caribbean, 72 ,365608.58, 28 ,139556.42, 16 ,78945.62
-Central African Republic,CAF,4191429,Sub-Saharan Africa, 103 ,487305.15, 28 ,131195.64, 16 ,74216.01,Sub-Saharan Africa, 103 ,487305.15, 28 ,131195.64, 16 ,74216.01
-Cuba,CUB,11259905,Latin America and the Caribbean, 72 ,820909.92, 28 ,313349.45, 16 ,177258.53,Latin America and the Caribbean, 72 ,820909.92, 28 ,313349.45, 16 ,177258.53
-Cabo Verde,CPV,506807,,,,,,,,Sub-Saharan Africa, 100 ,54765.25, 28 ,15203.68, 16 ,8600.56
-Cook Islands,COK,13984,Polynesia, * ,*.00, * ,*.00, * ,*.00,Polynesia, * ,*.00, * ,*.00, * ,*.00
-Cyprus,CYP,836321,Western Asia, 95 ,113306.08, 26 ,30648.70, 13 ,15355.64,Western Asia, 95 ,113306.08, 26 ,30648.70, 13 ,15355.64
-Denmark,DNK,5416945,Northern Europe, 81 ,469448.99, 21 ,119134.27, 30 ,172002.62,Northern Europe, 81 ,469448.99, 21 ,119134.27, 30 ,172002.62
-Djibouti,DJI,804206,Sub-Saharan Africa, 100 ,96962.09, 28 ,26918.17, 16 ,15227.33,Sub-Saharan Africa, 100 ,96962.09, 28 ,26918.17, 16 ,15227.33
-Dominica,DMA,67827,Latin America and the Caribbean, 72 ,5200.63, 28 ,1985.13, 16 ,1122.97,Latin America and the Caribbean, 72 ,5200.63, 28 ,1985.13, 16 ,1122.97
-Dominican Republic,DOM,9469601,Latin America and the Caribbean, 72 ,777849.00, 28 ,296912.67, 16 ,167960.41,Latin America and the Caribbean, 72 ,777849.00, 28 ,296912.67, 16 ,167960.41
-Ecuador,ECU,13060993,Latin America and the Caribbean, 72 ,1258414.67, 28 ,480349.35, 16 ,271728.64,Latin America and the Caribbean, 72 ,1258414.67, 28 ,480349.35, 16 ,271728.64
-Egypt,EGY,72849793,Northern Africa, 91 ,9136941.33, 28 ,2775537.67, 16 ,1570092.83,Northern Africa, 91 ,9136941.33, 28 ,2775537.67, 16 ,1570092.83
-Ireland,IRL,4143294,Northern Europe, 55 ,267072.75, 56 ,274134.93, 13 ,62551.22,Northern Europe, 55 ,267072.75, 56 ,274134.93, 13 ,62551.22
-Equatorial Guinea,GNQ,484098,Sub-Saharan Africa, 92 ,124670.32, 28 ,37490.79, 16 ,21208.15,Sub-Saharan Africa, 92 ,124670.32, 28 ,37490.79, 16 ,21208.15
-Estonia,EST,1344312,Northern Europe, 78 ,102743.50, 17 ,22012.57, 5 ,6242.79,Northern Europe, 78 ,102743.50, 17 ,22012.57, 5 ,6242.79
-Eritrea,ERI,4526722,Sub-Saharan Africa, 103 ,359132.35, 28 ,96688.08, 16 ,54695.44,Sub-Saharan Africa, 103 ,359132.35, 28 ,96688.08, 16 ,54695.44
-El Salvador,SLV,6668356,Latin America and the Caribbean, 80 ,516828.12, 28 ,178429.61, 16 ,100935.78,Latin America and the Caribbean, 80 ,516828.12, 28 ,178429.61, 16 ,100935.78
-Ethiopia,ETH,78985857,Sub-Saharan Africa, 92 ,10327235.52, 28 ,3098760.25, 16 ,1752936.49,Sub-Saharan Africa, 92 ,10327235.52, 28 ,3098760.25, 16 ,1752936.49
-Austria,AUT,8291979,Western Europe, 39 ,349248.90, 28 ,254190.71, 9 ,77288.93,Western Europe, 39 ,349248.90, 28 ,254190.71, 9 ,77288.93
-Czechia,CZE,10191762,,,,,,,,Eastern Europe, 70 ,746840.21, 26 ,273327.31, 13 ,136942.65
-French Guiana,GUF,192099,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
-Finland,FIN,5246004,Northern Europe, 65 ,361936.93, 23 ,128927.40, 13 ,70874.73,Northern Europe, 65 ,361936.93, 23 ,128927.40, 13 ,70874.73
-Fiji,FJI,828046,Melanesia, 76 ,67384.68, 28 ,24606.79, 16 ,13919.80,Melanesia, 76 ,67384.68, 28 ,24606.79, 16 ,13919.80
-Falkland Islands (Malvinas),FLK,2975,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
-Micronesia (Fed. States of),FSM,110058,Micronesia, 91 ,10357.64, 28 ,3146.35, 16 ,1779.86,Micronesia, 91 ,10357.64, 28 ,3146.35, 16 ,1779.86
-French Polynesia,PYF,255632,Polynesia, 79 ,21978.21, 26 ,7141.82, 13 ,3578.20,Polynesia, 79 ,21978.21, 26 ,7141.82, 13 ,3578.20
-France,FRA,60990544,Western Europe, 85 ,5522358.45, 24 ,1594579.44, 26 ,1667567.74,Western Europe, 85 ,5522358.45, 24 ,1594579.44, 26 ,1667567.74
-Gambia,GMB,1617029,Sub-Saharan Africa, 103 ,241095.48, 28 ,64909.38, 16 ,36718.56,Sub-Saharan Africa, 103 ,241095.48, 28 ,64909.38, 16 ,36718.56
-Gabon,GAB,1290693,Sub-Saharan Africa, 92 ,199748.34, 28 ,60068.21, 16 ,33979.96,Sub-Saharan Africa, 92 ,199748.34, 28 ,60068.21, 16 ,33979.96
-Georgia,GEO,4473409,Western Asia, 101 ,403572.88, 28 ,110503.82, 16 ,62510.87,Western Asia, 101 ,403572.88, 28 ,110503.82, 16 ,62510.87
-Ghana,GHA,2253501,Sub-Saharan Africa, 84 ,2555331.73, 28 ,840996.37, 16 ,475742.91,Sub-Saharan Africa, 84 ,2555331.73, 28 ,840996.37, 16 ,475742.91
-Grenada,GRD,105237,Latin America and the Caribbean, 72 ,8112.40, 28 ,3096.58, 16 ,1751.71,Latin America and the Caribbean, 72 ,8112.40, 28 ,3096.58, 16 ,1751.71
-Greenland,GRL,57475,Northern America, 74 ,4178.16, 26 ,1449.84, 13 ,726.40,Northern America, 74 ,4178.16, 26 ,1449.84, 13 ,726.40
-Germany,DEU,82652369,Western Europe, 75 ,6263775.00, 21 ,1718432.88, 6 ,498243.85,Western Europe, 75 ,6263775.00, 21 ,1718432.88, 6 ,498243.85
-Guam,GUM,16857,Micronesia, 79 ,13164.89, 26 ,4277.93, 13 ,2143.33,Micronesia, 79 ,13164.89, 26 ,4277.93, 13 ,2143.33
-Greece,GRC,11099737,Southern Europe, 142 ,1483995.92, 26 ,267811.77, 7 ,77331.53,Southern Europe, 142 ,1483995.92, 26 ,267811.77, 7 ,77331.53
-Guatemala,GTM,12709564,Latin America and the Caribbean, 72 ,1273466.07, 28 ,486094.62, 16 ,274978.68,Latin America and the Caribbean, 72 ,1273466.07, 28 ,486094.62, 16 ,274978.68
-Guinea,GIN,9002656,Sub-Saharan Africa, 103 ,1311529.86, 28 ,353099.09, 16 ,199744.49,Sub-Saharan Africa, 103 ,1311529.86, 28 ,353099.09, 16 ,199744.49
-Guyana,GUY,739472,Latin America and the Caribbean, 72 ,56699.90, 28 ,21642.91, 16 ,12243.17,Latin America and the Caribbean, 72 ,56699.90, 28 ,21642.91, 16 ,12243.17
-Haiti,HTI,9296291,Latin America and the Caribbean, 83 ,936940.44, 28 ,311403.03, 16 ,176157.46,Latin America and the Caribbean, 83 ,936940.44, 28 ,311403.03, 16 ,176157.46
-Honduras,HND,683411,Latin America and the Caribbean, 80 ,780503.68, 28 ,269460.90, 16 ,152431.23,Latin America and the Caribbean, 80 ,780503.68, 28 ,269460.90, 16 ,152431.23
-Croatia,HRV,455149,Southern Europe, 84 ,348070.21, 26 ,105613.50, 13 ,52914.55,Southern Europe, 84 ,348070.21, 26 ,105613.50, 13 ,52914.55
-Hungary,HUN,10086387,Eastern Europe, 94 ,908669.06, 26 ,247641.83, 13 ,124073.69,Eastern Europe, 94 ,908669.06, 26 ,247641.83, 13 ,124073.69
-Iceland,ISL,295732,Northern Europe, 76 ,25826.88, 26 ,8668.37, 13 ,4343.03,Northern Europe, 76 ,25826.88, 26 ,8668.37, 13 ,4343.03
-India,IND,1134403141,Southern Asia, 50 ,68760163.39, 28 ,37778821.22, 16 ,21371086.75,Southern Asia, 50 ,68760163.39, 28 ,37778821.22, 16 ,21371086.75
-Iran (Islamic Republic of),IRN,69420607,Southern Asia, 71 ,5884842.11, 28 ,2292409.69, 16 ,1296792.35,Southern Asia, 71 ,5884842.11, 28 ,2292409.69, 16 ,1296792.35
-Israel,ISR,6692037,Western Asia, 100 ,848395.24, 27 ,233752.05, 51 ,437996.93,Western Asia, 100 ,848395.24, 27 ,233752.05, 51 ,437996.93
-Italy,ITA,5864636,Southern Europe, 67 ,4059806.13, 26 ,1548291.37, 4 ,219551.83,Southern Europe, 67 ,4059806.13, 26 ,1548291.37, 4 ,219551.83
-Cote d'Ivoire,CIV,18584701,,,,,,,,Sub-Saharan Africa, 100 ,2561139.58, 28 ,711011.71, 16 ,402211.94
-Iraq,IRQ,27995984,Western Asia, 120 ,4734434.37, 28 ,1086840.28, 16 ,614814.26,Western Asia, 120 ,4734434.37, 28 ,1086840.28, 16 ,614814.26
-Japan,JPN,127896740,Eastern Asia, 64 ,8159891.22, 15 ,1870735.47, 9 ,1095307.56,Eastern Asia, 64 ,8159891.22, 15 ,1870735.47, 9 ,1095307.56
-Jamaica,JAM,2682469,Latin America and the Caribbean, 72 ,213551.75, 28 ,81514.82, 16 ,46112.09,Latin America and the Caribbean, 72 ,213551.75, 28 ,81514.82, 16 ,46112.09
-Jordan,JOR,5544066,Western Asia, 93 ,939896.67, 28 ,279292.55, 16 ,157992.90,Western Asia, 93 ,939896.67, 28 ,279292.55, 16 ,157992.90
-Kenya,KEN,35598952,Sub-Saharan Africa, 99 ,5217366.84, 31 ,1637019.64, 11 ,576410.51,Sub-Saharan Africa, 99 ,5217366.84, 31 ,1637019.64, 11 ,576410.51
-Kyrgyzstan,KGZ,5203547,Central Asia, 91 ,583950.71, 28 ,177387.28, 16 ,100346.14,Central Asia, 91 ,583950.71, 28 ,177387.28, 16 ,100346.14
-Dem. People's Rep. Korea,PRK,23615611,Eastern Asia, 81 ,2070527.66, 28 ,709621.01, 16 ,401425.24,Eastern Asia, 81 ,2070527.66, 28 ,709621.01, 16 ,401425.24
-Kiribati,KIR,92003,Micronesia, 91 ,10703.50, 28 ,3251.41, 16 ,1839.29,Micronesia, 91 ,10703.50, 28 ,3251.41, 16 ,1839.29
-Republic of Korea,KOR,47869837,Eastern Asia, 71 ,3657763.88, 26 ,1309852.33, 13 ,656263.17,Eastern Asia, 71 ,3657763.88, 26 ,1309852.33, 13 ,656263.17
-Kuwait,KWT,2700,Western Asia, 95 ,397705.67, 26 ,107577.31, 13 ,53898.46,Western Asia, 95 ,397705.67, 26 ,107577.31, 13 ,53898.46
-Kazakhstan,KAZ,15210609,Central Asia, 76 ,1404584.36, 28 ,512910.49, 16 ,290148.14,Central Asia, 76 ,1404584.36, 28 ,512910.49, 16 ,290148.14
-Lao People's Dem. Rep.,LAO,566391,,,,,,,,South-eastern Asia, 86 ,618994.03, 28 ,198222.87, 16 ,112132.62
-Lebanon,LBN,401074,Western Asia, 105 ,717491.24, 28 ,189546.90, 16 ,107224.72,Western Asia, 105 ,717491.24, 28 ,189546.90, 16 ,107224.72
-Latvia,LVA,2301793,Northern Europe, 76 ,145262.85, 26 ,48755.12, 13 ,24427.32,Northern Europe, 76 ,145262.85, 26 ,48755.12, 13 ,24427.32
-Belarus,BLR,9795287,Eastern Europe, 68 ,646355.73, 28 ,261340.66, 16 ,147837.70,Eastern Europe, 68 ,646355.73, 28 ,261340.66, 16 ,147837.70
-Lithuania,LTU,3425077,Northern Europe, 76 ,210241.45, 26 ,70564.13, 13 ,35354.09,Northern Europe, 76 ,210241.45, 26 ,70564.13, 13 ,35354.09
-Liberia,LBR,3441796,Sub-Saharan Africa, 103 ,507043.00, 28 ,136509.60, 16 ,77222.06,Sub-Saharan Africa, 103 ,507043.00, 28 ,136509.60, 16 ,77222.06
-Slovakia,SVK,5386995,Eastern Europe, 70 ,381273.35, 26 ,139537.77, 13 ,69911.32,Eastern Europe, 70 ,381273.35, 26 ,139537.77, 13 ,69911.32
-Liechtenstein,LIE,34598,Western Europe, 72 ,2723.66, 26 ,971.68, 13 ,486.83,Western Europe, 72 ,2723.66, 26 ,971.68, 13 ,486.83
-Libya,LBY,5918217,,,,,,,,Northern Africa, 76 ,513145.67, 28 ,187384.83, 16 ,106001.65
-Madagascar,MDG,18642586,Sub-Saharan Africa, 103 ,2769594.26, 28 ,745649.22, 16 ,421806.02,Sub-Saharan Africa, 103 ,2769594.26, 28 ,745649.22, 16 ,421806.02
-Martinique,MTQ,395896,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
-Mongolia,MNG,2580704,Eastern Asia, 78 ,250173.41, 28 ,89170.57, 16 ,50442.87,Eastern Asia, 78 ,250173.41, 28 ,89170.57, 16 ,50442.87
-Montserrat,MSR,5628,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
-North Macedonia,MKD,2033655,,,,,,,,Southern Europe, 83 ,172479.99, 28 ,57604.76, 16 ,32586.42
-Mali,MLI,1161109,Sub-Saharan Africa, 103 ,2018765.18, 28 ,543505.85, 16 ,307455.61,Sub-Saharan Africa, 103 ,2018765.18, 28 ,543505.85, 16 ,307455.61
-Morocco,MAR,30494991,Northern Africa, 91 ,3319523.90, 28 ,1008375.05, 16 ,570427.29,Northern Africa, 91 ,3319523.90, 28 ,1008375.05, 16 ,570427.29
-Mauritius,MUS,1241173,Sub-Saharan Africa, 93 ,118626.01, 26 ,32466.76, 13 ,16266.52,Sub-Saharan Africa, 93 ,118626.01, 26 ,32466.76, 13 ,16266.52
-Mauritania,MRT,2963105,Sub-Saharan Africa, 100 ,450720.33, 28 ,125126.89, 16 ,70782.98,Sub-Saharan Africa, 100 ,450720.33, 28 ,125126.89, 16 ,70782.98
-Malta,MLT,402617,Southern Europe, 129 ,56811.60, 26 ,11261.21, 13 ,5642.10,Southern Europe, 129 ,56811.60, 26 ,11261.21, 13 ,5642.10
-Oman,OMN,2507042,Western Asia, 95 ,470296.81, 26 ,127212.83, 13 ,63736.26,Western Asia, 95 ,470296.81, 26 ,127212.83, 13 ,63736.26
-Maldives,MDV,295297,Southern Asia, 71 ,37687.90, 28 ,14681.13, 16 ,8304.96,Southern Asia, 71 ,37687.90, 28 ,14681.13, 16 ,8304.96
-Mexico,MEX,104266392,Latin America and the Caribbean, 94 ,11979364.27, 28 ,3527216.94, 16 ,1995309.98,Latin America and the Caribbean, 94 ,11979364.27, 28 ,3527216.94, 16 ,1995309.98
-Malaysia,MYS,25652985,South-eastern Asia, 91 ,2921576.53, 90 ,2861537.49, 79 ,2518199.21,South-eastern Asia, 91 ,2921576.53, 90 ,2861537.49, 79 ,2518199.21
-Mozambique,MOZ,20532675,Sub-Saharan Africa, 103 ,3118416.09, 28 ,839561.43, 16 ,474931.18,Sub-Saharan Africa, 103 ,3118416.09, 28 ,839561.43, 16 ,474931.18
-Malawi,MWI,13226091,Sub-Saharan Africa, 103 ,1913061.91, 28 ,515047.69, 16 ,291357.13,Sub-Saharan Africa, 103 ,1913061.91, 28 ,515047.69, 16 ,291357.13
-New Caledonia,NCL,234185,Melanesia, 79 ,22253.63, 26 ,7231.31, 13 ,3623.04,Melanesia, 79 ,22253.63, 26 ,7231.31, 13 ,3623.04
-Niue,NIU,1632,Polynesia, * ,*.00, * ,*.00, * ,*.00,Polynesia, * ,*.00, * ,*.00, * ,*.00
-Niger,NER,1326419,Sub-Saharan Africa, 103 ,2393876.77, 28 ,644495.97, 16 ,364584.68,Sub-Saharan Africa, 103 ,2393876.77, 28 ,644495.97, 16 ,364584.68
-Aruba,ABW,102897,Latin America and the Caribbean, 74 ,7857.78, 26 ,2718.14, 13 ,1361.84,Latin America and the Caribbean, 74 ,7857.78, 26 ,2718.14, 13 ,1361.84
-Anguilla,AIA,12256,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
-Belgium,BEL,10398049,Western Europe, 50 ,576036.22, 20 ,227371.14, 10 ,112100.17,Western Europe, 50 ,576036.22, 20 ,227371.14, 10 ,112100.17
-China Hong Kong SAR,HKG,7057418,,,,,,,,,,,,,,
-Northern Mariana Islands,MNP,80258,Micronesia, 79 ,4501.09, 26 ,1462.63, 13 ,732.81,Micronesia, 79 ,4501.09, 26 ,1462.63, 13 ,732.81
-Faroe Islands,FRO,48205,Northern Europe, 76 ,3710.23, 26 ,1245.28, 13 ,623.91,Northern Europe, 76 ,3710.23, 26 ,1245.28, 13 ,623.91
-Andorra,AND,73483,Southern Europe, 84 ,6497.40, 26 ,1971.48, 13 ,987.75,Southern Europe, 84 ,6497.40, 26 ,1971.48, 13 ,987.75
-Gibraltar,GIB,291,Southern Europe, 84 ,2839.98, 26 ,861.72, 13 ,431.74,Southern Europe, 84 ,2839.98, 26 ,861.72, 13 ,431.74
-Isle of Man,IMN,78357,Northern Europe, 76 ,6445.29, 26 ,2163.26, 13 ,1083.84,Northern Europe, 76 ,6445.29, 26 ,2163.26, 13 ,1083.84
-Luxembourg,LUX,456613,Western Europe, 89 ,54951.23, 21 ,12868.13, 7 ,4433.04,Western Europe, 89 ,54951.23, 21 ,12868.13, 7 ,4433.04
-China Macao SAR,MAC,47309,,,,,,,,,,,,,,
-Monaco,MCO,325,Western Europe, 72 ,2795.33, 26 ,997.25, 13 ,499.64,Western Europe, 72 ,2795.33, 26 ,997.25, 13 ,499.64
-State of Palestine,PSE,3762005,,,,,,,,Western Asia, 101 ,501601.80, 28 ,137726.12, 16 ,77910.23
-Montenegro,MNE,607969,Southern Europe, 83 ,51988.21, 28 ,17362.99, 16 ,9822.06,Southern Europe, 83 ,51988.21, 28 ,17362.99, 16 ,9822.06
-Mayotte,MYT,0,Sub-Saharan Africa, * ,*.00, * ,*.00, * ,*.00,Sub-Saharan Africa, * ,*.00, * ,*.00, * ,*.00
-Åland Islands,ALA,0,,,,,,,,,,,,,,
-Norfolk Island,NFK,0,,,,,,,,,,,,,,
-Cocos (Keeling) Islands,CCK,0,,,,,,,,,,,,,,
-Antarctica,ATA,0,,,,,,,,,,,,,,
-Bouvet Island,BVT,0,,,,,,,,,,,,,,
-French Southern and Antarctic Lands,ATF,0,,,,,,,,,,,,,,
-Heard Island and McDonald Islands,HMD,0,,,,,,,,,,,,,,
-British Indian Ocean Territory,IOT,0,,,,,,,,,,,,,,
-Christmas Island,CXR,0,,,,,,,,,,,,,,
-United States Minor Outlying Islands,UMI,0,,,,,,,,,,,,,,
-Vanuatu,VUT,215366,Melanesia, 91 ,27295.75, 28 ,8291.66, 16 ,4690.50,Melanesia, 91 ,27295.75, 28 ,8291.66, 16 ,4690.50
-Nigeria,NGA,141356083,Sub-Saharan Africa, 189 ,37941470.49, 28 ,5556256.60, 16 ,3143116.64,Sub-Saharan Africa, 189 ,37941470.49, 28 ,5556256.60, 16 ,3143116.64
-Netherlands,NLD,1632769,Western Europe, 50 ,854855.00, 26 ,437179.99, 11 ,188068.10,Western Europe, 50 ,854855.00, 26 ,437179.99, 11 ,188068.10
-Norway,NOR,4638836,Northern Europe, 79 ,423857.32, 5 ,26685.48, 14 ,74087.70,Northern Europe, 79 ,423857.32, 5 ,26685.48, 14 ,74087.70
-Nepal,NPL,27093656,Southern Asia, 79 ,2249412.50, 28 ,790975.47, 16 ,447446.61,Southern Asia, 79 ,2249412.50, 28 ,790975.47, 16 ,447446.61
-Nauru,NRU,10111,Micronesia, 79 ,849.86, 26 ,276.16, 13 ,138.36,Micronesia, 79 ,849.86, 26 ,276.16, 13 ,138.36
-Suriname,SUR,452468,Latin America and the Caribbean, 72 ,42112.06, 28 ,16074.59, 16 ,9093.23,Latin America and the Caribbean, 72 ,42112.06, 28 ,16074.59, 16 ,9093.23
-Nicaragua,NIC,5462539,Latin America and the Caribbean, 80 ,524187.81, 28 ,180970.47, 16 ,102373.12,Latin America and the Caribbean, 80 ,524187.81, 28 ,180970.47, 16 ,102373.12
-New Zealand,NZL,4097112,Australia and New Zealand, 61 ,291769.10, 26 ,122305.87, 3 ,14923.27,Australia and New Zealand, 61 ,291769.10, 26 ,122305.87, 3 ,14923.27
-Paraguay,PRY,5904342,Latin America and the Caribbean, 72 ,510255.61, 28 ,194769.63, 16 ,110179.15,Latin America and the Caribbean, 72 ,510255.61, 28 ,194769.63, 16 ,110179.15
-Peru,PER,27274266,Latin America and the Caribbean, 72 ,2354805.83, 28 ,898852.73, 16 ,508471.65,Latin America and the Caribbean, 72 ,2354805.83, 28 ,898852.73, 16 ,508471.65
-Pakistan,PAK,158080591,Southern Asia, 74 ,15947644.68, 28 ,5987613.56, 16 ,3387130.80,Southern Asia, 74 ,15947644.68, 28 ,5987613.56, 16 ,3387130.80
-Poland,POL,38195558,Eastern Europe, 56 ,2119454.90, 26 ,968806.88, 13 ,485392.33,Eastern Europe, 56 ,2119454.90, 26 ,968806.88, 13 ,485392.33
-Panama,PAN,3231502,Latin America and the Caribbean, 74 ,313897.16, 26 ,108582.22, 13 ,54401.94,Latin America and the Caribbean, 74 ,313897.16, 26 ,108582.22, 13 ,54401.94
-Portugal,PRT,10528226,Southern Europe, 84 ,861786.22, 26 ,261488.21, 13 ,131011.01,Southern Europe, 84 ,861786.22, 26 ,261488.21, 13 ,131011.01
-Papua New Guinea,PNG,6069715,Melanesia, 91 ,798767.09, 28 ,242642.27, 16 ,137260.21,Melanesia, 91 ,798767.09, 28 ,242642.27, 16 ,137260.21
-Guinea-Bissau,GNB,1596929,Sub-Saharan Africa, 103 ,197265.54, 28 ,53109.19, 16 ,30043.32,Sub-Saharan Africa, 103 ,197265.54, 28 ,53109.19, 16 ,30043.32
-Qatar,QAT,796186,Western Asia, 95 ,267724.14, 26 ,72417.98, 13 ,36282.91,Western Asia, 95 ,267724.14, 26 ,72417.98, 13 ,36282.91
-Reunion,REU,785159,,,,,,,,,,,,,,
-Romania,ROU,21627557,Eastern Europe, 70 ,1352978.89, 26 ,495160.92, 13 ,248085.88,Eastern Europe, 70 ,1352978.89, 26 ,495160.92, 13 ,248085.88
-Republic of Moldova,MDA,3876661,Eastern Europe, 76 ,307418.55, 28 ,111789.46, 16 ,63238.14,Eastern Europe, 76 ,307418.55, 28 ,111789.46, 16 ,63238.14
-Philippines,PHL,84566163,South-eastern Asia, 86 ,9334476.59, 28 ,2989215.82, 16 ,1690968.34,South-eastern Asia, 86 ,9334476.59, 28 ,2989215.82, 16 ,1690968.34
-Puerto Rico,PRI,3946779,Latin America and the Caribbean, 74 ,216839.19, 26 ,75008.26, 13 ,37580.70,Latin America and the Caribbean, 74 ,216839.19, 26 ,75008.26, 13 ,37580.70
-Russia,RUS,143953092,Eastern Europe,33,4868563.96,28,4033088.23,14,2001062.31,Eastern Europe, 33 ,4868563.96, 28 ,4033088.23, 14 ,2001062.31
-Rwanda,RWA,9233793,Sub-Saharan Africa, 164 ,2075405.29, 28 ,349112.24, 16 ,197489.17,Sub-Saharan Africa, 164 ,2075405.29, 28 ,349112.24, 16 ,197489.17
-Saudi Arabia,SAU,2361236,Western Asia, 105 ,3594080.28, 26 ,876259.87, 20 ,673501.73,Western Asia, 105 ,3594080.28, 26 ,876259.87, 20 ,673501.73
-Saint Kitts and Nevis,KNA,49138,Latin America and the Caribbean, 74 ,3903.02, 26 ,1350.12, 13 ,676.44,Latin America and the Caribbean, 74 ,3903.02, 26 ,1350.12, 13 ,676.44
-Seychelles,SYC,85532,Sub-Saharan Africa, 93 ,9127.95, 26 ,2498.23, 13 ,1251.66,Sub-Saharan Africa, 93 ,9127.95, 26 ,2498.23, 13 ,1251.66
-South Africa,ZAF,47938663,Sub-Saharan Africa, 40 ,2329228.14, 28 ,1619024.24, 16 ,915865.20,Sub-Saharan Africa, 40 ,2329228.14, 28 ,1619024.24, 16 ,915865.20
-Lesotho,LSO,1980831,Sub-Saharan Africa, 100 ,211661.38, 28 ,58760.45, 16 ,33240.18,Sub-Saharan Africa, 100 ,211661.38, 28 ,58760.45, 16 ,33240.18
-Botswana,BWA,1835938,Sub-Saharan Africa, 92 ,211801.64, 28 ,63692.87, 16 ,36030.39,Sub-Saharan Africa, 92 ,211801.64, 28 ,63692.87, 16 ,36030.39
-Senegal,SEN,1177034,Sub-Saharan Africa, 100 ,1622979.61, 28 ,450564.08, 16 ,254879.42,Sub-Saharan Africa, 100 ,1622979.61, 28 ,450564.08, 16 ,254879.42
-Slovenia,SVN,1999425,Southern Europe, 34 ,71106.54, 20 ,41740.85, 7 ,13910.18,Southern Europe, 34 ,71106.54, 20 ,41740.85, 7 ,13910.18
-Sierra Leone,SLE,5586403,Sub-Saharan Africa, 103 ,802371.36, 28 ,216019.94, 16 ,122200.23,Sub-Saharan Africa, 103 ,802371.36, 28 ,216019.94, 16 ,122200.23
-Singapore,SGP,4327468,South-eastern Asia, 80 ,465355.13, 26 ,148418.38, 13 ,74360.68,South-eastern Asia, 80 ,465355.13, 26 ,148418.38, 13 ,74360.68
-Somalia,SOM,8196395,Sub-Saharan Africa, 103 ,1585898.30, 28 ,426966.45, 16 ,241530.49,Sub-Saharan Africa, 103 ,1585898.30, 28 ,426966.45, 16 ,241530.49
-Spain,ESP,43397491,Southern Europe, 77 ,3613954.13, 26 ,1195079.51, 13 ,598759.61,Southern Europe, 77 ,3613954.13, 26 ,1195079.51, 13 ,598759.61
-Saint Lucia,LCA,16124,Latin America and the Caribbean, 72 ,13240.60, 28 ,5054.07, 16 ,2859.03,Latin America and the Caribbean, 72 ,13240.60, 28 ,5054.07, 16 ,2859.03
-Sudan,SDN,36899747,Northern Africa, 97 ,4162395.67, 28 ,1183702.55, 16 ,669608.23,Northern Africa, 97 ,4162395.67, 28 ,1183702.55, 16 ,669608.23
-Sweden,SWE,9038049,Northern Europe, 81 ,812948.40, 21 ,205746.20, 10 ,100364.00,Northern Europe, 81 ,812948.40, 21 ,205746.20, 10 ,100364.00
-Syrian Arab Republic,SYR,18893881,Western Asia, 104 ,1771841.93, 28 ,471955.40, 16 ,266980.27,Western Asia, 104 ,1771841.93, 28 ,471955.40, 16 ,266980.27
-Switzerland,CHE,7424389,Western Europe, 72 ,615789.80, 40 ,343656.00, 13 ,110067.08,Western Europe, 72 ,615789.80, 40 ,343656.00, 13 ,110067.08
-Trinidad and Tobago,TTO,1323722,Latin America and the Caribbean, 74 ,103119.47, 26 ,35670.73, 13 ,17871.78,Latin America and the Caribbean, 74 ,103119.47, 26 ,35670.73, 13 ,17871.78
-Thailand,THA,63002911,South-eastern Asia, 79 ,5478531.87, 28 ,1925013.78, 16 ,1088960.30,South-eastern Asia, 79 ,5478531.87, 28 ,1925013.78, 16 ,1088960.30
-Tajikistan,TJK,6550213,Central Asia, 97 ,906208.60, 28 ,257707.70, 16 ,145782.57,Central Asia, 97 ,906208.60, 28 ,257707.70, 16 ,145782.57
-Tokelau,TKL,1401,Polynesia, * ,*.00, * ,*.00, * ,*.00,Polynesia, * ,*.00, * ,*.00, * ,*.00
-Tonga,TON,99361,Polynesia, 76 ,7912.02, 28 ,2889.22, 16 ,1634.40,Polynesia, 76 ,7912.02, 28 ,2889.22, 16 ,1634.40
-Togo,TGO,6238572,Sub-Saharan Africa, 103 ,830016.67, 28 ,223462.80, 16 ,126410.58,Sub-Saharan Africa, 103 ,830016.67, 28 ,223462.80, 16 ,126410.58
-Sao Tome and Principe,STP,152622,Sub-Saharan Africa, 100 ,21422.09, 28 ,5947.10, 16 ,3364.21,Sub-Saharan Africa, 100 ,21422.09, 28 ,5947.10, 16 ,3364.21
-Tunisia,TUN,10104685,Northern Africa, 91 ,1064406.92, 28 ,323335.94, 16 ,182907.78,Northern Africa, 91 ,1064406.92, 28 ,323335.94, 16 ,182907.78
-Turkey,TUR,72969723,Western Asia, 93 ,7762574.96, 28 ,2306667.80, 16 ,1304858.02,Western Asia, 93 ,7762574.96, 28 ,2306667.80, 16 ,1304858.02
-Tuvalu,TUV,10441,Polynesia, 76 ,878.27, 28 ,320.72, 16 ,181.43,Polynesia, 76 ,878.27, 28 ,320.72, 16 ,181.43
-Turkmenistan,TKM,4833266,Central Asia, 76 ,449894.93, 28 ,164287.62, 16 ,92935.80,Central Asia, 76 ,449894.93, 28 ,164287.62, 16 ,92935.80
-United Rep. of Tanzania,TZA,38477873,,,,,,,,Sub-Saharan Africa, 119 ,6907649.35, 28 ,1603740.39, 16 ,907219.28
-Uganda,UGA,28947181,Sub-Saharan Africa, 103 ,4546237.01, 28 ,1223969.20, 16 ,692386.66,Sub-Saharan Africa, 103 ,4546237.01, 28 ,1223969.20, 16 ,692386.66
-United Kingdom,GBR,60244834,Northern Europe, 77 ,5199825.40, 17 ,1114248.30, 4 ,283626.84,Northern Europe, 77 ,5199825.40, 17 ,1114248.30, 4 ,283626.84
-Ukraine,UKR,46917544,Eastern Europe, 76 ,3344903.61, 28 ,1216338.33, 16 ,688069.96,Eastern Europe, 76 ,3344903.61, 28 ,1216338.33, 16 ,688069.96
-United States of America,USA,299846449,,,,,,,,Northern America, 59 ,19359951.34, 64 ,20934827.07, 16 ,5151313.19
-Burkina Faso,BFA,13933363,Sub-Saharan Africa, 103 ,2086892.60, 28 ,561847.58, 16 ,317831.34,Sub-Saharan Africa, 103 ,2086892.60, 28 ,561847.58, 16 ,317831.34
-Uruguay,URY,3325727,Latin America and the Caribbean, 74 ,255891.53, 26 ,88517.12, 13 ,44348.91,Latin America and the Caribbean, 74 ,255891.53, 26 ,88517.12, 13 ,44348.91
-Uzbekistan,UZB,26593123,Central Asia, 91 ,3001868.33, 28 ,911880.50, 16 ,515841.33,Central Asia, 91 ,3001868.33, 28 ,911880.50, 16 ,515841.33
-Saint Vincent & Grenadines,VCT,119137,,,,,,,,Latin America and the Caribbean, 72 ,8011.00, 28 ,3057.88, 16 ,1729.81
-Venezuela (Boliv. Rep. of),VEN,26725573,,,,,,,,Latin America and the Caribbean, 72 ,2065461.07, 28 ,788406.96, 16 ,445993.63
-British Virgin Islands,VGB,22016,Latin America and the Caribbean, 74 ,2217.62, 26 ,767.11, 13 ,384.34,Latin America and the Caribbean, 74 ,2217.62, 26 ,767.11, 13 ,384.34
-Viet Nam,VNM,85028643,South-eastern Asia, 76 ,7346716.81, 28 ,2666991.33, 16 ,1508689.29,South-eastern Asia, 76 ,7346716.81, 28 ,2666991.33, 16 ,1508689.29
-United States Virgin Islands,VIR,111408,Latin America and the Caribbean, 74 ,7732.11, 26 ,2674.67, 13 ,1340.06,Latin America and the Caribbean, 74 ,7732.11, 26 ,2674.67, 13 ,1340.06
-Namibia,NAM,2019677,Sub-Saharan Africa, 92 ,229343.75, 28 ,68968.12, 16 ,39014.55,Sub-Saharan Africa, 92 ,229343.75, 28 ,68968.12, 16 ,39014.55
-Wallis and Futuna Islands,WLF,15079,Polynesia, * ,*.00, * ,*.00, * ,*.00,Polynesia, * ,*.00, * ,*.00, * ,*.00
-Samoa,WSM,183845,Polynesia, 76 ,14923.06, 28 ,5449.44, 16 ,3082.69,Polynesia, 76 ,14923.06, 28 ,5449.44, 16 ,3082.69
-Eswatini,SWZ,1124529,,,,,,,,Sub-Saharan Africa, 100 ,114340.77, 28 ,31742.75, 16 ,17956.55
-Yemen,YEM,21095679,Western Asia, 104 ,3026946.36, 28 ,806270.39, 16 ,456098.78,Western Asia, 104 ,3026946.36, 28 ,806270.39, 16 ,456098.78
-Zambia,ZMB,11478317,Sub-Saharan Africa, 78 ,1391729.12, 28 ,493822.26, 16 ,279350.12,Sub-Saharan Africa, 78 ,1391729.12, 28 ,493822.26, 16 ,279350.12
-Zimbabwe,ZWE,13119679,Sub-Saharan Africa, 100 ,1458564.34, 28 ,404919.88, 16 ,229058.97,Sub-Saharan Africa, 100 ,1458564.34, 28 ,404919.88, 16 ,229058.97
-Indonesia,IDN,226063044,South-eastern Asia, 77 ,20938251.73, 28 ,7482276.77, 16 ,4232646.25,South-eastern Asia, 77 ,20938251.73, 28 ,7482276.77, 16 ,4232646.25
-Guadeloupe,GLP,438403,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
-Netherlands Antilles,ANT,186392,,,,,,,,,,,,,,
-United Arab Emirates,ARE,4104291,Western Asia, 95 ,923625.13, 26 ,249835.77, 13 ,125172.90,Western Asia, 95 ,923625.13, 26 ,249835.77, 13 ,125172.90
-Timor-Leste,TLS,1067285,South-eastern Asia, 86 ,111642.54, 28 ,35751.73, 16 ,20224.38,South-eastern Asia, 86 ,111642.54, 28 ,35751.73, 16 ,20224.38
-Pitcairn Islands,PCN,5,,,,,,,,,,,,,,
-Palau,PLW,20127,Micronesia, 79 ,1416.43, 26 ,460.27, 13 ,230.60,Micronesia, 79 ,1416.43, 26 ,460.27, 13 ,230.60
-Marshall Islands,MHL,5672,Micronesia, 76 ,4451.93, 28 ,1625.71, 16 ,919.65,Micronesia, 76 ,4451.93, 28 ,1625.71, 16 ,919.65
-Saint Pierre and Miquelon,SPM,6346,Northern America, * ,*.00, * ,*.00, * ,*.00,Northern America, * ,*.00, * ,*.00, * ,*.00
-Saint Helena,SHN,6399,Sub-Saharan Africa, * ,*.00, * ,*.00, * ,*.00,Sub-Saharan Africa, * ,*.00, * ,*.00, * ,*.00
-San Marino,SMR,30214,Southern Europe, 84 ,2856.83, 26 ,866.84, 13 ,434.30,Southern Europe, 84 ,2856.83, 26 ,866.84, 13 ,434.30
-Turks and Caicos Islands,TCA,24459,Latin America and the Caribbean, 74 ,2823.77, 26 ,976.79, 13 ,489.39,Latin America and the Caribbean, 74 ,2823.77, 26 ,976.79, 13 ,489.39
-Western Sahara,ESH,440428,Northern Africa, * ,*.00, * ,*.00, * ,*.00,Northern Africa, * ,*.00, * ,*.00, * ,*.00
-Serbia,SRB,9863026,Southern Europe, 83 ,726195.82, 6 ,52633.20, 16 ,137199.21,Southern Europe, 83 ,726195.82, 6 ,52633.20, 16 ,137199.21
-Holy See,VAT,783,,,,,,,,Southern Europe, * ,*.00, * ,*.00, * ,*.00
-Svalbard,SJM,0,,,,,,,,,,,,,,
-Saint Martin (French part),MAF,0,,,,,,,,Latin America and the Caribbean, 74 ,2808.99, 26 ,971.68, 13 ,486.83
-Saint Barth lemy,BLM,0,,,,,,,,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
-Guernsey,GGY,0,,,,,,,,,,,,,,
-Jersey,JEY,0,,,,,,,,,,,,,,
-South Georgia South Sandwich Islands,SGS,0,,,,,,,,,,,,,,
-Taiwan,TWN,23588932,,,,,,,,,,,,,,
+Country,code,pop,Region,Household estimate (kg/capita/year),Household estimate (tonnes/year),Food service estimate (kg/capita/year),Food service estimate (tonnes/year),Retail estimate (kg/capita/year),Retail service estimate (tonnes/year)
+Antigua and Barbuda,ATG,83039,Latin America and the Caribbean, 74 ,7177.71, 26 ,2482.89, 13 ,1243.98
+Algeria,DZA,32854159,Northern Africa, 91 ,3918528.68, 28 ,1190335.32, 16 ,673360.33
+Azerbaijan,AZE,8352021,Western Asia, 93 ,934872.33, 28 ,277799.56, 16 ,157148.32
+Albania,ALB,3153731,Southern Europe, 83 ,238491.77, 28 ,79651.34, 16 ,45057.93
+Armenia,ARM,3017661,Western Asia, 93 ,275194.51, 28 ,81774.71, 16 ,46259.10
+Angola,AGO,16095214,Sub-Saharan Africa, 100 ,3169522.89, 28 ,879908.27, 16 ,497754.97
+American Samoa,ASM,64051,Polynesia, 76 ,4186.94, 28 ,1528.94, 16 ,864.90
+Argentina,ARG,38747148,Latin America and the Caribbean, 72 ,3243562.95, 28 ,1238100.13, 16 ,700380.38
+Australia,AUS,20310208,Australia and New Zealand, 102 ,2563110.27, 22 ,546339.63, 9 ,238247.67
+Bahrain,BHR,724788,Western Asia, 132 ,216161.07, 26 ,41966.17, 13 ,21025.92
+Barbados,BRB,291933,Latin America and the Caribbean, 74 ,21215.26, 26 ,7338.71, 13 ,3676.85
+Bermuda,BMU,64174,Northern America, 74 ,4605.55, 26 ,1598.15, 13 ,800.71
+Bahamas,BHS,323295,Latin America and the Caribbean, 74 ,28792.14, 26 ,9959.68, 13 ,4990.01
+Bangladesh,BGD,15328112,Southern Asia, 65 ,10618232.96, 3 ,544436.36, 16 ,2550079.84
+Belize,BLZ,275546,Latin America and the Caribbean, 53 ,20563.89, 28 ,10793.81, 16 ,6105.95
+Bosnia and Herzegovina,BIH,3915238,Southern Europe, 83 ,273269.24, 28 ,91266.29, 16 ,51628.39
+Bolivia (Plurin. State of),BOL,9182015,Latin America and the Caribbean, 80 ,922011.57, 28 ,318315.05, 16 ,180067.52
+Myanmar,MMR,47967266,South-eastern Asia, 86 ,4666124.55, 28 ,1494251.25, 16 ,845282.41
+Benin,BEN,8490301,Sub-Saharan Africa, 100 ,1175296.81, 28 ,326280.46, 16 ,184573.47
+Solomon Islands,SLB,472419,Melanesia, 91 ,60962.64, 28 ,18518.68, 16 ,10475.83
+Brazil,BRA,186830759,Latin America and the Caribbean, 60 ,12578308.31, 28 ,5835112.31, 16 ,3300862.42
+Bulgaria,BGR,7744591,Eastern Europe, 68 ,478667.30, 28 ,193539.29, 16 ,109483.16
+Brunei Darussalam,BRN,373831,South-eastern Asia, 80 ,34739.48, 26 ,11079.66, 13 ,5551.14
+Canada,CAN,32270507,Northern America, 79 ,2938320.60, 26 ,956614.91, 13 ,479283.90
+Cambodia,KHM,13955507,South-eastern Asia, 86 ,1423397.04, 28 ,455819.98, 16 ,257852.63
+Sri Lanka,LKA,19120763,Southern Asia, 76 ,1617737.69, 28 ,589559.25, 16 ,333507.54
+Congo,COG,3609851,Sub-Saharan Africa, 100 ,535850.97, 28 ,148760.47, 16 ,84152.25
+Dem. Rep. of the Congo,COD,58740547,Sub-Saharan Africa, 103 ,8912902.72, 28 ,2399592.98, 16 ,1357424.82
+Burundi,BDI,7858791,Sub-Saharan Africa, 103 ,1184127.27, 28 ,318798.89, 16 ,180341.22
+China,CHN,1312978855,Eastern Asia, 64 ,91646212.71, 46 ,65377740.84, 16 ,22424704.82
+Afghanistan,AFG,25067407,Southern Asia, 82 ,3109152.67, 28 ,1051782.52, 16 ,594982.45
+Bhutan,BTN,637013,Southern Asia, 79 ,60000.16, 28 ,21098.25, 16 ,11935.06
+Chile,CHL,16295102,Latin America and the Caribbean, 74 ,1400946.43, 26 ,484610.56, 13 ,242799.94
+Cayman Islands,CYM,45591,Latin America and the Caribbean, 74 ,4797.46, 26 ,1659.52, 13 ,831.45
+Cameroon,CMR,17795149,Sub-Saharan Africa, 100 ,2577064.23, 28 ,715432.64, 16 ,404712.81
+Chad,TCD,10145609,Sub-Saharan Africa, 103 ,1637656.25, 28 ,440901.08, 16 ,249413.16
+Comoros,COM,797902,Sub-Saharan Africa, 100 ,84742.23, 28 ,23525.75, 16 ,13308.27
+Colombia,COL,4494579,Latin America and the Caribbean, 70 ,3545498.98, 28 ,1391787.48, 16 ,787319.72
+Costa Rica,CRI,4327228,Latin America and the Caribbean, 72 ,365608.58, 28 ,139556.42, 16 ,78945.62
+Central African Republic,CAF,4191429,Sub-Saharan Africa, 103 ,487305.15, 28 ,131195.64, 16 ,74216.01
+Cuba,CUB,11259905,Latin America and the Caribbean, 72 ,820909.92, 28 ,313349.45, 16 ,177258.53
+Cabo Verde,CPV,506807,Sub-Saharan Africa, 100 ,54765.25, 28 ,15203.68, 16 ,8600.56
+Cook Islands,COK,13984,Polynesia, * ,*.00, * ,*.00, * ,*.00
+Cyprus,CYP,836321,Western Asia, 95 ,113306.08, 26 ,30648.70, 13 ,15355.64
+Denmark,DNK,5416945,Northern Europe, 81 ,469448.99, 21 ,119134.27, 30 ,172002.62
+Djibouti,DJI,804206,Sub-Saharan Africa, 100 ,96962.09, 28 ,26918.17, 16 ,15227.33
+Dominica,DMA,67827,Latin America and the Caribbean, 72 ,5200.63, 28 ,1985.13, 16 ,1122.97
+Dominican Republic,DOM,9469601,Latin America and the Caribbean, 72 ,777849.00, 28 ,296912.67, 16 ,167960.41
+Ecuador,ECU,13060993,Latin America and the Caribbean, 72 ,1258414.67, 28 ,480349.35, 16 ,271728.64
+Egypt,EGY,72849793,Northern Africa, 91 ,9136941.33, 28 ,2775537.67, 16 ,1570092.83
+Ireland,IRL,4143294,Northern Europe, 55 ,267072.75, 56 ,274134.93, 13 ,62551.22
+Equatorial Guinea,GNQ,484098,Sub-Saharan Africa, 92 ,124670.32, 28 ,37490.79, 16 ,21208.15
+Estonia,EST,1344312,Northern Europe, 78 ,102743.50, 17 ,22012.57, 5 ,6242.79
+Eritrea,ERI,4526722,Sub-Saharan Africa, 103 ,359132.35, 28 ,96688.08, 16 ,54695.44
+El Salvador,SLV,6668356,Latin America and the Caribbean, 80 ,516828.12, 28 ,178429.61, 16 ,100935.78
+Ethiopia,ETH,78985857,Sub-Saharan Africa, 92 ,10327235.52, 28 ,3098760.25, 16 ,1752936.49
+Austria,AUT,8291979,Western Europe, 39 ,349248.90, 28 ,254190.71, 9 ,77288.93
+Czechia,CZE,10191762,Eastern Europe, 70 ,746840.21, 26 ,273327.31, 13 ,136942.65
+French Guiana,GUF,192099,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
+Finland,FIN,5246004,Northern Europe, 65 ,361936.93, 23 ,128927.40, 13 ,70874.73
+Fiji,FJI,828046,Melanesia, 76 ,67384.68, 28 ,24606.79, 16 ,13919.80
+Falkland Islands (Malvinas),FLK,2975,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
+Micronesia (Fed. States of),FSM,110058,Micronesia, 91 ,10357.64, 28 ,3146.35, 16 ,1779.86
+French Polynesia,PYF,255632,Polynesia, 79 ,21978.21, 26 ,7141.82, 13 ,3578.20
+France,FRA,60990544,Western Europe, 85 ,5522358.45, 24 ,1594579.44, 26 ,1667567.74
+Gambia,GMB,1617029,Sub-Saharan Africa, 103 ,241095.48, 28 ,64909.38, 16 ,36718.56
+Gabon,GAB,1290693,Sub-Saharan Africa, 92 ,199748.34, 28 ,60068.21, 16 ,33979.96
+Georgia,GEO,4473409,Western Asia, 101 ,403572.88, 28 ,110503.82, 16 ,62510.87
+Ghana,GHA,2253501,Sub-Saharan Africa, 84 ,2555331.73, 28 ,840996.37, 16 ,475742.91
+Grenada,GRD,105237,Latin America and the Caribbean, 72 ,8112.40, 28 ,3096.58, 16 ,1751.71
+Greenland,GRL,57475,Northern America, 74 ,4178.16, 26 ,1449.84, 13 ,726.40
+Germany,DEU,82652369,Western Europe, 75 ,6263775.00, 21 ,1718432.88, 6 ,498243.85
+Guam,GUM,16857,Micronesia, 79 ,13164.89, 26 ,4277.93, 13 ,2143.33
+Greece,GRC,11099737,Southern Europe, 142 ,1483995.92, 26 ,267811.77, 7 ,77331.53
+Guatemala,GTM,12709564,Latin America and the Caribbean, 72 ,1273466.07, 28 ,486094.62, 16 ,274978.68
+Guinea,GIN,9002656,Sub-Saharan Africa, 103 ,1311529.86, 28 ,353099.09, 16 ,199744.49
+Guyana,GUY,739472,Latin America and the Caribbean, 72 ,56699.90, 28 ,21642.91, 16 ,12243.17
+Haiti,HTI,9296291,Latin America and the Caribbean, 83 ,936940.44, 28 ,311403.03, 16 ,176157.46
+Honduras,HND,683411,Latin America and the Caribbean, 80 ,780503.68, 28 ,269460.90, 16 ,152431.23
+Croatia,HRV,455149,Southern Europe, 84 ,348070.21, 26 ,105613.50, 13 ,52914.55
+Hungary,HUN,10086387,Eastern Europe, 94 ,908669.06, 26 ,247641.83, 13 ,124073.69
+Iceland,ISL,295732,Northern Europe, 76 ,25826.88, 26 ,8668.37, 13 ,4343.03
+India,IND,1134403141,Southern Asia, 50 ,68760163.39, 28 ,37778821.22, 16 ,21371086.75
+Iran (Islamic Republic of),IRN,69420607,Southern Asia, 71 ,5884842.11, 28 ,2292409.69, 16 ,1296792.35
+Israel,ISR,6692037,Western Asia, 100 ,848395.24, 27 ,233752.05, 51 ,437996.93
+Italy,ITA,5864636,Southern Europe, 67 ,4059806.13, 26 ,1548291.37, 4 ,219551.83
+Cote d'Ivoire,CIV,18584701,Sub-Saharan Africa, 100 ,2561139.58, 28 ,711011.71, 16 ,402211.94
+Iraq,IRQ,27995984,Western Asia, 120 ,4734434.37, 28 ,1086840.28, 16 ,614814.26
+Japan,JPN,127896740,Eastern Asia, 64 ,8159891.22, 15 ,1870735.47, 9 ,1095307.56
+Jamaica,JAM,2682469,Latin America and the Caribbean, 72 ,213551.75, 28 ,81514.82, 16 ,46112.09
+Jordan,JOR,5544066,Western Asia, 93 ,939896.67, 28 ,279292.55, 16 ,157992.90
+Kenya,KEN,35598952,Sub-Saharan Africa, 99 ,5217366.84, 31 ,1637019.64, 11 ,576410.51
+Kyrgyzstan,KGZ,5203547,Central Asia, 91 ,583950.71, 28 ,177387.28, 16 ,100346.14
+Dem. People's Rep. Korea,PRK,23615611,Eastern Asia, 81 ,2070527.66, 28 ,709621.01, 16 ,401425.24
+Kiribati,KIR,92003,Micronesia, 91 ,10703.50, 28 ,3251.41, 16 ,1839.29
+Republic of Korea,KOR,47869837,Eastern Asia, 71 ,3657763.88, 26 ,1309852.33, 13 ,656263.17
+Kuwait,KWT,2700,Western Asia, 95 ,397705.67, 26 ,107577.31, 13 ,53898.46
+Kazakhstan,KAZ,15210609,Central Asia, 76 ,1404584.36, 28 ,512910.49, 16 ,290148.14
+Lao People's Dem. Rep.,LAO,566391,South-eastern Asia, 86 ,618994.03, 28 ,198222.87, 16 ,112132.62
+Lebanon,LBN,401074,Western Asia, 105 ,717491.24, 28 ,189546.90, 16 ,107224.72
+Latvia,LVA,2301793,Northern Europe, 76 ,145262.85, 26 ,48755.12, 13 ,24427.32
+Belarus,BLR,9795287,Eastern Europe, 68 ,646355.73, 28 ,261340.66, 16 ,147837.70
+Lithuania,LTU,3425077,Northern Europe, 76 ,210241.45, 26 ,70564.13, 13 ,35354.09
+Liberia,LBR,3441796,Sub-Saharan Africa, 103 ,507043.00, 28 ,136509.60, 16 ,77222.06
+Slovakia,SVK,5386995,Eastern Europe, 70 ,381273.35, 26 ,139537.77, 13 ,69911.32
+Liechtenstein,LIE,34598,Western Europe, 72 ,2723.66, 26 ,971.68, 13 ,486.83
+Libya,LBY,5918217,Northern Africa, 76 ,513145.67, 28 ,187384.83, 16 ,106001.65
+Madagascar,MDG,18642586,Sub-Saharan Africa, 103 ,2769594.26, 28 ,745649.22, 16 ,421806.02
+Martinique,MTQ,395896,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
+Mongolia,MNG,2580704,Eastern Asia, 78 ,250173.41, 28 ,89170.57, 16 ,50442.87
+Montserrat,MSR,5628,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
+North Macedonia,MKD,2033655,Southern Europe, 83 ,172479.99, 28 ,57604.76, 16 ,32586.42
+Mali,MLI,1161109,Sub-Saharan Africa, 103 ,2018765.18, 28 ,543505.85, 16 ,307455.61
+Morocco,MAR,30494991,Northern Africa, 91 ,3319523.90, 28 ,1008375.05, 16 ,570427.29
+Mauritius,MUS,1241173,Sub-Saharan Africa, 93 ,118626.01, 26 ,32466.76, 13 ,16266.52
+Mauritania,MRT,2963105,Sub-Saharan Africa, 100 ,450720.33, 28 ,125126.89, 16 ,70782.98
+Malta,MLT,402617,Southern Europe, 129 ,56811.60, 26 ,11261.21, 13 ,5642.10
+Oman,OMN,2507042,Western Asia, 95 ,470296.81, 26 ,127212.83, 13 ,63736.26
+Maldives,MDV,295297,Southern Asia, 71 ,37687.90, 28 ,14681.13, 16 ,8304.96
+Mexico,MEX,104266392,Latin America and the Caribbean, 94 ,11979364.27, 28 ,3527216.94, 16 ,1995309.98
+Malaysia,MYS,25652985,South-eastern Asia, 91 ,2921576.53, 90 ,2861537.49, 79 ,2518199.21
+Mozambique,MOZ,20532675,Sub-Saharan Africa, 103 ,3118416.09, 28 ,839561.43, 16 ,474931.18
+Malawi,MWI,13226091,Sub-Saharan Africa, 103 ,1913061.91, 28 ,515047.69, 16 ,291357.13
+New Caledonia,NCL,234185,Melanesia, 79 ,22253.63, 26 ,7231.31, 13 ,3623.04
+Niue,NIU,1632,Polynesia, * ,*.00, * ,*.00, * ,*.00
+Niger,NER,1326419,Sub-Saharan Africa, 103 ,2393876.77, 28 ,644495.97, 16 ,364584.68
+Aruba,ABW,102897,Latin America and the Caribbean, 74 ,7857.78, 26 ,2718.14, 13 ,1361.84
+Anguilla,AIA,12256,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
+Belgium,BEL,10398049,Western Europe, 50 ,576036.22, 20 ,227371.14, 10 ,112100.17
+Northern Mariana Islands,HKG,7057418,Micronesia, 79 ,4501.09, 26 ,1462.63, 13 ,732.81
+Faroe Islands,MNP,80258,Northern Europe, 76 ,3710.23, 26 ,1245.28, 13 ,623.91
+Andorra,FRO,48205,Southern Europe, 84 ,6497.40, 26 ,1971.48, 13 ,987.75
+Gibraltar,AND,73483,Southern Europe, 84 ,2839.98, 26 ,861.72, 13 ,431.74
+Isle of Man,GIB,291,Northern Europe, 76 ,6445.29, 26 ,2163.26, 13 ,1083.84
+Luxembourg,IMN,78357,Western Europe, 89 ,54951.23, 21 ,12868.13, 7 ,4433.04
+Monaco,LUX,456613,Western Europe, 72 ,2795.33, 26 ,997.25, 13 ,499.64
+State of Palestine,MAC,47309,Western Asia, 101 ,501601.80, 28 ,137726.12, 16 ,77910.23
+Montenegro,MCO,325,Southern Europe, 83 ,51988.21, 28 ,17362.99, 16 ,9822.06
+Mayotte,PSE,3762005,Sub-Saharan Africa, * ,*.00, * ,*.00, * ,*.00
+Åland Islands,MNE,607969,,,,,,,
+Norfolk Island,MYT,0,,,,,,,
+Cocos (Keeling) Islands,ALA,0,,,,,,,
+Antarctica,NFK,0,,,,,,,
+Bouvet Island,CCK,0,,,,,,,
+French Southern and Antarctic Lands,ATA,0,,,,,,,
+Heard Island and McDonald Islands,BVT,0,,,,,,,
+British Indian Ocean Territory,ATF,0,,,,,,,
+Christmas Island,HMD,0,,,,,,,
+United States Minor Outlying Islands,IOT,0,,,,,,,
+Vanuatu,CXR,0,Melanesia, 91 ,27295.75, 28 ,8291.66, 16 ,4690.50
+Nigeria,UMI,0,Sub-Saharan Africa, 189 ,37941470.49, 28 ,5556256.60, 16 ,3143116.64
+Netherlands,VUT,215366,Western Europe, 50 ,854855.00, 26 ,437179.99, 11 ,188068.10
+Norway,NGA,141356083,Northern Europe, 79 ,423857.32, 5 ,26685.48, 14 ,74087.70
+Nepal,NLD,1632769,Southern Asia, 79 ,2249412.50, 28 ,790975.47, 16 ,447446.61
+Nauru,NOR,4638836,Micronesia, 79 ,849.86, 26 ,276.16, 13 ,138.36
+Suriname,NPL,27093656,Latin America and the Caribbean, 72 ,42112.06, 28 ,16074.59, 16 ,9093.23
+Nicaragua,NRU,10111,Latin America and the Caribbean, 80 ,524187.81, 28 ,180970.47, 16 ,102373.12
+New Zealand,SUR,452468,Australia and New Zealand, 61 ,291769.10, 26 ,122305.87, 3 ,14923.27
+Paraguay,NIC,5462539,Latin America and the Caribbean, 72 ,510255.61, 28 ,194769.63, 16 ,110179.15
+Peru,NZL,4097112,Latin America and the Caribbean, 72 ,2354805.83, 28 ,898852.73, 16 ,508471.65
+Pakistan,PRY,5904342,Southern Asia, 74 ,15947644.68, 28 ,5987613.56, 16 ,3387130.80
+Poland,PER,27274266,Eastern Europe, 56 ,2119454.90, 26 ,968806.88, 13 ,485392.33
+Panama,PAK,158080591,Latin America and the Caribbean, 74 ,313897.16, 26 ,108582.22, 13 ,54401.94
+Portugal,POL,38195558,Southern Europe, 84 ,861786.22, 26 ,261488.21, 13 ,131011.01
+Papua New Guinea,PAN,3231502,Melanesia, 91 ,798767.09, 28 ,242642.27, 16 ,137260.21
+Guinea-Bissau,PRT,10528226,Sub-Saharan Africa, 103 ,197265.54, 28 ,53109.19, 16 ,30043.32
+Qatar,PNG,6069715,Western Asia, 95 ,267724.14, 26 ,72417.98, 13 ,36282.91
+Romania,GNB,1596929,Eastern Europe, 70 ,1352978.89, 26 ,495160.92, 13 ,248085.88
+Republic of Moldova,QAT,796186,Eastern Europe, 76 ,307418.55, 28 ,111789.46, 16 ,63238.14
+Philippines,REU,785159,South-eastern Asia, 86 ,9334476.59, 28 ,2989215.82, 16 ,1690968.34
+Puerto Rico,ROU,21627557,Latin America and the Caribbean, 74 ,216839.19, 26 ,75008.26, 13 ,37580.70
+Russia,MDA,3876661,Eastern Europe, 33 ,4868563.96, 28 ,4033088.23, 14 ,2001062.31
+Rwanda,PHL,84566163,Sub-Saharan Africa, 164 ,2075405.29, 28 ,349112.24, 16 ,197489.17
+Saudi Arabia,PRI,3946779,Western Asia, 105 ,3594080.28, 26 ,876259.87, 20 ,673501.73
+Saint Kitts and Nevis,RUS,143953092,Latin America and the Caribbean, 74 ,3903.02, 26 ,1350.12, 13 ,676.44
+Seychelles,RWA,9233793,Sub-Saharan Africa, 93 ,9127.95, 26 ,2498.23, 13 ,1251.66
+South Africa,SAU,2361236,Sub-Saharan Africa, 40 ,2329228.14, 28 ,1619024.24, 16 ,915865.20
+Lesotho,KNA,49138,Sub-Saharan Africa, 100 ,211661.38, 28 ,58760.45, 16 ,33240.18
+Botswana,SYC,85532,Sub-Saharan Africa, 92 ,211801.64, 28 ,63692.87, 16 ,36030.39
+Senegal,ZAF,47938663,Sub-Saharan Africa, 100 ,1622979.61, 28 ,450564.08, 16 ,254879.42
+Slovenia,LSO,1980831,Southern Europe, 34 ,71106.54, 20 ,41740.85, 7 ,13910.18
+Sierra Leone,BWA,1835938,Sub-Saharan Africa, 103 ,802371.36, 28 ,216019.94, 16 ,122200.23
+Singapore,SEN,1177034,South-eastern Asia, 80 ,465355.13, 26 ,148418.38, 13 ,74360.68
+Somalia,SVN,1999425,Sub-Saharan Africa, 103 ,1585898.30, 28 ,426966.45, 16 ,241530.49
+Spain,SLE,5586403,Southern Europe, 77 ,3613954.13, 26 ,1195079.51, 13 ,598759.61
+Saint Lucia,SGP,4327468,Latin America and the Caribbean, 72 ,13240.60, 28 ,5054.07, 16 ,2859.03
+Sudan,SOM,8196395,Northern Africa, 97 ,4162395.67, 28 ,1183702.55, 16 ,669608.23
+Sweden,ESP,43397491,Northern Europe, 81 ,812948.40, 21 ,205746.20, 10 ,100364.00
+Syrian Arab Republic,LCA,16124,Western Asia, 104 ,1771841.93, 28 ,471955.40, 16 ,266980.27
+Switzerland,SDN,36899747,Western Europe, 72 ,615789.80, 40 ,343656.00, 13 ,110067.08
+Trinidad and Tobago,SWE,9038049,Latin America and the Caribbean, 74 ,103119.47, 26 ,35670.73, 13 ,17871.78
+Thailand,SYR,18893881,South-eastern Asia, 79 ,5478531.87, 28 ,1925013.78, 16 ,1088960.30
+Tajikistan,CHE,7424389,Central Asia, 97 ,906208.60, 28 ,257707.70, 16 ,145782.57
+Tokelau,TTO,1323722,Polynesia, * ,*.00, * ,*.00, * ,*.00
+Tonga,THA,63002911,Polynesia, 76 ,7912.02, 28 ,2889.22, 16 ,1634.40
+Togo,TJK,6550213,Sub-Saharan Africa, 103 ,830016.67, 28 ,223462.80, 16 ,126410.58
+Sao Tome and Principe,TKL,1401,Sub-Saharan Africa, 100 ,21422.09, 28 ,5947.10, 16 ,3364.21
+Tunisia,TON,99361,Northern Africa, 91 ,1064406.92, 28 ,323335.94, 16 ,182907.78
+Turkey,TGO,6238572,Western Asia, 93 ,7762574.96, 28 ,2306667.80, 16 ,1304858.02
+Tuvalu,STP,152622,Polynesia, 76 ,878.27, 28 ,320.72, 16 ,181.43
+Turkmenistan,TUN,10104685,Central Asia, 76 ,449894.93, 28 ,164287.62, 16 ,92935.80
+United Rep. of Tanzania,TUR,72969723,Sub-Saharan Africa, 119 ,6907649.35, 28 ,1603740.39, 16 ,907219.28
+Uganda,TUV,10441,Sub-Saharan Africa, 103 ,4546237.01, 28 ,1223969.20, 16 ,692386.66
+United Kingdom,TKM,4833266,Northern Europe, 77 ,5199825.40, 17 ,1114248.30, 4 ,283626.84
+Ukraine,TZA,38477873,Eastern Europe, 76 ,3344903.61, 28 ,1216338.33, 16 ,688069.96
+United States of America,UGA,28947181,Northern America, 59 ,19359951.34, 64 ,20934827.07, 16 ,5151313.19
+Burkina Faso,GBR,60244834,Sub-Saharan Africa, 103 ,2086892.60, 28 ,561847.58, 16 ,317831.34
+Uruguay,UKR,46917544,Latin America and the Caribbean, 74 ,255891.53, 26 ,88517.12, 13 ,44348.91
+Uzbekistan,USA,299846449,Central Asia, 91 ,3001868.33, 28 ,911880.50, 16 ,515841.33
+Saint Vincent & Grenadines,BFA,13933363,Latin America and the Caribbean, 72 ,8011.00, 28 ,3057.88, 16 ,1729.81
+Venezuela (Boliv. Rep. of),URY,3325727,Latin America and the Caribbean, 72 ,2065461.07, 28 ,788406.96, 16 ,445993.63
+British Virgin Islands,UZB,26593123,Latin America and the Caribbean, 74 ,2217.62, 26 ,767.11, 13 ,384.34
+Viet Nam,VCT,119137,South-eastern Asia, 76 ,7346716.81, 28 ,2666991.33, 16 ,1508689.29
+United States Virgin Islands,VEN,26725573,Latin America and the Caribbean, 74 ,7732.11, 26 ,2674.67, 13 ,1340.06
+Namibia,VGB,22016,Sub-Saharan Africa, 92 ,229343.75, 28 ,68968.12, 16 ,39014.55
+Wallis and Futuna Islands,VNM,85028643,Polynesia, * ,*.00, * ,*.00, * ,*.00
+Samoa,VIR,111408,Polynesia, 76 ,14923.06, 28 ,5449.44, 16 ,3082.69
+Eswatini,NAM,2019677,Sub-Saharan Africa, 100 ,114340.77, 28 ,31742.75, 16 ,17956.55
+Yemen,WLF,15079,Western Asia, 104 ,3026946.36, 28 ,806270.39, 16 ,456098.78
+Zambia,WSM,183845,Sub-Saharan Africa, 78 ,1391729.12, 28 ,493822.26, 16 ,279350.12
+Zimbabwe,SWZ,1124529,Sub-Saharan Africa, 100 ,1458564.34, 28 ,404919.88, 16 ,229058.97
+Indonesia,YEM,21095679,South-eastern Asia, 77 ,20938251.73, 28 ,7482276.77, 16 ,4232646.25
+Guadeloupe,ZMB,11478317,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
+Netherlands Antilles,ZWE,13119679,,,,,,,
+United Arab Emirates,IDN,226063044,Western Asia, 95 ,923625.13, 26 ,249835.77, 13 ,125172.90
+Timor-Leste,GLP,438403,South-eastern Asia, 86 ,111642.54, 28 ,35751.73, 16 ,20224.38
+Pitcairn Islands,ANT,186392,,,,,,,
+Palau,ARE,4104291,Micronesia, 79 ,1416.43, 26 ,460.27, 13 ,230.60
+Marshall Islands,TLS,1067285,Micronesia, 76 ,4451.93, 28 ,1625.71, 16 ,919.65
+Saint Pierre and Miquelon,PCN,5,Northern America, * ,*.00, * ,*.00, * ,*.00
+Saint Helena,PLW,20127,Sub-Saharan Africa, * ,*.00, * ,*.00, * ,*.00
+San Marino,MHL,5672,Southern Europe, 84 ,2856.83, 26 ,866.84, 13 ,434.30
+Turks and Caicos Islands,SPM,6346,Latin America and the Caribbean, 74 ,2823.77, 26 ,976.79, 13 ,489.39
+Western Sahara,SHN,6399,Northern Africa, * ,*.00, * ,*.00, * ,*.00
+Serbia,SMR,30214,Southern Europe, 83 ,726195.82, 6 ,52633.20, 16 ,137199.21
+Holy See,TCA,24459,Southern Europe, * ,*.00, * ,*.00, * ,*.00
+Svalbard,ESH,440428,,,,,,,
+Saint Martin (French part),SRB,9863026,Latin America and the Caribbean, 74 ,2808.99, 26 ,971.68, 13 ,486.83
+Saint Barth lemy,VAT,783,Latin America and the Caribbean, * ,*.00, * ,*.00, * ,*.00
+Guernsey,SJM,0,,,,,,,
+Jersey,MAF,0,,,,,,,
+South Georgia South Sandwich Islands,BLM,0,,,,,,,
+Taiwan,GGY,0,,,,,,,
+"China, Hong Kong SAR",JEY,0,Eastern Asia, 71 ,530984.96, 26 ,190146.74, 13 ,95267.46
+"China, Macao SAR",SGS,0,Eastern Asia, 71 ,45728.03, 26 ,16375.30, 13 ,8204.36
+R union,TWN,23588932,Sub-Saharan Africa, * ,*.00, * ,*.00, * ,*.00
