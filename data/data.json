@@ -211,7 +211,7 @@
     },
     {
         "Region": "Eastern Europe",
-        "Country": "Russian Federation",
+        "Country": "Russia",
         "Household estimate (kg/capita/year)": " 33 ",
         "Household estimate (tonnes/year)": "4868563.96",
         "Food service estimate (kg/capita/year)": " 28 ",
@@ -1661,7 +1661,7 @@
     },
     {
         "Region": "Sub-Saharan Africa",
-        "Country": "C te d Ivoire",
+        "Country": "Cote d'Ivoire",
         "Household estimate (kg/capita/year)": " 100 ",
         "Household estimate (tonnes/year)": "2561139.58",
         "Food service estimate (kg/capita/year)": " 28 ",

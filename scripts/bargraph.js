@@ -18,7 +18,7 @@ categoryDropdown.addEventListener("change", function () {
 });
 
 // set the dimensions and margins of the graph
-margin = { top: 30, right: 30, bottom: 100, left: 60 };
+margin = { top: 30, right: 50, bottom: 100, left: 100 };
 const parentDiv = document.getElementById("bar_dataviz"); // Replace "bar_dataviz" with the actual ID of the parent div
 const width = parentDiv.clientWidth - margin.left - margin.right;
 const height = 400 * 2 - margin.top - margin.bottom;
@@ -45,12 +45,27 @@ x = d3.scaleBand()
 xAxis = svg.append("g")
     .attr("transform", `translate(0,${height})`)
     .attr("class", "x-axis");
+// Add x-axis label
+svg.append("text")
+    .attr("class", "x-axis-label")
+    .attr("text-anchor", "end")
+    .attr("x", width/2)  // Adjust the position as needed
+    .attr("y", height + margin.top + 20)  // Adjust the position as needed
+    .text("Country");
 
 // Initialize the Y axis
 y = d3.scaleLinear()
     .range([height, 0]);
 yAxis = svg.append("g")
     .attr("class", "y-axis");
+
+// Append y-axis label
+const yLabel = svg.append("text")
+    .attr("class", "y-axis-label")
+    .attr("text-anchor", "end")
+    .attr("transform", "rotate(-90)")
+    .attr("x", -margin.top * 7)  // Adjust the position as needed
+    .attr("y", -margin.left / 1.5);  // Adjust the position as needed
 
 function update() {
     // Parse the Data
@@ -99,6 +114,8 @@ function update() {
                     .data(filteredData)
                     .exit()
                     .remove();
+                // Update Y axis label based on selectedCategory
+                yLabel.text(selectedCategory);
 
                 // variable u: map data to existing bars
                 const u = svg.selectAll("rect")

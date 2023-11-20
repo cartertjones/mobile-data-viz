@@ -38,8 +38,16 @@
     // Load external data and boot
     Promise.all([
     d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"),
-    d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world_population.csv", function(d) {
-    data.set(d.code, +d.pop)
+    d3.csv("https://raw.githubusercontent.com/cartertjones/mobile-data-viz/production/data/merged_data.csv", function(d) {
+    data.set(d.code, { 
+      pop: +d.pop, 
+      household_estimate_pc: +d.household_estimate_pc,
+      household_estimate_t: +d.household_estimate_t,
+      food_service_estimate_pc: +d.food_service_estimate_pc,
+      food_service_estimate_t: +d.food_service_estimate_t,
+      retail_estimate_pc: +d.retail_estimate_pc,
+      retail_estimate_t: +d.retail_estimate_t
+    })
 })]).then(function(loadData){
     let topo = loadData[0]
 
@@ -58,8 +66,32 @@
 
     let mousemove = function (event, d) {
     if (d.properties && d.properties.name) {
+      console.log("Available keys in data Map:", Array.from(data.keys())); // Log available keys
         tooltip
-            .html(d.properties.name + "<br>" + "Population: " + (data.get(d.id) || 0))
+            .html(
+              d.properties.name 
+              + "<br>" 
+              + "Population: " 
+              + (data.get(d.id).pop || 0)
+              + "<br>" 
+              + "Household estimate (kg/capita/year): "
+              + (data.get(d.id).household_estimate_pc || "Unknown")
+              + "<br>" 
+              + "Household estimate (tonnes/year): "
+              + (data.get(d.id).household_estimate_t || "Unknown")
+              + "<br>" 
+              + "Food service estimate (kg/capita/year): "
+              + (data.get(d.id).food_service_estimate_pc || "Unknown")
+              + "<br>" 
+              + "Food service estimate (tonnes/year): "
+              + (data.get(d.id).food_service_estimate_t || "Unknown")
+              + "<br>" 
+              + "Retail estimate (kg/capita/year): "
+              + (data.get(d.id).retail_estimate_pc || "Unknown")
+              +"<br>"
+              + " Retail estimate (tonnes/year): "
+              + (data.get(d.id).retail_estimate_t || "Unknown")
+            )
             .style("left", (event.pageX + 10) + "px")
             .style("top", (event.pageY - 30) + "px");
         }
@@ -90,7 +122,7 @@
         )
         // set the color of each country
         .attr("fill", function (d) {
-          d.total = data.get(d.id) || 0;
+          d.total = (data.get(d.id) && data.get(d.id).pop) || 0;
           return colorScale(d.total);
         })
         .style("stroke", "transparent")
