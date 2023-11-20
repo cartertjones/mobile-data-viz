@@ -1,4 +1,4 @@
-Country,code,pop,Region,Household estimate (kg/capita/year),Household estimate (tonnes/year),Food service estimate (kg/capita/year),Food service estimate (tonnes/year),Retail estimate (kg/capita/year),Retail service estimate (tonnes/year)
+name,code,pop,region,household_estimate_pc,household_estimate_t,food_service_estimate_pc,food_service_estimate_t,retail_estimate_pc,retail_estimate_t
 Antigua and Barbuda,ATG,83039,Latin America and the Caribbean, 74 ,7177.71, 26 ,2482.89, 13 ,1243.98
 Algeria,DZA,32854159,Northern Africa, 91 ,3918528.68, 28 ,1190335.32, 16 ,673360.33
 Azerbaijan,AZE,8352021,Western Asia, 93 ,934872.33, 28 ,277799.56, 16 ,157148.32
