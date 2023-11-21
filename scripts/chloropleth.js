@@ -66,7 +66,7 @@
 
     let mousemove = function (event, d) {
     if (d.properties && d.properties.name) {
-      console.log("Available keys in data Map:", Array.from(data.keys())); // Log available keys
+      console.log(data.get(d.id).household_estimate_pc)
         tooltip
             .html(
               d.properties.name 
