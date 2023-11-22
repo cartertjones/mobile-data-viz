@@ -44,15 +44,15 @@
 
             return (
                 <React.Fragment>
+                    
+                    <InfoParagraph />
+                    
+                    <hr />
                     <Filters
                         Region={this.state.Region}
                         updateFormState={this.updateFormState}
                     />
-
-                    <hr />
-
-                    <InfoParagraph />
-
+                    
                     <hr />
                     
                     <DataTable
