@@ -1,4 +1,3 @@
-
 (() => {
     class ReactDataTable extends React.Component {
         constructor(props) {
@@ -11,27 +10,47 @@
             this.updateFormState = this.updateFormState.bind(this);
         }
 
+
         componentDidMount() {
-            // Fetch data here and update the state
-            fetch("https://raw.githubusercontent.com/cartertjones/mobile-data-viz/production/data/data.json")
+            // Fetch CSV data here and update the state
+            fetch("https://raw.githubusercontent.com/cartertjones/mobile-data-viz/production/data/merged_data.csv")
                 .then(response => {
                     if (!response.ok) {
                         throw new Error(`Network response was not ok: ${response.status}`);
                     }
-                    return response.json();
+                    return response.text();
                 })
-                .then(jsonData => {
-                    console.log('Fetched data:', jsonData);
+                .then(csvData => {
+                    // Parse CSV data manually
+                    const jsonData = this.parseCSV(csvData);
+                    console.log('Parsed data:', jsonData);
                     this.setState({ originalData: jsonData });
                 })
                 .catch(error => {
-                    console.error('Error fetching data:', error);
+                    console.error('Error fetching/parsing data:', error);
                 });
         }
 
         updateFormState(specification) {
             this.setState(specification);
-        } 
+        }
+
+        parseCSV(csvData) {
+            const rows = csvData.split('\n');
+            const headers = rows[0].split(',');
+
+            const jsonData = [];
+            for (let i = 1; i < rows.length; i++) {
+                const values = rows[i].split(',');
+                const row = {};
+                for (let j = 0; j < headers.length; j++) {
+                    row[headers[j]] = values[j];
+                }
+                jsonData.push(row);
+            }
+
+            return jsonData;
+        }
 
         render() {
             let filteredData = this.state.originalData;
@@ -69,6 +88,17 @@
                 Region: clickEvent.target.value,
             });
         }
+        let updateSort = (clickEvent) => {
+            const sortOption = clickEvent.target.value;
+            this.sortData(sortOption);
+        }
+
+        let updatePopulationRange = (submitEvent) => {
+            submitEvent.preventDefault();
+            const minPopulation = submitEvent.target.minPopulation.value;
+            const maxPopulation = submitEvent.target.maxPopulation.value;
+            props.updateFormState({ minPopulation, maxPopulation });
+        }
 
         return (
             <React.Fragment>
@@ -78,25 +108,39 @@
                             <b>Region</b>
                         </div>
                         <div className='col-md-2'>
-                        <select onChange={updateRegion}>
-                        <option value="Australia and New Zealand">Australia and New Zealand</option>
-                        <option value="Central Asia">Central Asia</option>
-                        <option value="Eastern Asia">Eastern Asia</option>
-                        <option value="Eastern Europe">Eastern Europe</option>
-                        <option value="Latin America and the Caribbean">Latin America and the Caribbean</option>
-                        <option value="Melanesia">Melanesia</option>
-                        <option value="Micronesia">Micronesia</option>
-                        <option value="Northern Africa">Northern Africa</option>
-                        <option value="Northern America">Northern America</option>
-                        <option value="Northern Europe">Northern Europe</option>
-                        <option value="Polynesia">Polynesia</option>
-                        <option value="South-eastern Asia">South-eastern Asia</option>
-                        <option value="Southern Asia">Southern Asia</option>
-                        <option value="Southern Europe">Southern Europe</option>
-                        <option value="Sub-Saharan Africa">Sub-Saharan Africa</option>
-                        <option value="Western Asia">Western Asia</option>
-                        <option value="Western Europe">Western Europe</option>
-                        </select>
+                            <select onChange={updateRegion}>
+                            <option value="">All regions</option>
+                            <option value="Australia and New Zealand">Australia and New Zealand</option>
+                            <option value="Central Asia">Central Asia</option>
+                            <option value="Eastern Asia">Eastern Asia</option>
+                            <option value="Eastern Europe">Eastern Europe</option>
+                            <option value="Latin America and the Caribbean">Latin America and the Caribbean</option>
+                            <option value="Melanesia">Melanesia</option>
+                            <option value="Micronesia">Micronesia</option>
+                            <option value="Northern Africa">Northern Africa</option>
+                            <option value="Northern America">Northern America</option>
+                            <option value="Northern Europe">Northern Europe</option>
+                            <option value="Polynesia">Polynesia</option>
+                            <option value="South-eastern Asia">South-eastern Asia</option>
+                            <option value="Southern Asia">Southern Asia</option>
+                            <option value="Southern Europe">Southern Europe</option>
+                            <option value="Sub-Saharan Africa">Sub-Saharan Africa</option>
+                            <option value="Western Asia">Western Asia</option>
+                            <option value="Western Europe">Western Europe</option>
+                            </select>
+                            <select onChange={updateSort}>
+                                <option value="Population high to low">Population high to low</option>
+                                <option value="Population low to high">Population low to high</option>
+                            </select>
+                        </div>
+                        <div className='col-md-3'>
+                            <form onSubmit={updatePopulationRange}>
+                                <label htmlFor="minPopulation">Min Population:</label>
+                                <input type="number" name="minPopulation" />
+                                <label htmlFor="maxPopulation">Max Population:</label>
+                                <input type="number" name="maxPopulation" />
+                                <button type="submit">Apply</button>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -125,6 +169,8 @@
             );
         }
     
+        console.log('Data to display:', dataToDisplay);
+    
         return (
             <div className="table-responsive">
                 <table className="table">
@@ -132,6 +178,7 @@
                         <tr>
                             <th>Region</th>
                             <th>Country</th>
+                            <th>Population</th>
                             <th>Household estimate (kg/capita/year)</th>
                             <th>Household estimate (tonnes/year)</th>
                             <th>Food service estimate (kg/capita/year)</th>
@@ -141,14 +188,15 @@
                         </tr>
                         {dataToDisplay.map((row, i) => (
                             <tr key={i}>
-                                <td>{row.Region}</td>
-                                <td>{row.Country}</td>
-                                <td>{row['Household estimate (kg/capita/year)']}</td>
-                                <td>{row['Household estimate (tonnes/year)']}</td>
-                                <td>{row['Food service estimate (kg/capita/year)']}</td>
-                                <td>{row['Food service estimate (tonnes/year)']}</td>
-                                <td>{row['Retail estimate (kg/capita/year)']}</td>
-                                <td>{row['Retail service estimate (tonnes/year)']}</td>
+                                <td>{row['Region']}</td>
+                                <td>{row['name']}</td>
+                                <td>{row['pop']}</td>
+                                <td>{row['household_estimate_pc']}</td>
+                                <td>{row['household_estimate_t']}</td>
+                                <td>{row['food_service_estimate_pc']}</td>
+                                <td>{row['food_service_estimate_t']}</td>
+                                <td>{row['retail_estimate_pc']}</td>
+                                <td>{row['retail_estimate_t']}</td>
                             </tr>
                         ))}
                     </tbody>
