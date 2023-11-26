@@ -17,48 +17,54 @@
     <title>Food Waste Data</title>
 </head>
 
-<body>
+<body id="intro-body">
     <!-- Bootstrap Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container d-flex justify-content-center align-items-center">
-          <a class="navbar-brand" href="https://cartertjones.github.io/" target="_blank">
-            <img src="https://github.com/cartertjones/cartertjones.github.io/blob/main/img/headshot.png?raw=true" alt="Profile" class="rounded-circle" width="50" height="50">
-            <span class="subheader">Carter Jones: </span>Food Waste Data Visualization
-          </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link d-flex flex-column align-items-center active" href="index.html">
-                        <i class="fa-solid fa-house fa-2x"></i>
-                        Home
-                    </a>
-                  </li>
-                <li class="nav-item">
-                    <a class="nav-link d-flex flex-column align-items-center" href="graphs.html">
-                        <i class="fa-solid fa-chart-simple fa-2x"></i>
-                        Graphs
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link d-flex flex-column align-items-center" href="react_table.html">
-                        <i class="fa-solid fa-table-cells-large fa-2x"></i>
-                        Data Table
-                    </a>
-                </li>
-            </ul>
-          </div>
+    <div class="container text-center d-flex justify-content-center align-items-center">
+        <div class="row">
+            <div class="col-12">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <div class="container d-flex justify-content-center align-items-center">
+                        <a class="navbar-brand" href="https://cartertjones.github.io/" target="_blank">
+                            <img id="headshot" src="https://github.com/cartertjones/cartertjones.github.io/blob/main/img/headshot.png?raw=true" alt="Profile" class="rounded-circle">
+                            <span class="subheader">Carter Jones:&nbsp;</span>Food Waste Data Visualization
+                        </a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav ml-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="index.html">
+                                        <i class="fa-solid fa-house fa-2x"></i>
+                                        Home
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="graphs.html">
+                                        <i class="fa-solid fa-chart-simple fa-2x"></i>
+                                        Graphs
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="react_table.html">
+                                        <i class="fa-solid fa-table-cells-large fa-2x"></i>
+                                        Data Table
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
         </div>
-      </nav>
-      
-
+    </div>
+    
     <div class="container">
         <section>
             <div class="row text-center">
                 <div class="col-md-12">
-                    <h2>Studying food waste amounts per country</h2>
+                    <!-- <h2>Studying food waste amounts per country</h2> -->
+                    <br>
                     <p>
                         Global food waste poses a substantial challenge for societies, encompassing economic, social, and environmental dimensions. 
                         The wasteful disposal of food results in a squandering of critical resources such as land and water, which are increasingly 
@@ -81,9 +87,9 @@
         </section>
         <section>
             <div class="container">
-                <div class="row justify-content-center">
+                <div class="row">
                     <div class="col-12 col-md-8 col-lg-6 text-center">
-                        <div class="embed-responsive embed-responsive-16by9">
+                        <div class="embed-responsive embed-responsive-16by9 justify-content-center align-items-center">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9RA2btK2TIo?si=gEfpx_fhKvedP7Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
                     </div>
@@ -92,9 +98,9 @@
         </section>
         <section>
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-12">
-                        <button onclick="window.location.href='graphs.html'">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <button id="graphsButton" onclick="window.location.href='graphs.html'">
                             See the data
                             <i class="fa-solid fa-arrow-right"></i>
                         </button>
