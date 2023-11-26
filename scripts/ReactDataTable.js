@@ -4,7 +4,9 @@
             super(props);
             this.originalData = props.originalData;
             this.state = {
-                Region: ''
+                Region: '',
+                minPopulation: '',
+                maxPopulation: ''
             };
 
             this.updateFormState = this.updateFormState.bind(this);
@@ -22,9 +24,12 @@
                 })
                 .then(csvData => {
                     // Parse CSV data manually
-                    const jsonData = this.parseCSV(csvData);
-                    console.log('Parsed data:', jsonData);
-                    this.setState({ originalData: jsonData });
+                    const data = this.parseCSV(csvData);
+                    console.log('Parsed data:', data);
+                    this.setState({ originalData: data }, () => {
+                        // Call sortData after setting the state to ensure it sorts the fetched data
+                        this.sortData('Population high to low');
+                    });
                 })
                 .catch(error => {
                     console.error('Error fetching/parsing data:', error);
@@ -32,24 +37,52 @@
         }
 
         updateFormState(specification) {
-            this.setState(specification);
+            const { sortOption, ...otherSpecs } = specification;
+        
+            if (sortOption) {
+                this.sortData(sortOption);
+            } else {
+                this.setState(otherSpecs);
+            }
         }
+        
+        sortData(sortOption) {
+            const sorted = [...this.state.originalData].sort((a, b) => {
+                if (sortOption === 'Population high to low') {
+                    return b['pop'] - a['pop'];
+                } else if (sortOption === 'Population low to high') {
+                    return a['pop'] - b['pop'];
+                }
+                return 0;
+            });
+        
+            this.setState({ originalData: sorted });
+        }
+
+        filterByPopulationRange(minPop, maxPop) {
+            const filteredData = this.state.originalData.filter(row => {
+                const population = parseInt(row['pop'], 10);
+                return (!minPop || population >= minPop) && (!maxPop || population <= maxPop);
+            });
+        
+            this.setState({ originalData: filteredData, minPopulation: minPop, maxPopulation: maxPop });
+        }               
 
         parseCSV(csvData) {
             const rows = csvData.split('\n');
             const headers = rows[0].split(',');
 
-            const jsonData = [];
+            const data = [];
             for (let i = 1; i < rows.length; i++) {
                 const values = rows[i].split(',');
                 const row = {};
                 for (let j = 0; j < headers.length; j++) {
                     row[headers[j]] = values[j];
                 }
-                jsonData.push(row);
+                data.push(row);
             }
 
-            return jsonData;
+            return data;
         }
 
         render() {
@@ -70,6 +103,7 @@
                     <Filters
                         Region={this.state.Region}
                         updateFormState={this.updateFormState}
+                        filterByPopulationRange={this.filterByPopulationRange.bind(this)}
                     />
                     
                     <hr />
@@ -90,14 +124,16 @@
         }
         let updateSort = (clickEvent) => {
             const sortOption = clickEvent.target.value;
-            this.sortData(sortOption);
-        }
+            props.updateFormState({ sortOption });
+        }        
 
         let updatePopulationRange = (submitEvent) => {
             submitEvent.preventDefault();
-            const minPopulation = submitEvent.target.minPopulation.value;
-            const maxPopulation = submitEvent.target.maxPopulation.value;
+            const minPopulation = parseInt(submitEvent.target.minPopulation.value, 10);
+            const maxPopulation = parseInt(submitEvent.target.maxPopulation.value, 10);
+            console.log("Min: " + minPopulation + " Max: " + maxPopulation);
             props.updateFormState({ minPopulation, maxPopulation });
+            props.filterByPopulationRange(minPopulation, maxPopulation);
         }
 
         return (
