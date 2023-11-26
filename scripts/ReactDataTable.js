@@ -29,6 +29,7 @@
                     this.setState({ originalData: data }, () => {
                         // Call sortData after setting the state to ensure it sorts the fetched data
                         this.sortData('Population high to low');
+                        this.updateFormState({ searchQuery: ''});
                     });
                 })
                 .catch(error => {
@@ -88,10 +89,30 @@
         render() {
             let filteredData = this.state.originalData;
 
+            if (!filteredData) {
+                return (
+                    <React.Fragment>
+                        <LoadingMessage />
+                    </React.Fragment>
+                );
+            }
+
             if (this.state.Region !== '') {
                 filteredData = filteredData.filter(
                     (row) => row.Region === this.state.Region
                 );
+            }
+
+            if (this.state.searchQuery !== '') {
+                console.log('Before filtering:', filteredData);
+                filteredData = filteredData.filter(
+                    (row) => {
+                        const includes = row.name.toLowerCase().includes(this.state.searchQuery);
+                        console.log(`Checking ${row.name}: ${includes}`);
+                        return includes;
+                    }
+                );
+                console.log('After filtering:', filteredData);
             }
 
             return (
@@ -136,15 +157,20 @@
             props.filterByPopulationRange(minPopulation, maxPopulation);
         }
 
+        let updateCountrySearch = (inputEvent) => {
+            const searchQuery = inputEvent.target.value.toLowerCase();
+            props.updateFormState({ searchQuery });
+        }
+
         return (
             <React.Fragment>
                 <div className='container'>
                     <div className='row'>
-                        <div className='col-md-3'>
-                            <b>Region</b>
+                        <div className='col-3'>
+                            <label htmlFor="regionSelect">Region:</label>
                         </div>
-                        <div className='col-md-2'>
-                            <select onChange={updateRegion}>
+                        <div className='col-3'>
+                        <select id="regionSelect" onChange={updateRegion}>
                             <option value="">All regions</option>
                             <option value="Australia and New Zealand">Australia and New Zealand</option>
                             <option value="Central Asia">Central Asia</option>
@@ -164,17 +190,30 @@
                             <option value="Western Asia">Western Asia</option>
                             <option value="Western Europe">Western Europe</option>
                             </select>
-                            <select onChange={updateSort}>
+                        </div>
+                        <div className='col-3'>
+                            <label htmlFor="countrySearch">Search Country:</label>
+                        </div>
+                        <div className='col-3'>
+                            <input type="text" id="countrySearch" onChange={updateCountrySearch}/>
+                        </div>
+                    </div>
+                    <div className='row'>
+                        <div className='col-2'>
+                            <label htmlFor="populationSort">Population: </label>
+                        </div>
+                        <div className='col-3'>
+                            <select id="populationSort" onChange={updateSort}>
                                 <option value="Population high to low">Population high to low</option>
                                 <option value="Population low to high">Population low to high</option>
                             </select>
                         </div>
-                        <div className='col-md-3'>
+                        <div className='col-7'>
                             <form onSubmit={updatePopulationRange}>
-                                <label htmlFor="minPopulation">Min Population:</label>
-                                <input type="number" name="minPopulation" />
-                                <label htmlFor="maxPopulation">Max Population:</label>
-                                <input type="number" name="maxPopulation" />
+                                <label htmlFor="minPopulation">Min:</label>
+                                <input type="number" name="minPopulation"/>
+                                <label htmlFor="maxPopulation">Max:</label>
+                                <input type="number" name="maxPopulation"/>
                                 <button type="submit">Apply</button>
                             </form>
                         </div>
@@ -193,6 +232,16 @@
             </React.Fragment>
             )
     };
+
+    const LoadingMessage = () => {
+        return (
+            <React.Fragment>
+                <div className='container'>
+                    <p>Loading data...</p>
+                </div>
+            </React.Fragment>
+        )
+    }
 
     const DataTable = (props) => {
         const { dataToDisplay } = props;
@@ -243,5 +292,6 @@
 
     const container = document.getElementById('react-data-table');
     const root = ReactDOM.createRoot(container);
-    root.render(<ReactDataTable originalData={[]} />);
+    const reactDataTable = <ReactDataTable originalData={[]} />;
+    root.render(reactDataTable);
 })();
