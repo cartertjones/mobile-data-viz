@@ -6,7 +6,8 @@
             this.state = {
                 Region: '',
                 minPopulation: '',
-                maxPopulation: ''
+                maxPopulation: '',
+                omitZeros: false,
             };
 
             this.updateFormState = this.updateFormState.bind(this);
@@ -36,7 +37,7 @@
                     console.error('Error fetching/parsing data:', error);
                 });
         }
-
+        // Updates state based on spec parameters
         updateFormState(specification) {
             const { sortOption, ...otherSpecs } = specification;
         
@@ -46,29 +47,48 @@
                 this.setState(otherSpecs);
             }
         }
-        
+        // Sorts imported data based on current filter options
         sortData(sortOption) {
             const sorted = [...this.state.originalData].sort((a, b) => {
                 if (sortOption === 'Population high to low') {
                     return b['pop'] - a['pop'];
                 } else if (sortOption === 'Population low to high') {
                     return a['pop'] - b['pop'];
+                } else if (sortOption === 'Total estimate high to low') {
+                    return parseFloat(b['total_estimate']) - parseFloat(a['total_estimate']);
+                } else if (sortOption === 'Total estimate low to high') {
+                    return parseFloat(a['total_estimate']) - parseFloat(b['total_estimate']);
                 }
                 return 0;
             });
         
             this.setState({ originalData: sorted });
         }
-
+        // Handles logic for sorting based on submitted population range
         filterByPopulationRange(minPop, maxPop) {
-            const filteredData = this.state.originalData.filter(row => {
+            const { omitZeros, originalData } = this.state;
+            const filteredData = originalData.filter(row => {
                 const population = parseInt(row['pop'], 10);
-                return (!minPop || population >= minPop) && (!maxPop || population <= maxPop);
+        
+                // Check if any field in the row is zero or contains '*'
+                let anyFieldIsZeroOrStar = false;
+                for (const value of Object.values(row)) {
+                    if (value !== undefined && (parseFloat(value) === 0 || value.includes('*'))) {
+                        anyFieldIsZeroOrStar = true;
+                        break;
+                    }
+                }
+        
+                if (omitZeros) {
+                    return (!minPop || population >= minPop) && (!maxPop || population <= maxPop) && !anyFieldIsZeroOrStar;
+                } else {
+                    return (!minPop || population >= minPop) && (!maxPop || population <= maxPop) && !anyFieldIsZeroOrStar;
+                }
             });
         
             this.setState({ originalData: filteredData, minPopulation: minPop, maxPopulation: maxPop });
-        }               
-
+        }        
+        // Manually parses csv
         parseCSV(csvData) {
             const rows = csvData.split('\n');
             const headers = rows[0].split(',');
@@ -85,7 +105,7 @@
 
             return data;
         }
-
+        //Page contents
         render() {
             let filteredData = this.state.originalData;
 
@@ -136,18 +156,20 @@
             );
         }
     }
-
+    // Filter element logic
     const Filters = (props) => {
+        // Updates state when region dropdown value changed
         let updateRegion = (clickEvent) => {
             props.updateFormState({
                 Region: clickEvent.target.value,
             });
         }
+        // Updates state when sort dropdown value changed
         let updateSort = (clickEvent) => {
             const sortOption = clickEvent.target.value;
             props.updateFormState({ sortOption });
         }        
-
+        // Updates state when population range form submitted
         let updatePopulationRange = (submitEvent) => {
             submitEvent.preventDefault();
             const minPopulation = parseInt(submitEvent.target.minPopulation.value, 10);
@@ -156,20 +178,25 @@
             props.updateFormState({ minPopulation, maxPopulation });
             props.filterByPopulationRange(minPopulation, maxPopulation);
         }
-
+        // Updates state when text entered into country search bar
         let updateCountrySearch = (inputEvent) => {
             const searchQuery = inputEvent.target.value.toLowerCase();
             props.updateFormState({ searchQuery });
         }
-
+        // Updates state when data gap checkbox clicked
+        let updateZeroCheckbox = (changeEvent) => {
+            const omitZeros = changeEvent.target.checked;
+            props.updateFormState({ omitZeros });
+            props.filterByPopulationRange(props.minPopulation, props.maxPopulation, omitZeros);
+        }
+        // Filter element JSX
         return (
             <React.Fragment>
                 <div className='container'>
                     <div className='row'>
-                        <div className='col-2 text-end'>
-                            <label htmlFor="regionSelect">Region:</label>
-                        </div>
+                        <div className='col-1'></div>
                         <div className='col-4'>
+                        <label htmlFor="regionSelect">Region:</label>
                         <select id="regionSelect" onChange={updateRegion}>
                             <option value="">All regions</option>
                             <option value="Australia and New Zealand">Australia and New Zealand</option>
@@ -190,31 +217,37 @@
                             <option value="Western Asia">Western Asia</option>
                             <option value="Western Europe">Western Europe</option>
                             </select>
-                        </div>
-                        <div className='col-2 text-end'>
+                        </div>                
+                        <div className='col-3'>
                             <label htmlFor="countrySearch">Search Country:</label>
-                        </div>
-                        <div className='col-4'>
                             <input type="text" id="countrySearch" onChange={updateCountrySearch}/>
+                        </div>
+                        <div className='col-2'>
+                            <label htmlFor="zeroCheckbox">Omit Data Gaps:&nbsp;</label>
+                            <input type="checkbox" id="zeroCheckbox" onChange={updateZeroCheckbox} />
                         </div>
                     </div>
                     <div className='row'>
-                        <div className='col-2 text-end'>
-                            <label htmlFor="populationSort">Population: </label>
-                        </div>
+                        <div className='col-1'></div>
                         <div className='col-3'>
-                            <select id="populationSort" onChange={updateSort}>
-                                <option value="Population high to low">Population high to low</option>
-                                <option value="Population low to high">Population low to high</option>
-                            </select>
+                        <label htmlFor="populationSort">Sort Method: </label>
+                        <select id="populationSort" onChange={updateSort}>
+                            <option value="Population high to low">Population high to low</option>
+                            <option value="Population low to high">Population low to high</option>
+                            <option value="Total estimate high to low">Total estimate high to low</option>
+                            <option value="Total estimate low to high">Total estimate low to high</option>
+                        </select>
                         </div>
-                        <div className='col-7'>
-                            <form onSubmit={updatePopulationRange}>
-                                <label htmlFor="minPopulation">Min:</label>
-                                <input type="number" name="minPopulation"/>
-                                <label htmlFor="maxPopulation">Max:</label>
-                                <input type="number" name="maxPopulation"/>
-                                <button type="submit">Apply</button>
+                        <div className='col-1'></div>
+                        <div className='col-6'>
+                            <label htmlFor="popRangeForm">Population Range:</label>
+                            <form name="popRangeForm" onSubmit={updatePopulationRange}>
+                                {/* <label htmlFor="minPopulation">Min:</label> */}
+                                <input type="number" placeholder="Minimum" name="minPopulation"/>
+                                <label htmlFor="maxPopulation">&nbsp;to&nbsp;</label>
+                                <input type="number" placeholder="Maximum" name="maxPopulation"/>
+                                <label htmlFor="popRangeSubmit">&nbsp;</label>
+                                <button name="popRangeSubmit" type="submit">Apply</button>
                             </form>
                         </div>
                     </div>
@@ -222,7 +255,7 @@
             </React.Fragment>
         )
     };
-
+    // Contains useful information for the viewer above filters/data table
     const InfoParagraph = () => {
         return (
             <React.Fragment>
@@ -235,7 +268,7 @@
             </React.Fragment>
             )
     };
-
+    // Displayed when originalData is null (during load usually)
     const LoadingMessage = () => {
         return (
             <React.Fragment>
@@ -245,10 +278,10 @@
             </React.Fragment>
         )
     }
-
+    // Where imported data is displayed
     const DataTable = (props) => {
         const { dataToDisplay } = props;
-    
+        // Displayed if data is null or improper format
         if (!dataToDisplay || !Array.isArray(dataToDisplay)) {
             return (
                 <div className="table-responsive">
@@ -267,26 +300,26 @@
                             <th>Region</th>
                             <th>Country</th>
                             <th>Population</th>
+                            <th>Total estimate (tonnes/year)</th>
                             <th>Household estimate (kg/capita/year)</th>
                             <th>Household estimate (tonnes/year)</th>
                             <th>Food service estimate (kg/capita/year)</th>
                             <th>Food service estimate (tonnes/year)</th>
                             <th>Retail estimate (kg/capita/year)</th>
                             <th>Retail service estimate (tonnes/year)</th>
-                            <th>Total estmate (tonnes/year)</th>
                         </tr>
                         {dataToDisplay.map((row, i) => (
                             <tr key={i}>
                                 <td>{row['Region']}</td>
                                 <td>{row['name']}</td>
                                 <td>{row['pop']}</td>
+                                <td>{row['total_estimate']}</td>
                                 <td>{row['household_estimate_pc']}</td>
                                 <td>{row['household_estimate_t']}</td>
                                 <td>{row['food_service_estimate_pc']}</td>
                                 <td>{row['food_service_estimate_t']}</td>
                                 <td>{row['retail_estimate_pc']}</td>
                                 <td>{row['retail_estimate_t']}</td>
-                                <td>{row['total_estimate']}</td>
                             </tr>
                         ))}
                     </tbody>
@@ -294,7 +327,7 @@
             </div>
         );
     };
-
+    // Render
     const container = document.getElementById('react-data-table');
     const root = ReactDOM.createRoot(container);
     const reactDataTable = <ReactDataTable originalData={[]} />;
