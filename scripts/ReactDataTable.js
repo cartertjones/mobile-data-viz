@@ -166,10 +166,10 @@
             <React.Fragment>
                 <div className='container'>
                     <div className='row'>
-                        <div className='col-3'>
+                        <div className='col-2 text-end'>
                             <label htmlFor="regionSelect">Region:</label>
                         </div>
-                        <div className='col-3'>
+                        <div className='col-4'>
                         <select id="regionSelect" onChange={updateRegion}>
                             <option value="">All regions</option>
                             <option value="Australia and New Zealand">Australia and New Zealand</option>
@@ -191,15 +191,15 @@
                             <option value="Western Europe">Western Europe</option>
                             </select>
                         </div>
-                        <div className='col-3'>
+                        <div className='col-2 text-end'>
                             <label htmlFor="countrySearch">Search Country:</label>
                         </div>
-                        <div className='col-3'>
+                        <div className='col-4'>
                             <input type="text" id="countrySearch" onChange={updateCountrySearch}/>
                         </div>
                     </div>
                     <div className='row'>
-                        <div className='col-2'>
+                        <div className='col-2 text-end'>
                             <label htmlFor="populationSort">Population: </label>
                         </div>
                         <div className='col-3'>
@@ -226,8 +226,11 @@
     const InfoParagraph = () => {
         return (
             <React.Fragment>
-                <div className='container'>
-                    <p><b><em>Sam 'BlondeBeard' Sanchez</em></b> was here. He didn't write the code though.</p>
+                <div className='container text-center'>
+                    <p>
+                        The data displayed on this page has been directly sourced from the 2021 UNEP Food Waste Index Report, which can be found{' '}
+                        <a href="https://www.unep.org/resources/report/unep-food-waste-index-report-2021" target="_blank">here</a>.
+                    </p>
                 </div>
             </React.Fragment>
             )
@@ -270,6 +273,7 @@
                             <th>Food service estimate (tonnes/year)</th>
                             <th>Retail estimate (kg/capita/year)</th>
                             <th>Retail service estimate (tonnes/year)</th>
+                            <th>Total estmate (tonnes/year)</th>
                         </tr>
                         {dataToDisplay.map((row, i) => (
                             <tr key={i}>
@@ -282,6 +286,7 @@
                                 <td>{row['food_service_estimate_t']}</td>
                                 <td>{row['retail_estimate_pc']}</td>
                                 <td>{row['retail_estimate_t']}</td>
+                                <td>{row['total_estimate']}</td>
                             </tr>
                         ))}
                     </tbody>

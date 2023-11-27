@@ -16,7 +16,8 @@
         .attr("y", 0 + (margin.top))  // Position above the top margin
         .attr("text-anchor", "middle")  // Center the text anchor
         .attr("id", 'chloropleth-title')
-        .text("Food waste amounts by country");
+        .text("Global population distribution")
+        .attr("class", "graph-title");
     // Map and projection
     const path = d3.geoPath();
     const projection = d3.geoMercator()

@@ -33,9 +33,10 @@ svg = d3.select(parentDiv)
     //title
     svg.append("text")
         .attr("x", width / 2)  // Center the title horizontally
-        .attr("y", 0 - (margin.top / 2))  // Position above the top margin
+        .attr("y", 0 - (margin.top / 2) + 5)  // Position above the top margin
         .attr("text-anchor", "middle")  // Center the text anchor
         .attr("id", 'bar-graph-title')
+        .attr("class", "graph-title")
         .text("Food waste amounts by country");
 
 // Initialize the X axis

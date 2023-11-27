@@ -3,13 +3,33 @@
     box-sizing: border-box;
 }
 
+body {
+    /*image set in specific page ids*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#intro-body {
+    background-image: url("/img/artur-luczka-loAfOVk1eNc-unsplash.jpg");
+}
+#graph-body {
+    background-image: url("/img/artem-balashevsky-pKVHnydK7Tw-unsplash.jpg");
+}
+#table-body {
+    background-image: url("/img/sabbir-ahmed-VDww0MaaxvQ-unsplash.jpg");
+}
+.container {
+    background-color: #F8F8F8;
+}
+
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
     justify-content: center;
 }
  
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 1000px) {
     /* For desktop: */
     .col-1 {width: 8.33%;}
     .col-2 {width: 16.66%;}
@@ -30,7 +50,7 @@
     padding: 15px;
     height: auto;
 
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .row::after {
@@ -38,7 +58,104 @@
     clear: both;
     display: table;
 }
+/* Bootstrap Navbar */
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F8F8F8;
+}
 
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav-item {
+
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-item.active .nav-link {
+    color: #000;
+}
+
+.nav-link i {
+    margin-top: 5px;
+}
+
+#headshot {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.embed-responsive-16by9 {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+
+}
+.embed-responsive-16by9 .embed-responsive-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Adjustments for medium screens */
+@media (min-width: 768px) {
+    .col-md-8 .embed-responsive-16by9 {
+        width: 75%;
+        margin: 0 auto;
+        padding-bottom: 42.18%;
+    }
+    .navbar-brand{
+        font-size: 24px;
+    }
+    #headshot {
+        width: 50px;
+        height: 50px;
+        margin-right: 20px;
+    }
+}
+
+/* Adjustments for large screens */
+@media (min-width: 992px) {
+    .col-lg-6 .embed-responsive-16by9 {
+        width: 50%;
+        margin: 0 auto;
+        padding-bottom: 31.25%;
+    }
+    .navbar-brand{
+        font-size: 28px;
+    }
+}
+
+#graphsButton {
+    justify-content: center;
+    align-items: center;
+}
+#graphsButton:hover {
+    animation: flash 2s infinite;
+}
 
 .tooltip {
     opacity: 0;
@@ -50,7 +167,6 @@
     position: absolute;
 }
 
-
 #chloropleth_dataviz {
     width: 100%;
     height: 100%;
@@ -61,3 +177,22 @@
     height: auto;
     overflow-x: scroll;
 }
+
+.graph-title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#regionSelect{
+    width: 100%;
+    height: auto;
+}
+
+@keyframes flash {
+    0%, 50%, 100% {
+      opacity: 1;
+    }
+    25%, 75% {
+      opacity: 0.5;
+    }
+  }
