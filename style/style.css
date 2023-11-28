@@ -51,7 +51,7 @@ body {
     padding: 15px;
     height: auto;
 
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .row::after {
