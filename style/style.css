@@ -28,8 +28,9 @@ body {
     width: 100%;
     justify-content: center;
 }
- 
-  @media only screen and (min-width: 1000px) {
+
+/* This is required for bootstrap grids to work properly IDK why */
+@media only screen and (min-width: 1000px) {
     /* For desktop: */
     .col-1 {width: 8.33%;}
     .col-2 {width: 16.66%;}
@@ -50,7 +51,7 @@ body {
     padding: 15px;
     height: auto;
 
-    /* border: 2px solid red; */
+    border: 2px solid red;
 }
 
 .row::after {
@@ -196,3 +197,7 @@ body {
       opacity: 0.5;
     }
   }
+
+.graphOption {
+    font-size: 24px;
+}

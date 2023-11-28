@@ -26,7 +26,7 @@
                 .then(csvData => {
                     // Parse CSV data manually
                     const data = this.parseCSV(csvData);
-                    console.log('Parsed data:', data);
+                    // console.log('Parsed data:', data);
                     this.setState({ originalData: data }, () => {
                         // Call sortData after setting the state to ensure it sorts the fetched data
                         this.sortData('Population high to low');
@@ -105,6 +105,7 @@
 
             return data;
         }
+        
         //Page contents
         render() {
             let filteredData = this.state.originalData;
@@ -124,15 +125,15 @@
             }
 
             if (this.state.searchQuery !== '') {
-                console.log('Before filtering:', filteredData);
+                // console.log('Before filtering:', filteredData);
                 filteredData = filteredData.filter(
                     (row) => {
                         const includes = row.name.toLowerCase().includes(this.state.searchQuery);
-                        console.log(`Checking ${row.name}: ${includes}`);
+                        // console.log(`Checking ${row.name}: ${includes}`);
                         return includes;
                     }
                 );
-                console.log('After filtering:', filteredData);
+                // console.log('After filtering:', filteredData);
             }
 
             return (
@@ -156,6 +157,14 @@
             );
         }
     }
+    //Formats string
+    const formatNumber = (number) => {
+        if(number) {
+            return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            // return number.toLocaleString("en-US");
+        }
+        return number;
+    }
     // Filter element logic
     const Filters = (props) => {
         // Updates state when region dropdown value changed
@@ -174,7 +183,7 @@
             submitEvent.preventDefault();
             const minPopulation = parseInt(submitEvent.target.minPopulation.value, 10);
             const maxPopulation = parseInt(submitEvent.target.maxPopulation.value, 10);
-            console.log("Min: " + minPopulation + " Max: " + maxPopulation);
+            // console.log("Min: " + minPopulation + " Max: " + maxPopulation);
             props.updateFormState({ minPopulation, maxPopulation });
             props.filterByPopulationRange(minPopulation, maxPopulation);
         }
@@ -290,7 +299,7 @@
             );
         }
     
-        console.log('Data to display:', dataToDisplay);
+        // console.log('Data to display:', dataToDisplay);
     
         return (
             <div className="table-responsive">
@@ -312,14 +321,14 @@
                             <tr key={i}>
                                 <td>{row['Region']}</td>
                                 <td>{row['name']}</td>
-                                <td>{row['pop']}</td>
-                                <td>{row['total_estimate']}</td>
-                                <td>{row['household_estimate_pc']}</td>
-                                <td>{row['household_estimate_t']}</td>
-                                <td>{row['food_service_estimate_pc']}</td>
-                                <td>{row['food_service_estimate_t']}</td>
-                                <td>{row['retail_estimate_pc']}</td>
-                                <td>{row['retail_estimate_t']}</td>
+                                <td>{formatNumber(row['pop'])}</td>
+                                <td>{formatNumber(row['total_estimate'])}</td>
+                                <td>{formatNumber(row['household_estimate_pc'])}</td>
+                                <td>{formatNumber(row['household_estimate_t'])}</td>
+                                <td>{formatNumber(row['food_service_estimate_pc'])}</td>
+                                <td>{formatNumber(row['food_service_estimate_t'])}</td>
+                                <td>{formatNumber(row['retail_estimate_pc'])}</td>
+                                <td>{formatNumber(row['retail_estimate_t'])}</td>
                             </tr>
                         ))}
                     </tbody>
