@@ -219,7 +219,7 @@
                             </select>
                         </div>                
                         <div className='col-3'>
-                            <label htmlFor="countrySearch">Search Country:</label>
+                            <label htmlFor="countrySearch">Search Country:&nbsp;</label>
                             <input type="text" id="countrySearch" onChange={updateCountrySearch}/>
                         </div>
                         <div className='col-2'>
@@ -230,7 +230,7 @@
                     <div className='row'>
                         <div className='col-1'></div>
                         <div className='col-3'>
-                        <label htmlFor="populationSort">Sort Method: </label>
+                        <label htmlFor="populationSort">Sort Method:&nbsp;</label>
                         <select id="populationSort" onChange={updateSort}>
                             <option value="Population high to low">Population high to low</option>
                             <option value="Population low to high">Population low to high</option>
